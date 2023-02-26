@@ -37,6 +37,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Alexander 23 - Girl 1hour ](https://youtu.be/pz7bPqjqExw)
 1. [Run it midnight kids ft annika wells || (1HR NON STOP}](https://youtu.be/8UY4uY5ma0g)
 1. [[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 노동요로 딱! | 가사 없는 신나는 노래 모음 :기타: | Cory Wong, Vulfpeck - YouTube Music](https://youtu.be/b-47xgkCl9M)
+1. [릴러말즈(Leellamarz) - Trip(Feat .Hannah) 1시간(1hour)](https://youtu.be/1iCf9cZswtM)
+1. [씨잼 킁 (약빨 - 메들리 - 포커페이스) 1시간 반복 | 광고 X](https://youtu.be/1hXVq_2s8Pk)
 
 ### Fast
 
@@ -142,6 +144,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [스키니 브라운 - 이겨: 릴러말즈 이런 플로우도 좋아 🥰](https://youtube.com/shorts/Wb7LyGj5od0?feature=share)
 1. [AeroSmith - DREAM ON](https://youtube.com/shorts/4YXWGmj3ozY?feature=share)
 1. [2002년 그 시절 기억 조작 노래 #2002 #shorts](https://youtube.com/shorts/LmKTt3JfTTc?feature=share)
+1. [imase - night dancer](https://youtube.com/shorts/m0TUQoA8iBU?feature=share)
+1. [Witch Bunny - “ Better Off Alone “](https://youtube.com/shorts/5vt3zRqWkc4?feature=share)
 
 ### Dreamlike
 
