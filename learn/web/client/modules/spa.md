@@ -18,6 +18,7 @@
 1. [Know THIS Before Learning React!](https://youtube.com/shorts/gP7pUZNCPb4?feature=share)
 1. [🌶️ take - React dependency arrays are evil](https://youtube.com/shorts/trT14IkU5Lw?feature=share)
 1. [Suspense in React 18: How it works, and how you can use it](https://www.pluralsight.com/blog/software-development/suspense-react-18-explained#:~:text=Suspense%20is%20the%20first%20feature,intuitive%20API%20to%20work%20with)
+1. [React Suspense: 꼭 알아야되는 차세대 렌더링 방식](https://youtu.be/AdER6IdorqQ)
 
 </details>
 

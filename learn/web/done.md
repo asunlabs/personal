@@ -61,9 +61,6 @@
 1. [What Are _.d.ts files? How to Use _.d.ts Files in TypeScript?](https://youtu.be/s_CZeWuEZ_s)
 1. [Master Node JS : Node fundamental process object - Web Development](https://youtu.be/FrapFIUGki0)
 1. [Stop Putting Your Script Tags At The End Of The Body](https://youtube.com/shorts/cXwnJKflxas?feature=share)
-
-## Nestjs
-
 1. [Introduction to Nest JS - A Node JS framework - from the basics | Nest js tutorials](https://youtu.be/kPz8ofull6w)
 1. [01 Install Nest JS and how Nest Js route works | Nest JS Node JS tutorials](https://youtu.be/ndSMFwXhBA0)
 1. [02 Creating a Module and Controller in Nest JS | Node JS, Javascript, Typescript](https://youtu.be/H6q8O9kRnzs)
@@ -307,5 +304,21 @@
 1. [MySQL Insert query doesn't work with WHERE clause](https://stackoverflow.com/questions/485039/mysql-insert-query-doesnt-work-with-where-clause)
 1. [MySQL error code: 1175 during UPDATE in MySQL Workbench](https://stackoverflow.com/questions/11448068/mysql-error-code-1175-during-update-in-mysql-workbench)
 1. [Add Payhip to Your Website](https://help.payhip.com/article/68-add-payhip-to-your-website#storelink)
+1. [Exit status 4294967295 when passing arguments after a URL #16889](https://github.com/electron/electron/issues/16889)
+1. [NPM docs: depcheck](https://www.npmjs.com/package/depcheck)
+1. [You probably have unused JS dependencies!](https://youtube.com/shorts/3MciA-vgOzo?feature=share)
+1. [5 ways to host MySQL databases: MySQL with Docker](https://www.prisma.io/dataguide/mysql/5-ways-to-host-mysql#mysql-with-docker)
+1. [How TO - JavaScript Progress Bar](https://www.w3schools.com/howto/howto_js_progressbar.asp)
+1. [React onClick event vs JS addEventListener](https://linguinecode.com/post/react-onclick-event-vs-js-addeventlistener)
+1. [MUI docs: Grid](https://mui.com/material-ui/react-grid/)
+1. [How to fix the height of a <div> element?](https://stackoverflow.com/questions/4354722/how-to-fix-the-height-of-a-div-element)
+1. [Github: NikValdez/rich-text-editor-tut](https://github.com/NikValdez/rich-text-editor-tut)
+1. [Build a Rich Text Editor in React](https://youtu.be/kykC7i9VUE4)
+1. [React 18: Suspense USE CASE EXAMPLE](https://youtu.be/M7epLYiORAE)
+1. [언제 Promise.all을 사용해야 할까?](https://code-masterjung.tistory.com/91)
+1. []()
+1. []()
+1. []()
+1. []()
 
 </details>
