@@ -165,5 +165,15 @@
 1. [Delete all elements from an array?](https://ethereum.stackexchange.com/questions/46209/delete-all-elements-from-an-array)
 1. [lint-staged npm package does not read .solhintignore #263](https://github.com/protofire/solhint/issues/263)
 1. [protofire/solhint: solhint - no-global-import](https://github.com/protofire/solhint/blob/master/docs/rules/best-practises/no-global-import.md)
+1. [Learn 10 Expert Solidity Gas Optimization Techniques](https://www.alchemy.com/overviews/solidity-gas-optimization)
+1. [EIP - core EIPs](https://eips.ethereum.org/erc)
+1. [ERC-5192: Minimal Soulbound NFTs](https://eips.ethereum.org/EIPS/eip-5192)
+1. [ERC-5192: Minimal Soulbound NFTs](https://ansubin.com/erc-5192/)
+1. [Github: OpenZeppelin ERC20PresetFixedSupply](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol)
+1. [Github: OpenZeppelin ERC721Wrapper](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Wrapper.sol)
+1. [Github: OpenZeppelin ERC721Royalty](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Royalty.sol)
+1. [Github: OpenZeppelin IERC1363](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/IERC1363.sol)
+1. []()
+1. []()
 
 </details>
