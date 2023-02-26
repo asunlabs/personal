@@ -1,0 +1,73 @@
+<details>
+<summary>January, 2023</summary>
+
+1. [이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화](https://youtu.be/3U0cbzmwSYc)
+1. [이 이력서, 누구 거에요? | 인프콘 2022](https://youtu.be/xbBPNT04GiE)
+1. [첫 회사가 중요한 이유 && 그거 보다 더 중요한 것.](https://youtu.be/Fd646jXu3lc)
+1. [Linkedin: 커리어 이동시 문화의 힘을 무시하지 마라](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9D%B4%EB%8F%99%EC%8B%9C-%EB%AC%B8%ED%99%94%EC%9D%98-%ED%9E%98%EC%9D%84-%EB%AC%B4%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%88%EB%9D%BC-1-%EC%96%BC%EB%A7%88%EC%A0%84-%EB%8C%80%EA%B8%B0%EC%97%85-ab%EC%82%AC-activity-7009768078888636416-YT-O?utm_source=share&utm_medium=member_desktop)
+1. [배민다움 - 휴가에는 사유가 없습니다](https://story.baemin.com/5104/)
+1. [개인 시간 중요한 2030, 코로나 이후 "정치 제외한 진짜 일잘러 드러나".."대면 업무 줄어들어 만족"](https://www.dailypop.kr/news/articleView.html?idxno=55363)
+1. [클리앙 - 스타트업에 취업하는 팁](https://m.clien.net/service/board/lecture/17232747)
+1. [ZUZU: 스타트업 투자 라운드 핵심 총정리](https://zuzu.network/resource/guide/investment-round/)
+1. [가격이 떡락하는 애플 신제품? M2 Pro&Max를 탑재한 맥북프로, 맥미니 총정리!](https://youtu.be/K_QqR9n350A)
+1. [재택근무 n년차 회사에서 일하는 법](https://brunch.co.kr/@jeongggjae/11)
+1. [혼자하는 앱 개발, 완벽한 앱 만들기](https://youtu.be/3hSCJhpA-IU)
+1. [Z세대 ‘희생’ 강요말라 ‘정시퇴근’ 필수…그런데 우리 중소기업은 어쩝니까](https://news.unn.net/news/articleView.html?idxno=525345)
+1. []
+1. []
+1. []
+
+</details>
+
+<details>
+<summary>February, 2023</summary>
+
+1. [신입·저연차 청년 취업·채용 돕는다…원티드랩·루트임팩트 맞손](https://news.mt.co.kr/mtview.php?no=2023020314401941976)
+1. [스타트업 회사가 망할때 😭 퇴사각 잡기](https://youtu.be/_ZoVOIsjhJs)
+1. [IT 서비스 개발에 실패하는 대표적인 케이스 3가지](https://youtu.be/o4aYUuQfnNI)
+1. [개발자 입사 전 스타트업 파악하기](https://youtu.be/_vRP6qeUpo8)
+1. [mz세대가 퇴사하는 이유](https://brunch.co.kr/@d0250fc42e924d3/8)
+1. [퇴사한 이형 - 퇴사할 때 절대 하면 안 되는 실수](https://youtu.be/dTnz2aHvZwg)
+1. [퇴사한 이형 - 설마 벌써 퇴근하게?](https://youtube.com/shorts/SExJGy2-7KA?feature=share)
+1. [퇴사한 이형 - 퇴사할 때 하면 안 되는 말](https://youtu.be/lXg0HVu-3OA)
+1. [퇴사한 이형 - 이거 모르면 퇴사할 때 개고생 합니다](https://youtu.be/z8NcRVRlCjY)
+1. [망하는 스타트업을 고르는 방법](https://ppss.kr/archives/127005)
+1. [인사총괄책임자가 알려주는, "신입도 연봉협상 가능 한가요?" (이거 꼭 보자! 인사팀의 속마음 알려줄께)](https://youtu.be/eLG8IgYBPqM)
+1. [사업주 미납 탓에 지난해 80만명 국민연금 보험료 체납](https://m.khan.co.kr/national/health-welfare/article/202209281106001#c2b)
+1. [사람 귀한 게임업계… 연봉 올리고 일한만큼 돈 더 준다 [게임업계 유연 근무제 확산]](https://www.fnnews.com/news/202205161816151627)
+1. [게임 개발자 “정부 주 69시간 노동 허용, 모든 산업이 ‘판교의 등대’ 될 것”](https://m.khan.co.kr/national/labor/article/202212152059005#c2b)
+1. [두 군데의 스타트업에서 개발자로 일하면서 느낀 점](https://devowen.com/220)
+1. [[단독] “이제 출근하지 마세요”...권고사직 칼바람 부는 기업은](https://www.mk.co.kr/news/it/10626005)
+1. [초기 스타트업은 어떤 개발자를 채용해야 하나](https://insomenia.com/articles/2)
+1. [혼자 개발해서 부자되는, 1인 개발의 세계](https://youtu.be/Kp1j2zVNhYA)
+1. [1인 개발, 나에게 맞는 개발 아이템 찾기](https://youtu.be/qopqnMw26Vw)
+1. [내가 만들었다 실패한 앱, Fanbase](https://youtu.be/w9xJMN__RaA)
+1. [1인 개발로 경제적 자유 달성하고 건물주 생활하는 개발자 인터뷰](https://youtu.be/L6TNhTNHRIA)
+1. [개발자가 사업하면 망하는 이유 3가지](https://youtu.be/IzAiifxcsQU)
+1. [[직장인 완생]"해고 같은 권고사직?…무엇이 어떻게 다른가요"](https://mobile.newsis.com/view.html?ar_id=NISX20220408_0001825716#_enliple)
+1. [권고사직시키면 회사에 불이익이 생길까?](https://www.heumtax.com/blog/%EA%B6%8C%EA%B3%A0%EC%82%AC%EC%A7%81%EC%8B%9C%ED%82%A4%EB%A9%B4_%ED%9A%8C%EC%82%AC%EC%97%90_%EB%B6%88%EC%9D%B4%EC%9D%B5%EC%9D%B4_%EC%83%9D%EA%B8%B8%EA%B9%8C)
+1. [퇴사한 이형 - 이런 회사는 절대 가지 마세요](https://youtu.be/qGKaKnDEr80)
+1. [인력이 부족해 인기 높아지는 코딩 작업 외주화, 장점과 단점](http://m.boannews.com/html/detail.html?idx=109759)
+1. [집에서 월 천만원 버는 방법! (ft. 프리랜서의 삶)](https://youtu.be/CAOtLesbu_w)
+1. [외주 개발 잘 맡기는 방법](https://youtu.be/s7DA0d7GhYU)
+1. [개발자에게 디자인은 기대하지 말자](https://youtu.be/R3DEyjJVLrI)
+1. [프리랜서는 얼마 받아야 하나요? | 개발자 | 디자이너 | 프리랜서 | 외주 | 수입 | 월급 | 알바 | 대학생](https://youtu.be/Ir8_e6RfIac)
+1. [돈 준다고 아무거나 하면 큰일난다 진짜 (feat. 외주) | 개발 | IT | 프로그래밍 | 외주 | 클라이언트 | 서버 | 알바 | 개발자 | 코딩](https://youtu.be/CURBoDiEW5c)
+1. [외주를 맡기려면 뭐부터 해야하죠? 1. '알아서 해주세요'는 안된다구요?](https://yozm.wishket.com/magazine/detail/458/)
+1. [외주를 맡기려면 뭐부터 해야하죠? 2. 화려하면서도 심플한걸 원해요!](https://yozm.wishket.com/magazine/detail/459/)
+1. [외주를 맡기려면 뭐부터 해야하죠? 3. 요구사항을 문서화하라구요?](https://yozm.wishket.com/magazine/detail/460/)
+1. ["7명 뽑았는데 9명 나갔어요" "5명 합격에 서넛은 안 와요" [뉴스.zip/MBC뉴스]](https://youtu.be/ZA0nSno9J08)
+1. [[연봉] 2~3년차 개발자들은 연봉을 얼마나 받을까?](https://devowen.com/446#:~:text=%ED%8F%89%EA%B7%A0%20%EA%B0%92%EC%9D%84%20%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C,%EC%9D%B4%20%EB%90%A8%EC%9D%84%20%EC%95%8C%20%EC%88%98%20%EC%9E%88%EB%8B%A4)
+1. [[창업] 외주개발과 자체개발 중 고민이라면 (나만의 웹사이트, 앱 만들기)](https://wukbro.tistory.com/entry/%EC%B0%BD%EC%97%85-%EC%99%B8%EC%A3%BC%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%9E%90%EC%B2%B4%EA%B0%9C%EB%B0%9C-%EC%A4%91-%EA%B3%A0%EB%AF%BC%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+1. [외주로 좋은 온라인 서비스 개발이 어려운 이유](https://applefish.tistory.com/entry/%EC%99%B8%EC%A3%BC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%9D%B4%EC%9C%A0)
+1. [스타트업이 외주 개발을 하면 안 되는 이유와 현실적인 해결방법](https://www.waveon.io/blog/programming-outsourcing)
+1. [연말정산 환급금 지급일 언제일까?](https://m.blog.naver.com/lands23/221811686284)
+1. ["7명 뽑았는데 9명 나갔어요" "5명 합격에 서넛은 안 와요" [뉴스.zip/MBC뉴스]](https://youtu.be/ZA0nSno9J08)
+1. [[잡쑤로드 시즌1 Final] 마침내, 링크스타터 서비스를 종료하며 | 스타트업 | 플랫폼 | 커리어](https://youtu.be/hVRiLAqx7fM)
+1. [스타트업 잡스 - 피봇합니다](https://youtu.be/8NA-LMMc0MM)
+1. [스타트업 EXIT썰 풀어드립니다! | 구독자 2만명 달성, 감사합니다 :](https://youtu.be/AKJkOfMsnwQ)
+1. [스타트업 잡스 - 주니어 신입은 어떤 스타트업에 적합할까?](https://youtu.be/Fg8DrM_RRmY)
+1. [Open salary: 중견기업 신입연봉 TOP 10](https://www.opensalary.com/contents/?contno=415106)
+1. [대한민국 직장인의 월급날이 25일인 이유](https://blog.hanabank.com/1462)
+
+</details>
