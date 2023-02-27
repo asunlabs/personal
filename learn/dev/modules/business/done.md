@@ -13,9 +13,12 @@
 1. [재택근무 n년차 회사에서 일하는 법](https://brunch.co.kr/@jeongggjae/11)
 1. [혼자하는 앱 개발, 완벽한 앱 만들기](https://youtu.be/3hSCJhpA-IU)
 1. [Z세대 ‘희생’ 강요말라 ‘정시퇴근’ 필수…그런데 우리 중소기업은 어쩝니까](https://news.unn.net/news/articleView.html?idxno=525345)
-1. []
-1. []
-1. []
+1. [스톡옵션(stock option)의 모든 것 - 의미, 부여절차, 행사조건, 행사가액 및 세금에 대하여]()
+1. [IT업계 ‘잔치 끝?’… 인건비 부담에 ‘인원감축 카드’ 꺼내나](https://www.skyedaily.com/news/news_view.html?ID=163669)
+1. [[Tech & BIZ] 올해 스마트폰으로 가장 많이 결제된 앱은… 유튜브 아닌 데이트 앱 '틴더'](https://biz.chosun.com/site/data/html_dir/2019/12/26/2019122600104.html)
+1. []()
+1. []()
+1. []()
 
 </details>
 
