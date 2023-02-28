@@ -316,8 +316,8 @@
 1. [Build a Rich Text Editor in React](https://youtu.be/kykC7i9VUE4)
 1. [React 18: Suspense USE CASE EXAMPLE](https://youtu.be/M7epLYiORAE)
 1. [언제 Promise.all을 사용해야 할까?](https://code-masterjung.tistory.com/91)
-1. []()
-1. []()
+1. [MUI docs:Box: The sx prop](https://mui.com/material-ui/react-box/#the-sx-prop)
+1. [CSS Property Border-Color Not Working](https://stackoverflow.com/questions/14156674/css-property-border-color-not-working)
 1. []()
 1. []()
 

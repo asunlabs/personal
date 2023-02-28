@@ -173,6 +173,10 @@
 1. [Github: OpenZeppelin ERC721Wrapper](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Wrapper.sol)
 1. [Github: OpenZeppelin ERC721Royalty](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Royalty.sol)
 1. [Github: OpenZeppelin IERC1363](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/IERC1363.sol)
+1. [How to convert an bytes to address in Solidity?](https://ethereum.stackexchange.com/questions/15350/how-to-convert-an-bytes-to-address-in-solidity)
+1. [How to convert an address to bytes in Solidity?](https://ethereum.stackexchange.com/questions/884/how-to-convert-an-address-to-bytes-in-solidity)
+1. [ABI encode and decode using solidity](https://medium.com/coinmonks/abi-encode-and-decode-using-solidity-2d372a03e110)
+1. [Clearing a custom struct](https://ethereum.stackexchange.com/questions/10478/clearing-a-custom-struct)
 1. []()
 1. []()
 

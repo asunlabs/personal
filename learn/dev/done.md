@@ -272,5 +272,12 @@
 1. [Github: dependabot/dependabot-core : How to add multiple directories in dependabot.yml config file? #2824](https://github.com/dependabot/dependabot-core/issues/2824)
 1. [윈도우 탐색기로 간단히 FTP접속하기!](https://studyforus.tistory.com/101)
 1. [Cat is not recognized as an internal or external command](https://stackoverflow.com/questions/51831938/cat-is-not-recognized-as-an-internal-or-external-command)
+1. [회사에 사수가 없으면..? 그리고 폭풍질문](https://youtu.be/fBqyUk8-efE)
+1. [Extension of the Week: Reactree #vscode #coding #react](https://youtube.com/shorts/6qegIBVX2Qw?feature=share)
+1. [Java, Gradle, and VS Code 😎🍵](https://youtube.com/shorts/0xq_ZYfl6Vk?feature=share)
+1. []()
+1. []()
+1. []()
+1. []()
 
 </details>

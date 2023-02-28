@@ -8,6 +8,16 @@
 </details>
 
 <details>
+<summary>Java for web3</summary>
+
+1. [[java & ethereum] web3j를 통해 ethereum과 통신해보기](https://sabarada.tistory.com/17)
+1. [Github: web3j/web3j](https://github.com/web3j/web3j)
+1. []()
+1. []()
+
+</details>
+
+<details>
 <summary>Web3</summary>
 
 1. [Github: alchemyplatform/create-web3-dap](https://github.com/alchemyplatform/create-web3-dapp)
