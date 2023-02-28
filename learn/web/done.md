@@ -318,6 +318,13 @@
 1. [언제 Promise.all을 사용해야 할까?](https://code-masterjung.tistory.com/91)
 1. [MUI docs:Box: The sx prop](https://mui.com/material-ui/react-box/#the-sx-prop)
 1. [CSS Property Border-Color Not Working](https://stackoverflow.com/questions/14156674/css-property-border-color-not-working)
+1. [MUI docs: useMediaQuery](https://mui.com/material-ui/react-use-media-query/)
+1. [How to Creating a custom 404 Page with React Routers?](https://naveenda.medium.com/creating-a-custom-404-notfound-page-with-react-routers-56af9ad67807)
+1. [신입 개발자의 회사 입사, 퇴사 그리고 결정까지의 과정](https://www.leesunhong.com/34)
+1. [Blind: 이직 후에 퍼포먼스 어떻게 끌어올려?](https://www.teamblind.com/kr/post/%EC%9D%B4%EC%A7%81-%ED%9B%84%EC%97%90-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-43JPNUd8)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 

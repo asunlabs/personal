@@ -275,7 +275,7 @@
 1. [회사에 사수가 없으면..? 그리고 폭풍질문](https://youtu.be/fBqyUk8-efE)
 1. [Extension of the Week: Reactree #vscode #coding #react](https://youtube.com/shorts/6qegIBVX2Qw?feature=share)
 1. [Java, Gradle, and VS Code 😎🍵](https://youtube.com/shorts/0xq_ZYfl6Vk?feature=share)
-1. []()
+1. [주니어 개발자를 위한(?) 경력 이력서 잘 쓰기](https://youtu.be/gpUsWBGkDFQ)
 1. []()
 1. []()
 1. []()
