@@ -177,6 +177,18 @@
 1. [How to convert an address to bytes in Solidity?](https://ethereum.stackexchange.com/questions/884/how-to-convert-an-address-to-bytes-in-solidity)
 1. [ABI encode and decode using solidity](https://medium.com/coinmonks/abi-encode-and-decode-using-solidity-2d372a03e110)
 1. [Clearing a custom struct](https://ethereum.stackexchange.com/questions/10478/clearing-a-custom-struct)
+
+</details>
+
+<details>
+<summary>March, 2023</summary>
+
+1. [Github: openzeppelin create2.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Create2.sol)
+1. [Github: openzeppelin DoubleEndedQueue.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/structs/DoubleEndedQueue.sol)
+1. [What is msg.data?](https://ethereum.stackexchange.com/questions/14037/what-is-msg-data)
+1. [passing msg.data in external contract using delegate call](https://stackoverflow.com/questions/71565992/passing-msg-data-in-external-contract-using-delegate-call)
+1. []()
+1. []()
 1. []()
 1. []()
 

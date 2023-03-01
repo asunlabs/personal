@@ -183,6 +183,7 @@
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
+1. [CREATE2는 정말 문제가 없을까?](https://medium.com/onther-tech/create2-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%B6%84%EC%84%9D-d82e913ad28b)
 
 </details>
 

@@ -276,6 +276,12 @@
 1. [Extension of the Week: Reactree #vscode #coding #react](https://youtube.com/shorts/6qegIBVX2Qw?feature=share)
 1. [Java, Gradle, and VS Code 😎🍵](https://youtube.com/shorts/0xq_ZYfl6Vk?feature=share)
 1. [주니어 개발자를 위한(?) 경력 이력서 잘 쓰기](https://youtu.be/gpUsWBGkDFQ)
+</details>
+
+<details>
+<summary>March, 2023</summary>
+
+1. [The HARSH truth about Game Dev 👩‍💻 #technology #programming #software #gamedev #career](https://youtube.com/shorts/drURIjYtrP0?feature=share)
 1. []()
 1. []()
 1. []()

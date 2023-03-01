@@ -1,12 +1,10 @@
 1. [더러운 if문 이쁘게 바꾸기](https://youtu.be/PAR60O5aXTA)
 1. [윈도우로 개발을 한다고? feat. WSL](https://youtu.be/7eVG4o8mS_I)
-
 1. [Software Engineer Ranks Programming Languages](https://youtu.be/6FEYcBPBGOk)
 1. [Github: why Slidev](https://sli.dev/guide/why.html)
 1. [Github: foliojs/pdfkit](https://github.com/foliojs/pdfkit)
 1. [JavaScript로 요즘 유행하는 Wordle 게임 만들기 (개쉬움)](https://youtu.be/npvrAzxgTOQ)
-1. []()
-1. []()
+1. [What is a microservice architecture and it's advantages?](https://youtu.be/qYhRvH9tJKw)
 1. []()
 1. []()
 
