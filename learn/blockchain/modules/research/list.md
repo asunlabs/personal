@@ -3,6 +3,7 @@
 <details>
 <summary>EIP</summary>
 
+1. [ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
 1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)

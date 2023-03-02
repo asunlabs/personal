@@ -74,3 +74,12 @@
 1. [대한민국 직장인의 월급날이 25일인 이유](https://blog.hanabank.com/1462)
 
 </details>
+
+<details>
+<summary>March, 2023</summary>
+
+1. [블록체인 기업 '페어스퀘어랩', 100억 투자 유치](https://www.venturesquare.net/862294)
+1. []()
+1. []()
+
+</details>

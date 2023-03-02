@@ -282,7 +282,7 @@
 <summary>March, 2023</summary>
 
 1. [The HARSH truth about Game Dev 👩‍💻 #technology #programming #software #gamedev #career](https://youtube.com/shorts/drURIjYtrP0?feature=share)
-1. []()
+1. [내가 안쓰는 언어로 공유되는 꿀맛같은 좋은 구조.. 해당 언어를 배워야하나요?](https://youtu.be/Dlvs0ay2V60)
 1. []()
 1. []()
 
