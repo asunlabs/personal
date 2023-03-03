@@ -79,7 +79,7 @@
 <summary>March, 2023</summary>
 
 1. [블록체인 기업 '페어스퀘어랩', 100억 투자 유치](https://www.venturesquare.net/862294)
-1. []()
-1. []()
+1. [K리그 프로그래머 - 사용자 10만 명의 서비스를 만들기](https://brunch.co.kr/@buildingking/117)
+1. [K리그 프로그래머 - 왜 하필 소개팅 어플을 만들기로 했어요?](https://jeho.page/essay/2021/09/07/%EC%99%9C-%ED%95%98%ED%95%84-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%96%B4%ED%94%8C%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%96%B4%EC%9A%94.html)
 
 </details>

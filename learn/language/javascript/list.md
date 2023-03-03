@@ -45,5 +45,12 @@
 2. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
 3. [TypeScript Utility Types: Omit and Pick](https://youtube.com/shorts/0FoXZsBfJD0?feature=share)
 4. [The one problem only GENERICS can solve](https://youtube.com/shorts/IvDS2DZbWW0?feature=share)
+5. [🔥 TypeScript's `never` type explained](https://youtu.be/d2sANVj4f2Y)
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
 
 </details>

@@ -283,6 +283,13 @@
 
 1. [The HARSH truth about Game Dev 👩‍💻 #technology #programming #software #gamedev #career](https://youtube.com/shorts/drURIjYtrP0?feature=share)
 1. [내가 안쓰는 언어로 공유되는 꿀맛같은 좋은 구조.. 해당 언어를 배워야하나요?](https://youtu.be/Dlvs0ay2V60)
+1. [짧은 스타트업생활을 마치고 돌아왔습니다..+1인개발 진행상황](https://youtu.be/-nEIYxw6OsE)
+1. [사사뽀 EP1 퇴사한 개발자 뭐해먹고 살까? 리얼창업브이로그](https://youtu.be/Gupr-7QhNFc)
+1. [사사뽀 EP2 웹개발 수익 대박? 개발자가 경험한 애드센스 문제점. 개발자창업도전기](https://youtu.be/QyVE44ZHt8k)
+1. [사사뽀 EP3 코딩 외주와 견적내기..과연 나랏돈 대박일까? feat.공공기관 프로젝트 주의사항. 개발자창업도전기](https://youtu.be/QyVE44ZHt8k)
+1. [사사뽀 EP4 좋아하는 것 잘 하는 것 그리고 시장이 원하는 것..?개발자창업도전기](https://youtu.be/qketdQUgehs)
+1. [EP5 수익형 웹개발..완벽한 창업아이템을 완성했습니다 feat. 아마존 플라이휠 개발자창업도전기](https://youtu.be/ScCwZjtKzgk)
+1. []()
 1. []()
 1. []()
 
