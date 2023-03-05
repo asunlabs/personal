@@ -8,6 +8,17 @@
 </details>
 
 <details>
+<summary>Rust for web3</summary>
+
+1. [Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough](https://youtu.be/P22z9n1np9A)
+1. [Github: solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld)
+1. []()
+1. []()
+1. []()
+
+</details>
+
+<details>
 <summary>Java for web3</summary>
 
 1. [[java & ethereum] web3j를 통해 ethereum과 통신해보기](https://sabarada.tistory.com/17)
