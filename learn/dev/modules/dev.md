@@ -5,6 +5,9 @@
 1. [Github: foliojs/pdfkit](https://github.com/foliojs/pdfkit)
 1. [JavaScript로 요즘 유행하는 Wordle 게임 만들기 (개쉬움)](https://youtu.be/npvrAzxgTOQ)
 1. [What is a microservice architecture and it's advantages?](https://youtu.be/qYhRvH9tJKw)
+1. [Is tRPC The End Of REST/GraphQL?](https://youtu.be/lxnPMB0Jc7E)
+1. [Github: wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
+1. []()
 1. []()
 1. []()
 

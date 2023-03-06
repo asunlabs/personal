@@ -316,6 +316,12 @@
 1. [How to Creating a custom 404 Page with React Routers?](https://naveenda.medium.com/creating-a-custom-404-notfound-page-with-react-routers-56af9ad67807)
 1. [신입 개발자의 회사 입사, 퇴사 그리고 결정까지의 과정](https://www.leesunhong.com/34)
 1. [Blind: 이직 후에 퍼포먼스 어떻게 끌어올려?](https://www.teamblind.com/kr/post/%EC%9D%B4%EC%A7%81-%ED%9B%84%EC%97%90-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-43JPNUd8)
+
+</details>
+
+<details>
+<summary>March, 2023</summary>
+
 1. [NPM docs: react-helmet](https://www.npmjs.com/package/react-helmet)
 1. [Adding script tag to React/JSX](https://stackoverflow.com/questions/34424845/adding-script-tag-to-react-jsx)
 1. [Error: Invalid login: Application-specific password required](https://stackoverflow.com/questions/60701936/error-invalid-login-application-specific-password-required)
@@ -346,6 +352,17 @@
 1. [MUI Button hover background color and text color](https://stackoverflow.com/questions/64983425/mui-button-hover-background-color-and-text-color)
 1. [W3schools: CSS Box Shadow](https://www.w3schools.com/css/css3_shadows_box.asp)
 1. [MUI docs: color customization](https://mui.com/material-ui/customization/palette/#customization)
+1. [Vitest docs: Why Vitest](https://vitest.dev/guide/why.html#why-vitest)
+1. [Netlify Functions에 대해 알아보자](https://negabaro.github.io/archive/netlify-functions)
+1. [[Netlify] 서버리스 배포](https://solyi.kr/m/206)
+1. [github: nfl/react-helmet](https://github.com/nfl/react-helmet)
+1. [How to Add PayPal Checkout to a React App](https://youtu.be/AGDaLOawJSc)
+1. [Github: cosmtrek/air](https://github.com/cosmtrek/air#motivation)
+1. [Github: Why use react-paypal-js?](https://github.com/paypal/react-paypal-js#why-use-react-paypal-js)
+1. [NPM docs: @paypal/react-paypal-js](https://www.npmjs.com/package/@paypal/react-paypal-js)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()

@@ -69,3 +69,12 @@
 25. [The BEST way to learn the cloud 👩‍💻 #ad #AWSSkillBuilder #programming #software #developer](https://youtube.com/shorts/h7avExKtRN4?feature=share)
 
 </details>
+
+<details>
+<summary>March, 2023</summary>
+
+1. [Netlify docs: Sample netlify.toml file](https://docs.netlify.com/configure-builds/file-based-configuration/#sample-netlify-toml-file)
+1. []()
+1. []()
+
+</details>

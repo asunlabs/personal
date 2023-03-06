@@ -18,6 +18,7 @@
 1. [Decentralized vs Centralized Exchanges | Dex vs CEX explained |Cryptocurrency Guide](https://youtu.be/JIWMHC9tdEY)
 1. [How To Setup a Prysm Validator Node](https://youtu.be/IktSMvi3ORQ)
 1. [How to Be a Prysm Ethereum 2.0 Validator](https://youtu.be/EtNL0ZOv0k8)
+1. [Github: Uniswap/wallet](https://github.com/Uniswap/wallet)
 
 </details>
 

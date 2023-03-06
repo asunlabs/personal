@@ -12,6 +12,9 @@
 
 1. [Solana Smart Contract Development: Hello World Tutorial | Rust and Typescript walkthrough](https://youtu.be/P22z9n1np9A)
 1. [Github: solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld)
+1. [Rust Smart Contract Best Practices](https://youtu.be/65FYXKeaGJo)
+1. [Solana | Build and Deploy a Solana Smart Contract (Hello World) using Rust](https://youtu.be/Mh_tvdkhJjA)
+1. []()
 1. []()
 1. []()
 1. []()

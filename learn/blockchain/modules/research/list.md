@@ -19,6 +19,21 @@
 </details>
 
 <details>
+<summary>EVM</summary>
+
+1. [Ethereum Explained: The EVM](https://youtu.be/kCswGz9naZg)
+1. [What is Ethereum Virtual Machine (EVM)? Programmer explains](https://youtu.be/GPoze5RmDVU)
+1. [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
+1. [EVM Bytecode ABI Gas and Gas Price](https://youtu.be/HcOWNxL3Iy0)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+
+</details>
+
+<details>
 <summary>Block explorer</summary>
 
 1. [Polygonscan API docs](https://polygonscan.com/apis)
@@ -166,11 +181,6 @@
 8. [Cosmos SDK](https://docs.cosmos.network/)
 9. [Hedera SDK](https://docs.hedera.com/guides/)
 10. [Changer protocol](https://docs.changer.io/)
-
-<details>
-<summary>DAO</summary>
-
-</details>
 
 <details>
 <summary>Articles</summary>
