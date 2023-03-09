@@ -172,6 +172,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [데이빗 사바스찬 (David Sabastian) - Beyoncé's Perfect 가사 번역 뮤직비디오](https://youtu.be/Eoax1xMppAc)
 1. [AeroSmith - Dream on [English Subtitles/Lyrics | 한국어 가사/해석/자막]](https://youtu.be/Ej4pXB2oBJY)
 1. [Life of Hojj - 월요일 (Monday)](https://youtu.be/WF39hrd8NLA)
+1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
 
 ### Emotional
 

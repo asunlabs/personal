@@ -3,6 +3,9 @@
 <details>
 <summary>EIP</summary>
 
+1. [Chainlink - The new ERC-4337 standard has the potential to completely transform #Web3 UX through account abstraction]()
+1. [개인지갑을 컨트랙트로!! AA(Account Abstraction)](https://www.youtube.com/watch?v=9IbE-snXE6o)
+1. [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 1. [ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
@@ -25,6 +28,18 @@
 1. [What is Ethereum Virtual Machine (EVM)? Programmer explains](https://youtu.be/GPoze5RmDVU)
 1. [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
 1. [EVM Bytecode ABI Gas and Gas Price](https://youtu.be/HcOWNxL3Iy0)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+
+</details>
+
+<details>
+<summary>Blockchain </summary>
+
+1. [How to Build a Blockchain App with Cosmos SDK | Jack Zampolin](https://youtu.be/pyAmxlzVdqM)
 1. []()
 1. []()
 1. []()
