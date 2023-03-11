@@ -384,11 +384,5 @@
 1. [This New CSS Feature Makes Media Queries So Much Easier](https://youtube.com/shorts/IQqpnu6AhE8?feature=share)
 1. [PayPal sandbox testing guide](https://developer.paypal.com/tools/sandbox/#link-thetestingprocess)
 1. [Paypal integration with React.js app](https://medium.com/@raneen.medhat/paypal-integration-with-react-js-app-test-inviroment-4fb0aefa19cc)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
 
 </details>

@@ -181,8 +181,3 @@
 1. [Wagmi: prepare hooks](https://wagmi.sh/react/prepare-hooks)
 
 </details>
-
-<details>
-<summary>January, 2023</summary>
-
-</details>

@@ -39,3 +39,18 @@
 1. []()
 
 </details>
+
+<details>
+<summary>Static</summary>
+
+1. [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://youtu.be/qtIqKaDlqXo)
+
+</details>
+
+<details>
+<summary>Browser</summary>
+
+1. [What Is Chromium?](https://youtu.be/6Efm0myNng8)
+1. [Google Chrome vs Chromium - What's the Difference?](https://youtu.be/xxuioJkc0J8)
+
+</details>

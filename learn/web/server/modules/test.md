@@ -16,6 +16,7 @@
 1. [How to Set Up a PostgreSQL Database with Docker](https://youtu.be/RdPYA-wDhTA)
 1. [Run Postgres, MySQL and MongoDB in under 60 seconds with docker #shorts](https://youtube.com/shorts/jvEHUkqbf6o?feature=share)
 1. [Using Docker to Manage Your Test Database(s)](https://www.tonic.ai/blog/using-docker-to-manage-your-test-database)
+1. [Writing Good Unit Tests; Don't Mock Database Connections](https://blog.boot.dev/clean-code/writing-good-unit-tests-dont-mock-database-connections/)
 
 </details>
 
