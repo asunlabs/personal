@@ -49,6 +49,12 @@
 <summary>March, 2023</summary>
 
 1. [||=, &&=, And ??= Are Amazing In JS](https://youtube.com/shorts/7xLC2R6cJ08?feature=share)
+1. [typescript declare third party modules](https://stackoverflow.com/questions/44058101/typescript-declare-third-party-modules)
+1. [How to get the index of an iteration in a for-of loop in JavaScript](https://flaviocopes.com/how-to-get-index-in-for-of-loop/)
+1. [How do you import a text file into typescript?](https://stackoverflow.com/questions/56175900/how-do-you-import-a-text-file-into-typescript)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 
