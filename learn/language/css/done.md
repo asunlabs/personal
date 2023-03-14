@@ -24,3 +24,13 @@
 1. [CSS Tip #20 - where( ) pseudo class #shorts](https://youtube.com/shorts/uLG5RxQVOYc?feature=share)
 
 </details>
+
+<details>
+<summary>March, 2023</summary>
+
+1. [Shake Animation on Invalid Inputs using HTML & CSS | #shorts](https://youtube.com/shorts/Mx56-eD5dWU?feature=share)
+1. []()
+1. []()
+1. []()
+
+</details>
