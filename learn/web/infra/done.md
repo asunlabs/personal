@@ -77,7 +77,7 @@
 1. [Up and Running with Serverless Functions with Ben Hong](https://explorers.netlify.com/learn/up-and-running-with-serverless-functions/project-setup-with-serverless-functions)
 1. [Github: netlify/explorers-up-and-running-with-serverless-functions](https://github.com/netlify/explorers-up-and-running-with-serverless-functions)
 1. [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://www.netlify.com/blog/add-personalization-to-static-html-with-edge-functions-no-browser-javascript/)
-1. []()
+1. [Github: bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok)
 1. []()
 1. []()
 1. []()

@@ -29,6 +29,10 @@
 <summary>March, 2023</summary>
 
 1. [Shake Animation on Invalid Inputs using HTML & CSS | #shorts](https://youtube.com/shorts/Mx56-eD5dWU?feature=share)
+1. [Easy Hand-Drawn SVG Animation #Shorts](https://youtube.com/shorts/LuWdeuPMHps?feature=share)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()
