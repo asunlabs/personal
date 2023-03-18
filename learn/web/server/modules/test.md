@@ -26,6 +26,7 @@
 1. [[풀버전] 박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://youtu.be/HSNyJnobBws)
 1. [Getting started with API Load Testing (Stress, Spike, Load, Soak)](https://youtu.be/r-Jte8Y8zag)
 1. [[10분 테코톡] 이프의 성능 테스트](https://youtu.be/IcSdPhxCn9Y)
+1. [Github: artilleryio/artillery: load testing](https://github.com/artilleryio/artillery)
 
 </details>
 
@@ -41,5 +42,6 @@
 
 1. [How to build and Test Golang using GitHub Actions | Setup Github Actions for Golang | GitHub Actions](https://youtu.be/7fbotX1BYZE)
 1. [github - dockertest for go](https://github.com/ory/dockertest)
+1. [terratest: test your docker image](https://terratest.gruntwork.io/docs/getting-started/quick-start/#example-3-docker)
 
 </details>

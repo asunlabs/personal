@@ -19,7 +19,7 @@
 1. [🔥 CSS object-fit: cover; is super handy for aligning images](https://youtube.com/shorts/NYlbXEsOUxQ?feature=share)
 1. [CSS Container Queries are here!](https://youtube.com/shorts/WXddakiAW4s?feature=share)
 1. [Attribute selectors are OP](https://youtube.com/shorts/PdTPpjMiQFg?feature=share)
-1. []()
+1. [When lightmode breaks your favicon](https://youtube.com/shorts/o5WNKVkm1HA?feature=share)
 1. []()
 1. []()
 1. []()

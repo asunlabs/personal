@@ -318,7 +318,7 @@
 1. [GPT4 공개 중 충격적 시연 근황 ㄷㄷ #shorts](https://youtube.com/shorts/0nA9b6jpkiw?feature=share)
 1. [챗GPT가 3분만에 만든 극악 난이도의 플래피버드 근황 #shorts](https://youtube.com/shorts/KzewB6tX8p8?feature=share)
 1. [💻코딩 쥰내 잘하는 개발자 특 ㅋㅋㅋㅋ #Shorts](https://youtube.com/shorts/0SHxoFCrv-0?feature=share)
-1. []()
+1. [F2 rename key not working in Windows 11/10](https://www.thewindowsclub.com/f2-rename-key-not-working-in-windows-10)
 1. []()
 1. []()
 1. []()

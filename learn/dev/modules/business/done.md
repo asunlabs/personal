@@ -124,6 +124,8 @@
 1. [How To Instantly Improve Your Sales Funnel Landing Page (Or Website) #shorts](https://youtube.com/shorts/SmJZQ7RgFJk?feature=share)
 1. [How to Create The Perfect Landing Page Hero in 60 Sec.](https://youtube.com/shorts/rt41HfLPvEI?feature=share)
 1. [스윙매매 A to Z, 이 영상 하나로 끝](https://youtu.be/MfoMXvk-wmQ)
+1. [10년뒤 이더리움의 모습을 말하는 부테린 #shorts](https://youtube.com/shorts/VEfoOdWE_Xk?feature=share)
+1. [바이낸스 CEO 창펑자우가 말하는 비트코인 전망](https://youtube.com/shorts/scR5fuwtxLg?feature=share)
 1. []()
 1. []()
 1. []()

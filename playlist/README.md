@@ -146,6 +146,15 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [2002년 그 시절 기억 조작 노래 #2002 #shorts](https://youtube.com/shorts/LmKTt3JfTTc?feature=share)
 1. [imase - night dancer](https://youtube.com/shorts/m0TUQoA8iBU?feature=share)
 1. [Witch Bunny - “ Better Off Alone “](https://youtube.com/shorts/5vt3zRqWkc4?feature=share)
+1. [이제 알게 돼서 억울한 노래 🌠 Yuuri(유우리)- BETELGEUSE(베텔기우스)](https://youtube.com/shorts/p7-jodcXHbo?feature=share)
+1. [#지글지글 챌린지 음원😎 #shorts](https://youtube.com/shorts/mGcCLbGFdKQ?feature=share)
+1. [가사로 핵 사이다를 보여주는 이 노래 I 장기하\_그건니생각이고 Is](https://youtube.com/shorts/UnjYuqd7K8w?feature=share)
+1. [80년대 하이틴 감성 🤍](https://youtube.com/shorts/duamPXwFeN8?feature=share)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### Dreamlike
 
