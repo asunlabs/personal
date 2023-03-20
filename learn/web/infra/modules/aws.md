@@ -6,6 +6,7 @@
 
 1. [Amazon EC2 Full Course](https://youtube.com/playlist?list=PLQP5dDPLts67aj6KZCeGOqm_f7JAJDsAD)
 1. [AWS docs: Amazon EC2 인스턴스 관리](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/v2/developer-guide/ec2-example-managing-instances.html)
+1. [AWS SDK for Go V2 code examples for Amazon Elastic Compute Cloud (Amazon EC2).](https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2%2Fec2%2Fcommon)
 
 </details>
 
