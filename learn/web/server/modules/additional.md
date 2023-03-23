@@ -1,6 +1,8 @@
 1. [Nestjs docs - task scheduling](https://docs.nestjs.com/techniques/task-scheduling)
 1. [RabbitMQ - hello world with Go](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
 1. [joi를 Nest.js에서 써보자 (joi.extend부터 데코레이터까지)](https://cobb-yang.tistory.com/m/4)
+1. [Github: cyrilis/epub-gen](https://github.com/cyrilis/epub-gen)
+1. [Github: umputun/remark42: comment engine](https://github.com/umputun/remark42)
 
 <details>
 <summary>Cache</summary>

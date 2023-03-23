@@ -44,7 +44,7 @@
 1. [MUI docs: Nested list](https://mui.com/material-ui/react-list/#nested-list)
 1. [Linkedin post: React hooks](https://www.linkedin.com/posts/mubashir-raza-968136233_react-hooks-ugcPost-7043840476008833024-Nz02?utm_source=share&utm_medium=member_android)
 1. [How I can implement e.preventDefault(); in useEffect?](https://stackoverflow.com/questions/72290683/how-i-can-implement-e-preventdefault-in-useeffect)
-1. []()
+1. [MUI docs: Skeleton](https://mui.com/material-ui/react-skeleton/)
 1. []()
 1. []()
 1. []()
