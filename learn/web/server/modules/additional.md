@@ -3,6 +3,10 @@
 1. [joi를 Nest.js에서 써보자 (joi.extend부터 데코레이터까지)](https://cobb-yang.tistory.com/m/4)
 1. [Github: cyrilis/epub-gen](https://github.com/cyrilis/epub-gen)
 1. [Github: umputun/remark42: comment engine](https://github.com/umputun/remark42)
+1. [Ansible docs: Installing ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
+1. [Github: ansible/ansible](https://github.com/ansible/ansible)
+1. [Github: marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy)
+1. [github: fogleman/ln](https://github.com/fogleman/ln)
 
 <details>
 <summary>Cache</summary>

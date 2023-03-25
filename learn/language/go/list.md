@@ -7,6 +7,7 @@
 1. [Github docs: Building and testing Go](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go)
 1. [Go With Go(Lang): Why Go? Test Automation using GoLang](https://iryna-suprun.medium.com/go-with-golang-e863cf874e0e#:~:text=It%20is%20much%20faster%20than,to%20setup%20or%20install%20it)
 1. [Golang Microservices: Repository Pattern, Dependency Injection and Services.](https://youtu.be/Z89UU4vSayY)
+1. [Golang now supports Vulnerability Management!](https://youtu.be/MnHwFW-mlKw)
 
 <details>
 <summary>Lint</summary>

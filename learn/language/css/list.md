@@ -20,7 +20,7 @@
 1. [CSS Container Queries are here!](https://youtube.com/shorts/WXddakiAW4s?feature=share)
 1. [Attribute selectors are OP](https://youtube.com/shorts/PdTPpjMiQFg?feature=share)
 1. [When lightmode breaks your favicon](https://youtube.com/shorts/o5WNKVkm1HA?feature=share)
-1. []()
+1. [Generate Random Gradient Background in JavaScript](https://youtube.com/shorts/GpI12a09ZBM?feature=share)
 1. []()
 1. []()
 1. []()
