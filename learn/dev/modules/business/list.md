@@ -5,3 +5,4 @@
 1. [경험치를 계속 나눠주는 이유](https://youtube.com/shorts/Xwj7mCbluGM?feature=share)
 1. [돈깡이 직장인에게 투자 조언을 한다면?](https://youtu.be/On9XRfvG4b8)
 1. [What is Google Analytics? | Explained for Beginners!](https://youtu.be/ny2rBxwvxBY)
+1. [ChatGPT 플러그인 크롬익스텐션과 다른 점](https://youtu.be/Uq6-9LObvs0)

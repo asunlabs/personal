@@ -28,7 +28,7 @@
 1. [Github: xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery)
 1. [Github: infeng/react-viewer](https://github.com/infeng/react-viewer)
 1. [Github: react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
-1. []()
+1. [REACT.DEV LAUNCHED! Goodbye Create React App?](https://youtu.be/NxaOvaO_cXo)
 1. []()
 1. []()
 1. []()

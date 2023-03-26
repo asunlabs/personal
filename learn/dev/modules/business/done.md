@@ -152,7 +152,7 @@
 1. [자면서 돈 버는 패시브인컴, 전자책 쓰는 방법 A to Z 총정리 : 23살의 전자책 한달 수익공개 💰💸](https://youtu.be/R16DjnMLZJI)
 1. [Do This Before You Start Making Content](https://youtube.com/shorts/3Gkke_9WU10?feature=share)
 1. [근로소득원천징수영수증, 급여명세서 직접 다운로드하는 방법](http://guide.taxmedicenter.com/29/?idx=6475887&bmode=view)
-1. []()
+1. [ChatGPT prompts that'll save you hours a day at work](https://www.linkedin.com/posts/aaditsh_chatgpt-prompts-thatll-save-you-hours-a-activity-7044286211091259392-A6xS/?utm_source=share&utm_medium=member_android)
 1. []()
 1. []()
 1. []()
