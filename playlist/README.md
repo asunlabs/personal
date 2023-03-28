@@ -155,8 +155,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [중독성 개쩌는 아넌딜라이트🔥 #쉬어 #아넌딜라이트](https://youtube.com/shorts/fbmg-PYZkZI?feature=share)
 1. [나는 생애 첫 콘서트를 이 분에게 받치고 싶다..제발 내한 와주세요..#shorts](https://youtube.com/shorts/h7y7baSRrCA?feature=share)
 1. [싸이psy - i luv it 지코가이드 ver. (핵좋음주의)](https://youtube.com/shorts/-2CUEHskSIM?feature=share)
-1. []()
-1. []()
+1. [랩 교과서 그자체 팔로알토🔥](https://youtube.com/shorts/QuqxotFlBIo?feature=share)
+1. [School Rapper [독점 미공개] ′Chilla the young waves~′ 독보적 존재감, 오담률(Chin Chilla) @ 지역 대표 선발전 170310 EP.5](https://youtu.be/6L16Ys-LwUk)
 1. []()
 1. []()
 

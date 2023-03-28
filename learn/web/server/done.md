@@ -32,9 +32,9 @@
 1. [Caddy docs: Caddyfile Tutorial](https://caddyserver.com/docs/caddyfile-tutorial)
 1. [Caddy docs: Static files quick-start](https://caddyserver.com/docs/quick-starts/static-files)
 1. [Caddy docs: Reverse proxy quick-start](https://caddyserver.com/docs/quick-starts/reverse-proxy)
-1. []()
-1. []()
-1. []()
+1. [Gorm docs: Has many](https://gorm.io/docs/has_many.html#Has-Many)
+1. [Fiber docs: Set](https://docs.gofiber.io/api/ctx#set)
+1. [Gorm docs: Association Mode](https://gorm.io/docs/associations.html#Association-Mode)
 1. []()
 1. []()
 
