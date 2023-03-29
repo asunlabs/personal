@@ -80,7 +80,7 @@
 1. [Github: bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok)
 1. [Docker in 100 Seconds]()
 1. [Kubernetes Explained in 100 Seconds](https://youtu.be/PziYflu8cB8)
-1. []()
+1. [Ansible in 100 Seconds](https://youtu.be/xRMPKQweySE)
 1. []()
 1. []()
 1. []()

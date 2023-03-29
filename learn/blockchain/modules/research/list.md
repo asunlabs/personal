@@ -52,6 +52,7 @@
 <summary>Block explorer</summary>
 
 1. [Polygonscan API docs](https://polygonscan.com/apis)
+1. [Github: rfreis/block-tracker](https://github.com/rfreis/block-tracker)
 
 </details>
 

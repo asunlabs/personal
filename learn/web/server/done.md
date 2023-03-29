@@ -35,6 +35,11 @@
 1. [Gorm docs: Has many](https://gorm.io/docs/has_many.html#Has-Many)
 1. [Fiber docs: Set](https://docs.gofiber.io/api/ctx#set)
 1. [Gorm docs: Association Mode](https://gorm.io/docs/associations.html#Association-Mode)
+1. [Fiber docs: CSRF](https://docs.gofiber.io/api/middleware/csrf/)
+1. [Github: Fiber csrf example](https://github.com/gofiber/recipes/blob/master/csrf/routes/mainServer.go)
+1. [Gorm docs: Batch insert](https://gorm.io/docs/create.html#Batch-Insert)
+1. []()
+1. []()
 1. []()
 1. []()
 
