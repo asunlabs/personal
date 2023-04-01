@@ -54,7 +54,7 @@
 1. [How do you import a text file into typescript?](https://stackoverflow.com/questions/56175900/how-do-you-import-a-text-file-into-typescript)
 1. [Datatypes: JSON methods, toJSON](https://javascript.info/json#:~:text=Strings%20use%20double%20quotes.,quotes%20or%20backticks%20in%20JSON.)
 1. [Did you know this about JavaScript?](https://youtube.com/shorts/jGLwHVwBVyo?feature=share)
-1. []()
+1. [Is there a way to use map() on an array in reverse order with javascript?](https://stackoverflow.com/questions/36415904/is-there-a-way-to-use-map-on-an-array-in-reverse-order-with-javascript)
 1. []()
 1. []()
 1. []()

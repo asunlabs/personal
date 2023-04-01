@@ -194,7 +194,7 @@
 1. [What Is an MPC Wallet?](https://www.halborn.com/blog/post/what-is-an-mpc-wallet)
 1. [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
 1. [What Does the Bitcoin Network Do?](https://www.babypips.com/crypto/learn/what-does-the-bitcoin-network-do)
-1. []()
+1. [NFT storage](https://nft.storage/)
 1. []()
 1. []()
 1. []()

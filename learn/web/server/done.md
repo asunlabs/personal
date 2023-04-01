@@ -38,9 +38,12 @@
 1. [Fiber docs: CSRF](https://docs.gofiber.io/api/middleware/csrf/)
 1. [Github: Fiber csrf example](https://github.com/gofiber/recipes/blob/master/csrf/routes/mainServer.go)
 1. [Gorm docs: Batch insert](https://gorm.io/docs/create.html#Batch-Insert)
-1. []()
-1. []()
-1. []()
+1. [HTTP status code for duplicate record](https://metamug.com/article/status-code-409.html#using-409-for-duplicate-record)
+1. [Github: gorm error list](https://github.com/go-gorm/gorm/blob/master/errors.go)
+1. [Gorm docs: Polymorphism Association](https://gorm.io/docs/has_many.html#Polymorphism-Association)
+1. [Gorm docs: Retrieving a single object](https://gorm.io/docs/query.html#Retrieving-a-single-object)
+1. [Github: axios: Don't send default header #382](https://github.com/axios/axios/issues/382)
+1. [Fiber docs: CORS config](https://docs.gofiber.io/api/middleware/cors#config)
 1. []()
 
 </details>
