@@ -157,6 +157,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [싸이psy - i luv it 지코가이드 ver. (핵좋음주의)](https://youtube.com/shorts/-2CUEHskSIM?feature=share)
 1. [랩 교과서 그자체 팔로알토🔥](https://youtube.com/shorts/QuqxotFlBIo?feature=share)
 1. [School Rapper [독점 미공개] ′Chilla the young waves~′ 독보적 존재감, 오담률(Chin Chilla) @ 지역 대표 선발전 170310 EP.5](https://youtu.be/6L16Ys-LwUk)
+1. [최근 잊고 있었던 지코의 원래 스타일](https://youtube.com/shorts/e8JHPZyhXgY?feature=share)
+1. [라임으로 조지는 던말릭 벌스](https://youtube.com/shorts/AVdyvhviuUg?feature=share)
+1. [쇼미10 싸이퍼를 찢어버린 송민호🔥🔥](https://youtube.com/shorts/G8E-kK-pzPw?feature=share)
+1. [자기가 없어지면 그 다음은 율음이라는 스윙스](https://youtube.com/shorts/SCwM4jmJ_fo?feature=share)
 1. []()
 1. []()
 
