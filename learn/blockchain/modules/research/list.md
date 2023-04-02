@@ -104,6 +104,8 @@
 <details>
 <summary>NFTs</summary>
 
+1. [OpenSea: NFT taxes, simplified](https://opensea.io/tax-resources)
+1. [Cointracker: Simplify your crypto and NFT taxes](https://www.cointracker.io/opensea?utm_source=opensea)
 1. [What Is a Dynamic NFT?](https://chain.link/education-hub/what-is-dynamic-nft)
 1. [Module #3: Dynamic NFTs Enabled by Chainlink Automation](https://chain.link/techtalks/automation-masterclass-module-3?utm_medium=organic-social&utm_source=linkedin&utm_campaign=FY22Q4-product-mcs&utm_content=automation-module-3_dynamic-nfts-enabled-by-chainlink-automation&utm_term=)
 1. [Fractinoalized NFT - fractional.art](https://fractional.art/)

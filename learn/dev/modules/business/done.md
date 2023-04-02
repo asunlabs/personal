@@ -161,7 +161,25 @@
 1. [Pre-Sales Is The Best SaaS Validation](https://youtube.com/shorts/NGvxQg79SIM?feature=share)
 1. [스타트업 환상 본격 파괴하는 현실 웹드라마 | 실리콘밸리댄스 예고편](https://www.youtube.com/watch?v=Fu69mxDBrX8)
 1. [‘대퇴사의 시대’…MZ는 왜 떠나는가-제이 리(Jay Lee)의 미국 통신(89)](https://www.thinkfood.co.kr/news/articleView.html?idxno=95565)
-1. []()
+
+</details>
+
+<details>
+<summary>April, 2023</summary>
+
+1. [Reverse Engineering Logan Paul's Scam](https://youtu.be/NGXW4xhlYa4)
+1. [대기업 이긴 방법](https://youtube.com/shorts/CfTvnU1KbQQ?feature=share)
+1. [말이 필요없는 배달음식](https://youtube.com/shorts/jvgT2AfADQg?feature=share)
+1. [How I Make $90,000/Month With SaaS (Software As A Service)](https://youtu.be/oIXhwVD21vE)
+1. [I Tried Selling AI Art For 30 Days](https://youtu.be/2psSl6oM0vw)
+1. [자동차로 전국을 돌며 강아지 목욕으로 돈 버는 36살 사장님 "반려견 사업에서는 아직 블루오션 이예요"](https://youtu.be/UceWYeGzsJc)
+1. ["월세 55만원 공실로 월급을 만들어요" 돈이 되는 사업 구조를 만드는 대표님](https://youtu.be/6HJW_oeFgt0)
+1. [우리는 그런 것에 열광하거든](https://youtube.com/shorts/awhtGLfps0U?feature=share)
+1. [약관 동의: 자영업자들 힘냅시다!](https://youtube.com/shorts/C24gxPbWVxs?feature=share)
+1. [#카페봄봄 완전 비주얼 대박😻😻 #카페브이로그 #카페 #asmr](https://youtube.com/shorts/0VhH-BZxKaw?feature=share)
+1. [7 Digital Products You Can Make Using AI ($34,901/Month)](https://youtu.be/AK-3oupSZ-U)
+1. [How To Get Your First 100 Customers for Your SaaS Product](https://youtu.be/QviDwsMLXb0)
+1. [NFT Seoul 2022: 컨퍼런스 탐방 아트 비즈니스 부스](https://m.post.naver.com/viewer/postView.naver?volumeNo=33166699&memberNo=37451778)
 1. []()
 1. []()
 

@@ -76,6 +76,15 @@
 1. [Table tag is not highlighting or rendering in react markdown](https://stackoverflow.com/questions/63828162/table-tag-is-not-highlighting-or-rendering-in-react-markdown)
 1. [How to Create Mailto Links](https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html)
 1. [GET Request Query Params with Axios](https://masteringjs.io/tutorials/axios/get-query-params)
+
+</details>
+
+<details>
+<summary>title here</summary>
+
+1. [React landing page template](https://open.cruip.com/)
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()

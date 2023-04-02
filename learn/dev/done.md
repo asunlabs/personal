@@ -338,6 +338,20 @@
 1. [Slidev docs: Scaffolding Your First Presentation](https://sli.dev/guide/#scaffolding-your-first-presentation)
 1. [How to Use GPT-4 With Images (Chat GPT-4 Visual Input)](https://youtu.be/VwnnkMYLOCY)
 1. [GPT-4 Image Input: Can You Use Images with ChatGPT?](https://www.mlyearning.org/gpt-4-image-input/#:~:text=Currently%2C%20ChatGPT%20doesn't%20allow,process%20and%20still%20being%20trained.)
+
+</details>
+
+<details>
+<summary>April, 2023</summary>
+
+1. [I built a $5 chat app with Pocketbase & Svelte. Will it scale?](https://youtu.be/gUYBFDPZ5qk)
+1. [How To Write Ebooks With Chat GPT + Drag And Drop Designer](https://youtu.be/dnVErlqUArs)
+1. [How To Make PASSIVE INCOME With ChatGPT & Midjourney AI?](https://youtu.be/-12T83gEos0)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()

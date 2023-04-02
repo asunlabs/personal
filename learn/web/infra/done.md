@@ -81,6 +81,15 @@
 1. [Docker in 100 Seconds]()
 1. [Kubernetes Explained in 100 Seconds](https://youtu.be/PziYflu8cB8)
 1. [Ansible in 100 Seconds](https://youtu.be/xRMPKQweySE)
+
+</details>
+
+<details>
+<summary>April, 2023</summary>
+
+1. [The Best Alternatives To Heroku - Theo's Deployment Recommendations](https://youtu.be/prjMJtXCR-g)
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()
