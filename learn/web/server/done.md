@@ -44,6 +44,18 @@
 1. [Gorm docs: Retrieving a single object](https://gorm.io/docs/query.html#Retrieving-a-single-object)
 1. [Github: axios: Don't send default header #382](https://github.com/axios/axios/issues/382)
 1. [Fiber docs: CORS config](https://docs.gofiber.io/api/middleware/cors#config)
+
+</details>
+
+<details>
+<summary>April, 2023</summary>
+
+1. [[SQL/Error] (1452): Cannot add or update a child row: a foreign key constraint fails](https://reeme.tistory.com/39)
+1. [[Axios] get 요청 시 Query Params 보내기 (에러핸들링)](https://jacobgrowthstory.tistory.com/44)
+1. [How to only append valid associations? #5040](https://github.com/go-gorm/gorm/issues/5040)
+1. [Github: go-playground/validator: simple example](https://github.com/go-playground/validator/blob/master/_examples/simple/main.go)
+1. []()
+1. []()
 1. []()
 
 </details>

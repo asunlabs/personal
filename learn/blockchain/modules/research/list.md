@@ -98,6 +98,7 @@
 
 1. [Ethereum Push Notification Service: Web3 Communication Layer](https://thenewstack.io/ethereum-push-notification-service-web3-communication-layer/)
 1. [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+1. [Push protocol docs: getting started](https://docs.push.org/developers)
 
 </details>
 

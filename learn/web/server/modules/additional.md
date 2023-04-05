@@ -7,6 +7,7 @@
 1. [Github: ansible/ansible](https://github.com/ansible/ansible)
 1. [Github: marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy)
 1. [github: fogleman/ln](https://github.com/fogleman/ln)
+1. [Github: cloud monitoring: ccfos/nightingale](https://github.com/ccfos/nightingale)
 
 <details>
 <summary>Cache</summary>

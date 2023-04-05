@@ -80,9 +80,33 @@
 </details>
 
 <details>
-<summary>title here</summary>
+<summary>April, 2023</summary>
 
 1. [React landing page template](https://open.cruip.com/)
+1. [Create dynamic PNGs using Remotion](https://youtube.com/shorts/OFaJz6GSMJ0?feature=share)
+1. [Remotion - Create videos programmatically in React](https://youtu.be/gwlDorikqgY)
+1. [Can ChatGPT create videos with Code? (ReMotion with React) #chatgpt #openai #react](https://youtu.be/QVrxrxUD8jM)
+1. [The trick behind dialogue boxes!](https://youtube.com/shorts/PMPPXvS-1_0?feature=share)
+1. [올해부턴 CSS 다르게 짬 ㅅㄱ (2022년 CSS 채신기술)](https://youtu.be/4Vq8CQf-egI)
+1. [SurveryJS docs: Add a Survey to a React Application](https://surveyjs.io/form-library/documentation/get-started-react)
+1. [Send Request Query Parameters with Axios](https://stackabuse.com/bytes/getting-request-query-parameters-with-axios/)
+1. [React PDF viewer docs: Single page view](https://react-pdf-viewer.dev/examples/singe-page-view/)
+1. [React PDF viewer docs: Add a watermark](https://react-pdf-viewer.dev/examples/add-a-watermark/)
+1. [React-paypal-js docs: Subscriptions](https://paypal.github.io/react-paypal-js/?path=/docs/example-subscriptions--default)
+1. [Paypal docs: onApprove](https://developer.paypal.com/sdk/js/reference/#link-onapprove)
+1. [Github: react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
+1. [리액트가 쉬워지는 채신기술 Zustand](https://youtu.be/zNHZJ_iEMPA)
+1. [github: dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar)
+1. [NPM package - React Helmet](https://www.npmjs.com/package/react-helmet)
+1. [Github: Zustand typescript usage](https://github.com/pmndrs/zustand#typescript-usage)
+1. [Github: Zustand typescript docs](https://github.com/pmndrs/zustand/blob/main/docs/guides/typescript.md)
+1. [React three fiber docs: loading OBJ models](https://docs.pmnd.rs/react-three-fiber/tutorials/loading-models#loading-obj-models)
+1. [React docs: useTransition](https://react.dev/reference/react/useTransition#usetransition)
+1. [React docs: useReducer troubleshooting](https://react.dev/reference/react/useReducer#troubleshooting)
+1. [Github: xiaolin/react-image-gallery](https://www.linxtion.com/demo/react-image-gallery/)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()

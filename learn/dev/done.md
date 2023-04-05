@@ -345,9 +345,7 @@
 <summary>April, 2023</summary>
 
 1. [I built a $5 chat app with Pocketbase & Svelte. Will it scale?](https://youtu.be/gUYBFDPZ5qk)
-1. [How To Write Ebooks With Chat GPT + Drag And Drop Designer](https://youtu.be/dnVErlqUArs)
-1. [How To Make PASSIVE INCOME With ChatGPT & Midjourney AI?](https://youtu.be/-12T83gEos0)
-1. []()
+1. [Github: KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 1. []()
 1. []()
 1. []()
