@@ -346,8 +346,8 @@
 
 1. [I built a $5 chat app with Pocketbase & Svelte. Will it scale?](https://youtu.be/gUYBFDPZ5qk)
 1. [Github: KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
-1. []()
-1. []()
+1. [맥북 배터리 성능 확인 및 수명 확인 방법](https://lifenourish.tistory.com/1992)
+1. [특이점 시작?! 인간 없이 AI 혼자서 발전하기 시작했다](https://youtu.be/p7AakEJn_IE)
 1. []()
 1. []()
 1. []()

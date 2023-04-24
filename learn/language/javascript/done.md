@@ -55,7 +55,13 @@
 1. [Datatypes: JSON methods, toJSON](https://javascript.info/json#:~:text=Strings%20use%20double%20quotes.,quotes%20or%20backticks%20in%20JSON.)
 1. [Did you know this about JavaScript?](https://youtube.com/shorts/jGLwHVwBVyo?feature=share)
 1. [Is there a way to use map() on an array in reverse order with javascript?](https://stackoverflow.com/questions/36415904/is-there-a-way-to-use-map-on-an-array-in-reverse-order-with-javascript)
-1. []()
+
+</details>
+
+<details>
+<summary>April, 2023</summary>
+
+1. [TypeScript: Convert a bool to string value](https://stackoverflow.com/questions/14774907/typescript-convert-a-bool-to-string-value)
 1. []()
 1. []()
 1. []()

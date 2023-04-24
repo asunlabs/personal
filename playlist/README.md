@@ -66,6 +66,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [[Official Audio] ENHYPEN Polaroid Love Lyrics (엔하이픈 폴라로이드 러브 가사) Lyrics [Color Coded Lyrics]](https://youtu.be/Zo4paFNw6z0)
 1. [N.Flying (엔플라잉) - Rooftop (옥탑방) Lyrics [Color Coded-Han/Rom/Eng]](https://youtu.be/3jzBzplq_GI)
 1. [iKON (아이콘) - Love Scenario (사랑을 했다) (Color Coded Lyrics Eng/Rom/Han)](https://youtu.be/8pahVbnQhfA)
+1. [[4K] LINGER_LNGRS, Zior Park. Official MV](https://youtu.be/j_4WDG8jPf4)
 
 ### Lofi
 

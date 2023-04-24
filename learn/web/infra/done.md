@@ -88,13 +88,13 @@
 <summary>April, 2023</summary>
 
 1. [The Best Alternatives To Heroku - Theo's Deployment Recommendations](https://youtu.be/prjMJtXCR-g)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [Deploy your Node, Express JS project on Railway](https://youtu.be/4Ga4c_amvY8)
+1. [Railway docs: Plans](https://docs.railway.app/reference/plans#execution-time-limit)
+1. [Railway docs: Pricing](https://railway.app/pricing)
+1. [Amazon S3 see private files](https://stackoverflow.com/questions/28008841/amazon-s3-see-private-files)
+1. [Managing Private Files With AWS S3](https://betterprogramming.pub/managing-private-files-with-aws-s3-d17cb9e3dcde)
+1. [DigitalOcean docs: Generate a Pre-Signed URL to Download a Private File](https://docs.digitalocean.com/products/spaces/reference/s3-sdk-examples/#generate-a-pre-signed-url-to-download-a-private-file)
+1. [DigitalOcean docs: How to Set File Permissions and Create Quick Share Links](https://docs.digitalocean.com/products/spaces/how-to/set-file-permissions/#quick-share)
 1. []()
 
 </details>
