@@ -360,3 +360,13 @@
 1. []()
 
 </details>
+
+<details>
+<summary>May, 2023</summary>
+
+1. [직장인 3명 중 2명 ‘번아웃’ … 무기력에 불면증, 혹시 나도?](https://www.seoul.co.kr/news/newsView.php?id=20210825017006)
+1. [완벽주의에서 벗어나는 방법](https://brunch.co.kr/@jmg5308/407)
+1. [[전효진 공부꿀팁 #16] 고달픈 수험생활 저는 이렇게 쉬었습니다.](https://youtu.be/AOvs93XalVE)
+1. [[효진쌤 독하게 합격하는 방법 풀버전] 슬럼프를 극복하는 법](https://youtu.be/1iew89prSKk)
+
+</details>
