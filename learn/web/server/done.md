@@ -65,3 +65,15 @@
 1. []()
 
 </details>
+
+<details>
+<summary>May, 2023</summary>
+
+
+1. [connecting to a docker-compose mysql container denies access but docker running same image does not](https://stackoverflow.com/questions/37459031/connecting-to-a-docker-compose-mysql-container-denies-access-but-docker-running)
+1. [[MySQL] mysql로그인 오류 / mysql 비밀번호 재설정](https://passing-story.tistory.com/142)
+1. [14.4 Docker를 사용하여 MySQL 설치하고 접속하기](https://poiemaweb.com/docker-mysql)
+1. []()
+1. []()
+
+</details>
