@@ -351,13 +351,6 @@
 1. [[써보니] 가장 대중적인 시피유! 인텔 13세대 코어 i5-13500 by 피씨디렉트](http://www.weeklypost.kr/news/articleView.html?idxno=4244)
 1. [Intel Core i7-13700H 대 Core i5-1340P](https://technical.city/ko/cpu/Core-i7-13700H-vs-Core-i5-1340P)
 1. [CapsLock 키를 Ctrl 키로 전환하기 본격 장려 포스팅](https://coldmater.tistory.com/193)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
 
 </details>
 
@@ -368,5 +361,16 @@
 1. [완벽주의에서 벗어나는 방법](https://brunch.co.kr/@jmg5308/407)
 1. [[전효진 공부꿀팁 #16] 고달픈 수험생활 저는 이렇게 쉬었습니다.](https://youtu.be/AOvs93XalVE)
 1. [[효진쌤 독하게 합격하는 방법 풀버전] 슬럼프를 극복하는 법](https://youtu.be/1iew89prSKk)
+1. [Github: Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+1. [Stable Diffusion runtime error - how to fix CUDA out of memory error](https://stealthoptional.com/tech/stable-diffusion-runtime-error-how-to-fix-cuda-out-of-memory-error-in-stable-diffusion/)
+1. [GoDaddy docs: 서브도메인은 무엇입니까?](https://kr.godaddy.com/help/what-is-a-subdomain-296)
+1. [Do You Have To Pay For Subdomains Godaddy](https://kili.io/2022/10/22/do-you-have-to-pay-for-subdomains-godaddy/)
+1. [WebUI 배경 비율 설정방법](https://flatsun.tistory.com/3550)
+1. [WebUI 만화 스타일로 그림 그리는 방법](https://flatsun.tistory.com/3532)
+1. [WebUI 설정 옵션 저장방법(다시 켜도 똑같게)](https://flatsun.tistory.com/3534)
+1. [Torch is not able to use GPU; add --skip-torch-cuda-test to COMMANDLINE_ARGS variable to disable this check #1742](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/1742)
+1. [docker-compose.yml을 사용하여 다중 컨테이너 애플리케이션 정의](https://learn.microsoft.com/ko-kr/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
+1. []()
+1. []()
 
 </details>

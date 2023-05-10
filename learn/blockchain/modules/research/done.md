@@ -200,13 +200,12 @@
 1. [Github: snapshot labs](https://github.com/snapshot-labs)
 1. [Linkedin Post: RareSkills: \_msgSender() instead of msg.sender](https://www.linkedin.com/posts/rareskills-io_why-does-openzeppelin-often-use-msgsender-activity-7044503031127687168-LOXD?utm_source=share&utm_medium=member_desktop)
 1. [[시사금융용어] 러그풀(rug pull)](https://news.einfomax.co.kr/news/articleView.html?idxno=4149363)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+
+</details>
+
+<details>
+<summary>May, 2023</summary>
+
+1. [WAGMI, Ape, IYKYK: 15 Crypto Slangs Only A True Crypto Nerd Will Know](https://chaindebrief.com/crypto-slangs-only-a-true-crypto-nerd-will-know/)
 
 </details>
