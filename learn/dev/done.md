@@ -370,6 +370,13 @@
 1. [WebUI 설정 옵션 저장방법(다시 켜도 똑같게)](https://flatsun.tistory.com/3534)
 1. [Torch is not able to use GPU; add --skip-torch-cuda-test to COMMANDLINE_ARGS variable to disable this check #1742](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/1742)
 1. [docker-compose.yml을 사용하여 다중 컨테이너 애플리케이션 정의](https://learn.microsoft.com/ko-kr/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
+1. [Godaddy Vs Google Domains 2022 | Best Domain Registrar?](https://youtu.be/Pn35BEQaww0)
+1. [stable diffusion webui 모델 변경 방법](https://tilnote.io/pages/640c6f50eba56f08faeeddb8)
+1. [Godaddy Review: My Personal Experience](https://youtu.be/WSSxFLctB8o)
+1. [3 reasons why I always use Google Domains](https://youtube.com/shorts/WpsfXL7I3HA?feature=share)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 
