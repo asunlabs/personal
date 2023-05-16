@@ -67,6 +67,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [N.Flying (엔플라잉) - Rooftop (옥탑방) Lyrics [Color Coded-Han/Rom/Eng]](https://youtu.be/3jzBzplq_GI)
 1. [iKON (아이콘) - Love Scenario (사랑을 했다) (Color Coded Lyrics Eng/Rom/Han)](https://youtu.be/8pahVbnQhfA)
 1. [[4K] LINGER_LNGRS, Zior Park. Official MV](https://youtu.be/j_4WDG8jPf4)
+1. [Calvin Harris - Feels (Official Video) ft. Pharrell Williams, Katy Perry, Big Sean](https://youtu.be/ozv4q2ov3Mk)
 
 ### Lofi
 
@@ -191,6 +192,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [AeroSmith - Dream on [English Subtitles/Lyrics | 한국어 가사/해석/자막]](https://youtu.be/Ej4pXB2oBJY)
 1. [Life of Hojj - 월요일 (Monday)](https://youtu.be/WF39hrd8NLA)
 1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
+1. [Glass Animals - Heat Waves (Official Video)](https://youtu.be/mRD0-GxqHVo)
 
 ### Emotional
 
