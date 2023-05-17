@@ -98,3 +98,15 @@
 1. []()
 
 </details>
+
+<details>
+<summary>May, 2023</summary>
+
+1. [Why am I getting a Nixpacks error on Railway?](https://stackoverflow.com/questions/74932602/why-am-i-getting-a-nixpacks-error-on-railway)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+
+</details>

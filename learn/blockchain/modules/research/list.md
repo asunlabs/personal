@@ -37,10 +37,10 @@
 </details>
 
 <details>
-<summary>Blockchain </summary>
+<summary>Blockchain</summary>
 
 1. [How to Build a Blockchain App with Cosmos SDK | Jack Zampolin](https://youtu.be/pyAmxlzVdqM)
-1. []()
+1. [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 1. []()
 1. []()
 1. []()

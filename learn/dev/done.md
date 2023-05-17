@@ -374,9 +374,9 @@
 1. [stable diffusion webui 모델 변경 방법](https://tilnote.io/pages/640c6f50eba56f08faeeddb8)
 1. [Godaddy Review: My Personal Experience](https://youtu.be/WSSxFLctB8o)
 1. [3 reasons why I always use Google Domains](https://youtube.com/shorts/WpsfXL7I3HA?feature=share)
-1. []()
-1. []()
-1. []()
+1. [Windows 11 카메라 설정을 사용하여 카메라 관리](https://support.microsoft.com/ko-kr/windows/windows-11-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%84%A4%EC%A0%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EA%B4%80%EB%A6%AC-97997ed5-bb98-47b6-a13d-964106997757)
+1. [50+ Best Anime Prompts for Midjourney Niji V5](https://bootcamp.uxdesign.cc/50-best-anime-prompts-for-midjourney-niji-v5-a58c62a90651)
+1. [error Your lockfile needs to be updated, but yarn was run with `--frozen-lockfile`](https://stackoverflow.com/questions/63801444/error-your-lockfile-needs-to-be-updated-but-yarn-was-run-with-frozen-lockfil)
 1. []()
 1. []()
 

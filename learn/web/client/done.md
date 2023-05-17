@@ -127,6 +127,6 @@
 1. [requires to access .default after build while it's not required in dev (CJS dependency) #2139](https://github.com/vitejs/vite/issues/2139)
 1. [Difference between production and development build in ReactJS](https://stackoverflow.com/questions/48151128/difference-between-production-and-development-build-in-reactjs)
 1. [How to disable ESLint for some lines, files or folders](https://learn.coderslang.com/0023-eslint-disable-for-specific-lines-files-and-folders/)
-1. []()
+1. [Vite docs: Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html#env-variables-and-mode)
 
 </details>

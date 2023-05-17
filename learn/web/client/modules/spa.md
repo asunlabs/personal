@@ -1,4 +1,4 @@
-1. [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react)
+
 
 <details>
 <summary>React</summary>
@@ -27,25 +27,13 @@
 1. [Github: loonywizard/js-confetti](https://github.com/loonywizard/js-confetti)
 1. [Github: alampros/react-confetti](https://github.com/alampros/react-confetti)
 1. [Github: pmndrs/use-gesture](https://github.com/pmndrs/use-gesture)
-1. []()
+1. [Github: fortana-co/react-dropzone-uploader](https://github.com/fortana-co/react-dropzone-uploader)
 1. []()
 1. []()
 
 </details>
 
-<details>
-<summary>Solution</summary>
 
-1. [AdminJS/Express/MikroORM](https://youtube.com/playlist?list=PLonvhmaBgi3M14JTD-HhzmwUxweVPWVrS)
-
-</details>
-
-<details>
-<summary>3D</summary>
-
-1. [Create a 3D site with Game Controls in Spline and React](https://youtu.be/uYp_ipIasYE)
-
-</details>
 
 <details>
 <summary>Test</summary>
@@ -56,20 +44,5 @@
 1. []()
 1. []()
 1. []()
-
-</details>
-
-<details>
-<summary>Static</summary>
-
-1. [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://youtu.be/qtIqKaDlqXo)
-
-</details>
-
-<details>
-<summary>Browser</summary>
-
-1. [What Is Chromium?](https://youtu.be/6Efm0myNng8)
-1. [Google Chrome vs Chromium - What's the Difference?](https://youtu.be/xxuioJkc0J8)
 
 </details>
