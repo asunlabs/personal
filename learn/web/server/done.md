@@ -69,12 +69,13 @@
 <details>
 <summary>May, 2023</summary>
 
-
 1. [connecting to a docker-compose mysql container denies access but docker running same image does not](https://stackoverflow.com/questions/37459031/connecting-to-a-docker-compose-mysql-container-denies-access-but-docker-running)
 1. [[MySQL] mysql로그인 오류 / mysql 비밀번호 재설정](https://passing-story.tistory.com/142)
 1. [14.4 Docker를 사용하여 MySQL 설치하고 접속하기](https://poiemaweb.com/docker-mysql)
 1. [Caddy start vs. caddy run?](https://caddy.community/t/caddy-start-vs-caddy-run/9285)
 1. [Caddy docs: API quick-start](https://caddyserver.com/docs/quick-starts/api)
 1. [How to Uninstall a Package on Ubuntu 22.04](https://linuxhint.com/uninstall-package-ubuntu-3/#b1)
+1. [Reason: Credential is not supported if the CORS header 'Access-Control-Allow-Origin' is '*'](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS/Errors/CORSNotSupportingCredentials)
+1. [Access-Control-Allow-Origin가 wildcard(*)일 때 왜 인증 정보를 포함한 요청은 실패하는가 😫](https://www.hahwul.com/2019/04/10/why-failed-get-data-with-this-cors-policy/)
 
 </details>

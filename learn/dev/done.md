@@ -377,7 +377,10 @@
 1. [Windows 11 카메라 설정을 사용하여 카메라 관리](https://support.microsoft.com/ko-kr/windows/windows-11-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%84%A4%EC%A0%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EA%B4%80%EB%A6%AC-97997ed5-bb98-47b6-a13d-964106997757)
 1. [50+ Best Anime Prompts for Midjourney Niji V5](https://bootcamp.uxdesign.cc/50-best-anime-prompts-for-midjourney-niji-v5-a58c62a90651)
 1. [error Your lockfile needs to be updated, but yarn was run with `--frozen-lockfile`](https://stackoverflow.com/questions/63801444/error-your-lockfile-needs-to-be-updated-but-yarn-was-run-with-frozen-lockfil)
-1. []()
-1. []()
+1. [open link in new tab with github markdown using target="_blank"](https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank)
+1. [컴퓨터 '인수를 허용하는 위치 매개변수를 찾을 수 없습니다' 에러가 뭔가요?](https://www.clien.net/service/board/kin/15154108)
+1. [How to run multiple powershell commands in scripts for package.json](https://stackoverflow.com/questions/55330065/how-to-run-multiple-powershell-commands-in-scripts-for-package-json)
+1. [Invalid escape sequence](https://egg-stone.tistory.com/10)
+1. [How do I start Docker Desktop for Windows from command line?](https://superuser.com/questions/1498570/how-do-i-start-docker-desktop-for-windows-from-command-line)
 
 </details>

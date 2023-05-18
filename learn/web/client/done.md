@@ -128,5 +128,6 @@
 1. [Difference between production and development build in ReactJS](https://stackoverflow.com/questions/48151128/difference-between-production-and-development-build-in-reactjs)
 1. [How to disable ESLint for some lines, files or folders](https://learn.coderslang.com/0023-eslint-disable-for-specific-lines-files-and-folders/)
 1. [Vite docs: Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html#env-variables-and-mode)
+1. [How to import webp image in react typescript](https://stackoverflow.com/questions/65749550/how-to-import-webp-image-in-react-typescript)
 
 </details>
