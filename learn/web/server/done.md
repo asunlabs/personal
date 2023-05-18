@@ -77,5 +77,6 @@
 1. [How to Uninstall a Package on Ubuntu 22.04](https://linuxhint.com/uninstall-package-ubuntu-3/#b1)
 1. [Reason: Credential is not supported if the CORS header 'Access-Control-Allow-Origin' is '*'](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS/Errors/CORSNotSupportingCredentials)
 1. [Access-Control-Allow-Origin가 wildcard(*)일 때 왜 인증 정보를 포함한 요청은 실패하는가 😫](https://www.hahwul.com/2019/04/10/why-failed-get-data-with-this-cors-policy/)
+1. [MDN docs: 413 Content Too Large](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413)
 
 </details>

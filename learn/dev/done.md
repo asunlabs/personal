@@ -382,5 +382,6 @@
 1. [How to run multiple powershell commands in scripts for package.json](https://stackoverflow.com/questions/55330065/how-to-run-multiple-powershell-commands-in-scripts-for-package-json)
 1. [Invalid escape sequence](https://egg-stone.tistory.com/10)
 1. [How do I start Docker Desktop for Windows from command line?](https://superuser.com/questions/1498570/how-do-i-start-docker-desktop-for-windows-from-command-line)
+1. [Geeks for geeks: SQL | ON Clause](https://www.geeksforgeeks.org/sql-on-clause/)
 
 </details>
