@@ -208,6 +208,9 @@
 
 1. [WAGMI, Ape, IYKYK: 15 Crypto Slangs Only A True Crypto Nerd Will Know](https://chaindebrief.com/crypto-slangs-only-a-true-crypto-nerd-will-know/)
 1. [How would I send an eth value to specific smart contract function that is payable in ethers.js?](https://stackoverflow.com/questions/68198724/how-would-i-send-an-eth-value-to-specific-smart-contract-function-that-is-payabl#comment120552839_68201552)
+1. [Error: network does not support ENS #1289](https://github.com/NomicFoundation/hardhat/issues/1289)
+1. [Wagmi docs: Sign Message](https://wagmi.sh/examples/sign-message)
+
 
 </details>
 

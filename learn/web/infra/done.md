@@ -103,7 +103,7 @@
 <summary>May, 2023</summary>
 
 1. [Why am I getting a Nixpacks error on Railway?](https://stackoverflow.com/questions/74932602/why-am-i-getting-a-nixpacks-error-on-railway)
-1. []()
+1. [How do I get into a Docker container's shell?](https://stackoverflow.com/questions/30172605/how-do-i-get-into-a-docker-containers-shell)
 1. []()
 1. []()
 1. []()

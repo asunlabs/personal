@@ -62,10 +62,12 @@
 <summary>April, 2023</summary>
 
 1. [TypeScript: Convert a bool to string value](https://stackoverflow.com/questions/14774907/typescript-convert-a-bool-to-string-value)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+
+</details>
+
+<details>
+<summary>May, 2023</summary>
+
+1. [MDN docs: Using toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#using_tofixed)
 
 </details>

@@ -129,5 +129,6 @@
 1. [How to disable ESLint for some lines, files or folders](https://learn.coderslang.com/0023-eslint-disable-for-specific-lines-files-and-folders/)
 1. [Vite docs: Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html#env-variables-and-mode)
 1. [How to import webp image in react typescript](https://stackoverflow.com/questions/65749550/how-to-import-webp-image-in-react-typescript)
+1. [Luxon docs: Math](https://moment.github.io/luxon/#/tour?id=math)
 
 </details>
