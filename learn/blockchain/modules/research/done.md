@@ -210,7 +210,13 @@
 1. [How would I send an eth value to specific smart contract function that is payable in ethers.js?](https://stackoverflow.com/questions/68198724/how-would-i-send-an-eth-value-to-specific-smart-contract-function-that-is-payabl#comment120552839_68201552)
 1. [Error: network does not support ENS #1289](https://github.com/NomicFoundation/hardhat/issues/1289)
 1. [Wagmi docs: Sign Message](https://wagmi.sh/examples/sign-message)
-
+1. [Passing dynamic arguments to usePrepareContractWrite in Wagmi](https://ethereum.stackexchange.com/questions/135283/passing-dynamic-arguments-to-usepreparecontractwrite-in-wagmi)
+1. [Wagmi docs: useSwitchNetwork](https://wagmi.sh/react/hooks/useSwitchNetwork)
+1. [Wagmi docs: MetaMask](https://wagmi.sh/react/connectors/metaMask)
+1. [Wagmi docs: useNetwork](https://wagmi.sh/react/hooks/useNetwork)
+1. []()
+1. []()
+1. []()
 
 </details>
 

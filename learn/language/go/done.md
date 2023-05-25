@@ -47,7 +47,7 @@
 1. [using curl with commands in go](https://stackoverflow.com/questions/53100425/using-curl-with-commands-in-go)
 1. [Go: how to check if a string contains multiple substrings?](https://stackoverflow.com/questions/47131996/go-how-to-check-if-a-string-contains-multiple-substrings)
 1. [GO: Method Receiver - Pointer v/s Value](https://medium.com/globant/go-method-receiver-pointer-vs-value-ffc5ab7acdb)
-1. [https://stackoverflow.com/questions/44222554/how-to-remove-quotes-from-around-a-string-in-golang](https://stackoverflow.com/questions/44222554/how-to-remove-quotes-from-around-a-string-in-golang)
+1. [How to remove quotes from around a string in Golang](https://stackoverflow.com/questions/44222554/how-to-remove-quotes-from-around-a-string-in-golang)
 1. []()
 1. []()
 1. []()

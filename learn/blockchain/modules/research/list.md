@@ -18,6 +18,7 @@
 1. [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 1. [Smart Contract Wallet 파헤치기 시리즈 — Dharma 제 3편](https://medium.com/haechi-audit-kr/contract-wallet-dharma-3-f87698f7fadd)
 1. [ERC-1271: Standard Signature Validation Method for Contract](https://eips.ethereum.org/EIPS/eip-1271)
+1. [Rethink Digital Transactions with Account Abstraction](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html)
 
 </details>
 
