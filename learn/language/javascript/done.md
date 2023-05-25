@@ -69,5 +69,6 @@
 <summary>May, 2023</summary>
 
 1. [MDN docs: Using toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#using_tofixed)
+1. [MDN docs: Number.prototype.toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#using_tofixed)
 
 </details>

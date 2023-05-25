@@ -383,5 +383,16 @@
 1. [Invalid escape sequence](https://egg-stone.tistory.com/10)
 1. [How do I start Docker Desktop for Windows from command line?](https://superuser.com/questions/1498570/how-do-i-start-docker-desktop-for-windows-from-command-line)
 1. [Geeks for geeks: SQL | ON Clause](https://www.geeksforgeeks.org/sql-on-clause/)
+1. [Github: AUTOMATIC1111/stable-diffusion-webui-pixelization](https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization)
+1. [갤럭시북3 프로, 구매하지 않은 이유 - 배터리 타임 등](https://deskduk.tistory.com/87)
+1. [노트북 내장 그래픽카드와 외장그래픽 카드? NVIDIA 옵티머스 기능에 대해](https://hkebi.tistory.com/2274)
+1. [노트북 그래픽카드, GPU의 종류와 차이점](https://apageofit.tistory.com/6)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 </details>

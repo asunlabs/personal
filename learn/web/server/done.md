@@ -79,9 +79,9 @@
 1. [Access-Control-Allow-Origin가 wildcard(*)일 때 왜 인증 정보를 포함한 요청은 실패하는가 😫](https://www.hahwul.com/2019/04/10/why-failed-get-data-with-this-cors-policy/)
 1. [MDN docs: 413 Content Too Large](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413)
 1. [[Node.js] Command Line 시작 시 인자 전달하기 (Arguments)](https://chashtag.tistory.com/55)
-1. []()
-1. []()
-1. []()
+1. [Github: curl-to-Go](https://mholt.github.io/curl-to-go/)
+1. [Using Curl -d Option](https://reqbin.com/req/c-bf0dgjoq/curl--d)
+1. [Connect with PayPal - invalid_client Client Authentication failed with sandbox](https://stackoverflow.com/questions/62804401/connect-with-paypal-invalid-client-client-authentication-failed-with-sandbox)
 1. []()
 1. []()
 
