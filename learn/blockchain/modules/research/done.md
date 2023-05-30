@@ -214,9 +214,12 @@
 1. [Wagmi docs: useSwitchNetwork](https://wagmi.sh/react/hooks/useSwitchNetwork)
 1. [Wagmi docs: MetaMask](https://wagmi.sh/react/connectors/metaMask)
 1. [Wagmi docs: useNetwork](https://wagmi.sh/react/hooks/useNetwork)
-1. []()
-1. []()
-1. []()
+1. [Wagmi docs: usePrepareContractWrite usage](https://wagmi.sh/react/prepare-hooks/usePrepareContractWrite#usage)
+1. [Github: hardhat-gas-reporter: Price data missing from report #72](https://github.com/cgewecke/hardhat-gas-reporter/issues/72)
+1. [Hardhat docs: Multiple API keys and alternative block explorers](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#multiple-api-keys-and-alternative-block-explorers)
+1. [Error HH210: Redefinition of task verify failed. Unsupported operation adding positional param definitions in an overridden task](https://ethereum.stackexchange.com/questions/149768/error-hh210-redefinition-of-task-verify-failed-unsupported-operation-adding-po)
+1. [What is msg.data?](https://ethereum.stackexchange.com/questions/14037/what-is-msg-data)
+1. [How does msg.data is encoded?](https://ethereum.stackexchange.com/questions/110455/how-does-msg-data-is-encoded)
 
 </details>
 

@@ -72,6 +72,8 @@
 1. [MDN docs: Number.prototype.toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#using_tofixed)
 1. [Cannot invoke an object which is possibly 'undefined'.ts(2722)](https://stackoverflow.com/questions/56913963/cannot-invoke-an-object-which-is-possibly-undefined-ts2722)
 1. [How to disable a ts rule for a specific line?](https://stackoverflow.com/questions/43618878/how-to-disable-a-ts-rule-for-a-specific-line)
-1. []()
+1. [MDN docs: Math trunc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc)
+1. [Mastering TypeScript’s New “satisfies” Operator](https://upmostly.com/typescript/mastering-typescripts-new-satisfies-operator)
+1. [Typescript docs: Utility Types: Required](https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredtype)
 
 </details>

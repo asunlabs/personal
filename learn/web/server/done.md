@@ -82,7 +82,11 @@
 1. [Github: curl-to-Go](https://mholt.github.io/curl-to-go/)
 1. [Using Curl -d Option](https://reqbin.com/req/c-bf0dgjoq/curl--d)
 1. [Connect with PayPal - invalid_client Client Authentication failed with sandbox](https://stackoverflow.com/questions/62804401/connect-with-paypal-invalid-client-client-authentication-failed-with-sandbox)
-1. [FIber docs: BasicAuth](https://docs.gofiber.io/api/middleware/basicauth/)
+1. [Fiber docs: BasicAuth](https://docs.gofiber.io/api/middleware/basicauth/)
+1. [Paypal docs: API request](https://developer.paypal.com/api/rest/requests/#api-requests)
+1. [CORS Allows * but still getting a 403 on the POST request](https://stackoverflow.com/questions/67173530/cors-allows-but-still-getting-a-403-on-the-post-request)
+1. []()
+1. []()
 1. []()
 
 

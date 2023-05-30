@@ -84,6 +84,7 @@
 1. [Dapp University - Hardhat Vs Truffle: Which One is Best?](https://youtu.be/tfQFk6pmtFc)
 1. [Truffle now supports console.log in Solidity smart contracts](https://trufflesuite.com/blog/truffle-now-supports-console-logging-in-solidity-smart-contract/)
 1. [Adding Typescript to Truffle and Buidler](https://soliditydeveloper.com/typescript)
+1. [Github: Rubilmax/ethers-multicall-provider](https://github.com/Rubilmax/ethers-multicall-provider)
 
 </details>
 

@@ -130,5 +130,7 @@
 1. [Vite docs: Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html#env-variables-and-mode)
 1. [How to import webp image in react typescript](https://stackoverflow.com/questions/65749550/how-to-import-webp-image-in-react-typescript)
 1. [Luxon docs: Math](https://moment.github.io/luxon/#/tour?id=math)
+1. [Passing props from Reactjs child to parent components](https://www.learnbestcoding.com/post/39/reactjs-passing-data-to-parent)
+1. [How to adjust Material UI Tooltip font size?](https://stackoverflow.com/questions/60926937/how-to-adjust-material-ui-tooltip-font-size)
 
 </details>
