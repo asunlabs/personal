@@ -387,7 +387,7 @@
 1. [갤럭시북3 프로, 구매하지 않은 이유 - 배터리 타임 등](https://deskduk.tistory.com/87)
 1. [노트북 내장 그래픽카드와 외장그래픽 카드? NVIDIA 옵티머스 기능에 대해](https://hkebi.tistory.com/2274)
 1. [노트북 그래픽카드, GPU의 종류와 차이점](https://apageofit.tistory.com/6)
-1. []()
+1. [Understanding the difference between null and '\u000' in Java](https://stackoverflow.com/questions/12195628/understanding-the-difference-between-null-and-u000-in-java)
 1. []()
 1. []()
 1. []()

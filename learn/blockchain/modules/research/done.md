@@ -220,6 +220,7 @@
 1. [Error HH210: Redefinition of task verify failed. Unsupported operation adding positional param definitions in an overridden task](https://ethereum.stackexchange.com/questions/149768/error-hh210-redefinition-of-task-verify-failed-unsupported-operation-adding-po)
 1. [What is msg.data?](https://ethereum.stackexchange.com/questions/14037/what-is-msg-data)
 1. [How does msg.data is encoded?](https://ethereum.stackexchange.com/questions/110455/how-does-msg-data-is-encoded)
+1. [How do I decode bytes32 using Ethers.js](https://ethereum.stackexchange.com/questions/111524/how-do-i-decode-bytes32-using-ethers-js)
 
 </details>
 

@@ -132,5 +132,8 @@
 1. [Luxon docs: Math](https://moment.github.io/luxon/#/tour?id=math)
 1. [Passing props from Reactjs child to parent components](https://www.learnbestcoding.com/post/39/reactjs-passing-data-to-parent)
 1. [How to adjust Material UI Tooltip font size?](https://stackoverflow.com/questions/60926937/how-to-adjust-material-ui-tooltip-font-size)
+1. [Formatting ISO time with Luxon](https://stackoverflow.com/questions/67407325/formatting-iso-time-with-luxon)
+1. [How to parse UNIX timestamps with luxon?](https://stackoverflow.com/questions/66553494/how-to-parse-unix-timestamps-with-luxon)
+1. [Github: apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts)
 
 </details>
