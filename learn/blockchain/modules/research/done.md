@@ -221,6 +221,18 @@
 1. [What is msg.data?](https://ethereum.stackexchange.com/questions/14037/what-is-msg-data)
 1. [How does msg.data is encoded?](https://ethereum.stackexchange.com/questions/110455/how-does-msg-data-is-encoded)
 1. [How do I decode bytes32 using Ethers.js](https://ethereum.stackexchange.com/questions/111524/how-do-i-decode-bytes32-using-ethers-js)
-
+1. [let's convert between bytes32 & string & vice-versa](https://dev.to/mistersingh179/lets-convert-between-bytes32-string-vice-versa-44o4)
 </details>
 
+<details>
+<summary>June, 2023</summary>
+
+1. [Merkle Tree in Blockchain: What is it, How does it work and Benefits](https://www.simplilearn.com/tutorials/blockchain-tutorial/merkle-tree-in-blockchain)
+1. [Solidity arrays: Creating dynamic memory arrays](https://www.tutorialspoint.com/solidity/solidity_arrays.htm)
+1. [What is the best practise to storage large data in smart contract](https://ethereum.stackexchange.com/questions/137880/what-is-the-best-practise-to-storage-large-data-in-smart-contract)
+1. [How to find duplicate entry in Solidity array](https://stackoverflow.com/questions/70550344/how-to-find-duplicate-entry-in-solidity-array)
+1. [File import callback not supported?](https://stackoverflow.com/questions/67321111/file-import-callback-not-supported)
+1. [Data Structure to Rank Objects](https://stackoverflow.com/questions/8946104/data-structure-to-rank-objects)
+1. [Github: 0xsequence Multicall](https://github.com/0xsequence/sequence.js/tree/master/packages/multicall)
+
+</details>
