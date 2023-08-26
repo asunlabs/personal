@@ -77,3 +77,20 @@
 1. [Typescript docs: Utility Types: Required](https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredtype)
 
 </details>
+
+<details>
+<summary>June, 2023</summary>
+
+1. [Get all unique values in a JavaScript array (remove duplicates)](https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates)
+
+</details>
+<details>
+<summary>August, 2023</summary>
+
+1. [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
+1. []()
+1. []()
+
+</details>
+
+
