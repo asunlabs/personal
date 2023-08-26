@@ -84,6 +84,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [육중완\_부비부비](https://youtu.be/g6YNZat7zHk)
 1. [City City (feat. Rakon) ](https://youtu.be/F1JkW0mKAnQ)
 1. [[팝송번역] Countryside - Curtis Cole / 네가 어떻게 했는지 모르겠지만 넌 날 완전히 사로잡았어](https://youtu.be/HkIR1bnkKto)
+1. [Ljay Currie - Beat Remake (Prod. ZeeBeer)](https://youtu.be/Mx1gCIefX9w?si=uRcoM9sPy3aI5cMH)
 
 ### Hiphop
 
@@ -98,6 +99,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Don't Flex on me (Feat. jayci yucca, 김효은 Keem Hyo-Eun)](https://youtu.be/oTth_Tm-LaQ)
 1. [정상수 - 달이뜨면 MV / Jung sang su - When the moon rise (Official music video)](https://youtu.be/oeaSz6YE9_I)
 1. [정상수 부산을대표해 MV Jung sangsu- Represent Busan Official](https://youtu.be/Ko1RnnIYNz4)
+1. [Lil Nekh (릴네크) - 나로호](https://youtu.be/i5BsAgQWO6Q?si=Ib8_9OJnwHTbvRae)
 
 ### Soft
 
@@ -131,6 +133,14 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [씹덕 김씨가 추는 애니메이션 댄스](https://youtube.com/shorts/gP_QAekD5tU?feature=share)
 1. [원끌기는 낭만이다](https://youtube.com/shorts/5Rp5Q1MieUw?feature=share)
 1. [즐라탄이 중국을 거절한 이유](https://youtube.com/shorts/LuTjm-eDnCI?feature=share)
+1. [우리가 게임을 굴린다(전자오락수호대)-가스파드](https://youtu.be/6eCuGwRvfBQ?si=d4SiWzzAo__8WXFS)
+1. [립싱크 하는 푸린](https://youtube.com/shorts/KV30wQ3qVYA?si=9bflz8eO3apN2eft)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### Killing verses
 
@@ -163,6 +173,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [라임으로 조지는 던말릭 벌스](https://youtube.com/shorts/AVdyvhviuUg?feature=share)
 1. [쇼미10 싸이퍼를 찢어버린 송민호🔥🔥](https://youtube.com/shorts/G8E-kK-pzPw?feature=share)
 1. [자기가 없어지면 그 다음은 율음이라는 스윙스](https://youtube.com/shorts/SCwM4jmJ_fo?feature=share)
+1. [싸이코 같은 송민호 급발진 벌스](https://youtube.com/shorts/6Wtf7ftGCYc?feature=share)
+1. [저질러버렸다 “하입보이” AI임재범](https://youtube.com/shorts/IGbbP-hiWQk?si=nq8GzMz-vVQOsS5i)
+1. [도입부부터 개찢고 들어가는 쌔끈보이즈 로꼬 🔥](https://youtube.com/shorts/dq8Nc4v6at0?si=n-kmS8TsJksuiJ3Y)
+1. []()
 1. []()
 1. []()
 
