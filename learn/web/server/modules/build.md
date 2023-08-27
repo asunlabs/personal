@@ -1,18 +1,3 @@
-<details>
-<summary>Jenkins</summary>
-
-1. [Jenkins Tutorial for Beginners](https://youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC)
-1. [Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](3https://youtu.be/woMAXn4e8NA)
-1. [Jenkins Beginner Tutorial 12 - How to do Automated Deployment (Step by Step)](https://youtu.be/j5D8SLxn6YA)
-
-</details>
-
-<details>
-<summary>Monorepo</summary>
-
-1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
-
-</details>
 
 <details>
 <summary>Github actions</summary>

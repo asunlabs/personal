@@ -1,7 +1,0 @@
-1. [Neso Academy: Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
-1. [자바 공부 어떻게 해야하나요? 책, 강의, 스터디 방식! 추천 드립니다.](https://youtu.be/6gNMsjcH3oA)
-1. [[10분 테코톡] 🦊닉의 Spring vs Spring Boot](https://youtu.be/6h9qmKWK6Io)
-1. [Should you still LEARN Java in 2023](https://youtu.be/9yzMKaKcoC0)
-1. []()
-1. []()
-1. []()
