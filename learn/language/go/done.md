@@ -37,8 +37,6 @@
 1. [Go Workspaces Explained in 5 Minutes](https://youtu.be/RLtIeZQfrxY)
 1. [Where does go get install packages?](https://stackoverflow.com/questions/50633092/where-does-go-get-install-packages)
 
-
-
 </details>
 
 <details>
