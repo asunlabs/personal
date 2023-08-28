@@ -7,12 +7,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 - [@awesome-playlist](#asunlabsawesome-playlist)
   - [table of contents](#table-of-contents)
     - [one hour](#one-hour)
-    - [fast](#fast)
     - [bright](#bright)
-    - [lofi](#lofi)
     - [vibing](#vibing)
-    - [hiphop](#hiphop)
-    - [soft](#soft)
     - [geeky](#geeky)
     - [killing verse](#killing-verses)
     - [dreamlike](#dreamlike)
@@ -40,17 +36,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [릴러말즈(Leellamarz) - Trip(Feat .Hannah) 1시간(1hour)](https://youtu.be/1iCf9cZswtM)
 1. [씨잼 킁 (약빨 - 메들리 - 포커페이스) 1시간 반복 | 광고 X](https://youtu.be/1hXVq_2s8Pk)
 
-### Fast
-
-1. [Panic! At the Disco - High Hopes (Lyrics)](https://youtu.be/fH_OnJk6QqU)
-1. [Ed Sheeran - 2step (Lyrics) ft. Lil Baby](https://youtu.be/ND2dz2G88zM)
-1. [🔥탑건: 매버릭OST| 탑건 해변가 그 노래 : OneRepublic - I Ain’t Worried [가사/해석/번역/lyrics] ](https://youtu.be/INak4ORss18)
-1. [Marshmello - Shockwave (Official Music Video) ](https://youtu.be/YH18coS7c9E)
-1. [Marshmello - Alone (Official Music Video)](https://youtu.be/ALZHF5UqnU4)
-1. [BTS Go Go Lyrics (방탄소년단 고민보다 Go 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/4Z4QAADu_30)
-1. [Johnny Stimson - Gimme Gimme (Official Lyric Video)](https://youtu.be/jNDY_BxpdYo)
-1. [SEVENTEEN(세븐틴) "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
-
 ### Bright
 
 1. [문어의 꿈 - 안예은(AHN YEEUN) Official Audio](https://youtu.be/LBmB3DGxnNk)
@@ -68,14 +53,15 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [iKON (아이콘) - Love Scenario (사랑을 했다) (Color Coded Lyrics Eng/Rom/Han)](https://youtu.be/8pahVbnQhfA)
 1. [[4K] LINGER_LNGRS, Zior Park. Official MV](https://youtu.be/j_4WDG8jPf4)
 1. [Calvin Harris - Feels (Official Video) ft. Pharrell Williams, Katy Perry, Big Sean](https://youtu.be/ozv4q2ov3Mk)
-
-### Lofi
-
-1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] aesthetic song • lofi type beat • 3 hours](https://youtu.be/cbuZfY2S2UQ)
-1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] 코딩할때 듣기 좋은 노래 | 3 hour playlist | Lofi hip hop mix ~ jazzhop ~ relax beats](https://youtu.be/Xc1Le3CSdrM)
-1. [[inflaylist] 공부/작업 할 때 집중해서 듣기 좋은 음악✍ | 4 hour playlist | lofi, piano | 직장인 | 대학생 | 프리랜서 | 취준생](https://youtu.be/qMwzWk81tVM)
-1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] 코딩 / 과제 할 때 집중 해서 듣기 좋은 음악 • Relaxing lofi beats to study music • Lofi Coding Beats](https://youtu.be/4LIt_ICJyjk)
-1. [코딩할 때 듣기 좋은 로파이 재즈 힙합 (playlist)/𝕝𝕠𝕗𝕚 𝕛𝕒𝕫𝕫 𝕙𝕚𝕡𝕙𝕠𝕡 𝟙𝕙𝕣](https://youtu.be/nxKfi-6EtmY)
+1. [Ava Max - Kings & Queens (Lyrics)](https://youtu.be/q6LhCim5y_Y?si=WD-KZNIH_1mJzkRY)
+1. [Panic! At the Disco - High Hopes (Lyrics)](https://youtu.be/fH_OnJk6QqU)
+1. [Ed Sheeran - 2step (Lyrics) ft. Lil Baby](https://youtu.be/ND2dz2G88zM)
+1. [🔥탑건: 매버릭OST| 탑건 해변가 그 노래 : OneRepublic - I Ain’t Worried [가사/해석/번역/lyrics] ](https://youtu.be/INak4ORss18)
+1. [Marshmello - Shockwave (Official Music Video) ](https://youtu.be/YH18coS7c9E)
+1. [Marshmello - Alone (Official Music Video)](https://youtu.be/ALZHF5UqnU4)
+1. [BTS Go Go Lyrics (방탄소년단 고민보다 Go 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/4Z4QAADu_30)
+1. [Johnny Stimson - Gimme Gimme (Official Lyric Video)](https://youtu.be/jNDY_BxpdYo)
+1. [SEVENTEEN(세븐틴) "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
 
 ### Vibing
 
@@ -85,32 +71,19 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [City City (feat. Rakon) ](https://youtu.be/F1JkW0mKAnQ)
 1. [[팝송번역] Countryside - Curtis Cole / 네가 어떻게 했는지 모르겠지만 넌 날 완전히 사로잡았어](https://youtu.be/HkIR1bnkKto)
 1. [Ljay Currie - Beat Remake (Prod. ZeeBeer)](https://youtu.be/Mx1gCIefX9w?si=uRcoM9sPy3aI5cMH)
-
-### Hiphop
-
-1. [[PLAYLIST] 틀어놓으면 2시간이 훌쩍 지나가는 감성힙합 플레이리스트 | 애쉬아일랜드, 빅나티 , 릴러말즈 , 토일 , 파테코](https://youtu.be/8o6TwNHI0BQ)
-1. [Changmo - Hyperstar](https://youtu.be/ghxcy4WIoOk)
-1. [염따(Yumdda) - 돈 Call Me (Prod. by BRLLNT)ㅣLyrics/가사](https://youtu.be/bdgM8A-ygLU)
-1. [Daisy Remix (feat. Paul Blanco & ASH ISLAND) ](https://youtu.be/JJDN4DOV2pM)
-1. [[MV] BE'O(비오) \_ Complex(자격지심) (Feat. ZICO)](https://youtu.be/viy213MhJeI)
-1. [Donutman 도넛맨 - 꽁초 (feat. Kidd King) [AUDIO]](https://youtu.be/4KH2KFhSNLQ)
-1. [도넛맨 (Donutman) - SmileㅣLyrics/가사 ](https://youtu.be/GDgVLawGfw4)
-1. [Amazing (feat. Jvcki Wai,paul blanco)](https://youtu.be/L_UbDvaTmJU)
-1. [Don't Flex on me (Feat. jayci yucca, 김효은 Keem Hyo-Eun)](https://youtu.be/oTth_Tm-LaQ)
-1. [정상수 - 달이뜨면 MV / Jung sang su - When the moon rise (Official music video)](https://youtu.be/oeaSz6YE9_I)
-1. [정상수 부산을대표해 MV Jung sangsu- Represent Busan Official](https://youtu.be/Ko1RnnIYNz4)
-1. [Lil Nekh (릴네크) - 나로호](https://youtu.be/i5BsAgQWO6Q?si=Ib8_9OJnwHTbvRae)
-
-### Soft
-
-1. [Jeremy Zucker - supercuts (Lyric Video)](https://youtu.be/5S-1rG3bgAA)
-1. [Charlie Puth - I Don't Think That I Like Her (Official Audio)](https://youtu.be/9voN0gkdlS4)
-1. [It Takes Time (시간이 들겠지) (Feat. Colde)](https://youtu.be/KPOBo8c1Wt8)
-1. [멜로망스(Melomance) - 선물 [가사/Lyrics]](https://youtu.be/wTCU8wOFq5E)
-1. [Maroon 5 ft. Megan Thee Stallion - Beautiful Mistakes (Lyrics)](https://youtu.be/voM6aSZzcDk)
-1. [[한글자막/가사번역] 미리 메리 크리스마스🎄 Why don’t we - With You This Christmas 한글가사](https://youtu.be/nYI02KH3Zcs)
-1. [💘 1999년 그 때처럼 : 𝙑𝙖𝙡𝙡𝙚𝙮 - 𝙇𝙞𝙠𝙚 1999 [가사/해석/자막/lyrics]](https://youtu.be/oAq0h8VQJWs)
-1. [멜로망스(Melomance) - 사랑인가 봐 [사내맞선 OST] [가사/Lyrics]](https://youtu.be/McidaTgrQB0)
+1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] aesthetic song • lofi type beat • 3 hours](https://youtu.be/cbuZfY2S2UQ)
+1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] 코딩할때 듣기 좋은 노래 | 3 hour playlist | Lofi hip hop mix ~ jazzhop ~ relax beats](https://youtu.be/Xc1Le3CSdrM)
+1. [[inflaylist] 공부/작업 할 때 집중해서 듣기 좋은 음악✍ | 4 hour playlist | lofi, piano | 직장인 | 대학생 | 프리랜서 | 취준생](https://youtu.be/qMwzWk81tVM)
+1. [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ] 코딩 / 과제 할 때 집중 해서 듣기 좋은 음악 • Relaxing lofi beats to study music • Lofi Coding Beats](https://youtu.be/4LIt_ICJyjk)
+1. [코딩할 때 듣기 좋은 로파이 재즈 힙합 (playlist)/𝕝𝕠𝕗𝕚 𝕛𝕒𝕫𝕫 𝕙𝕚𝕡𝕙𝕠𝕡 𝟙𝕙𝕣](https://youtu.be/nxKfi-6EtmY)
+1. [Imagine Dragons - Radioactive (Lyric Video)](https://youtu.be/w3viBe2Q0P8)
+1. [LISA(Blackpink) - MONEY Lyrics](https://youtu.be/t-_mwJxFqS0)
+1. [릴러말즈(Leellamarz)-야망 (Feat. 창모 (CHANGMO), 애쉬 아일랜드 (ASH ISLAND), 해쉬스완 (HASH SWAN), 김효은 (가사│Lyrics)](https://youtu.be/jBLc76LpfLs)
+1. [데이빗 사바스찬 (David Sabastian) - Beyoncé's Perfect 가사 번역 뮤직비디오](https://youtu.be/Eoax1xMppAc)
+1. [AeroSmith - Dream on [English Subtitles/Lyrics | 한국어 가사/해석/자막]](https://youtu.be/Ej4pXB2oBJY)
+1. [Life of Hojj - 월요일 (Monday)](https://youtu.be/WF39hrd8NLA)
+1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
+1. [Glass Animals - Heat Waves (Official Video)](https://youtu.be/mRD0-GxqHVo)
 
 ### Geeky
 
@@ -135,12 +108,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [즐라탄이 중국을 거절한 이유](https://youtube.com/shorts/LuTjm-eDnCI?feature=share)
 1. [우리가 게임을 굴린다(전자오락수호대)-가스파드](https://youtu.be/6eCuGwRvfBQ?si=d4SiWzzAo__8WXFS)
 1. [립싱크 하는 푸린](https://youtube.com/shorts/KV30wQ3qVYA?si=9bflz8eO3apN2eft)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+
 
 ### Killing verses
 
@@ -176,7 +144,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [싸이코 같은 송민호 급발진 벌스](https://youtube.com/shorts/6Wtf7ftGCYc?feature=share)
 1. [저질러버렸다 “하입보이” AI임재범](https://youtube.com/shorts/IGbbP-hiWQk?si=nq8GzMz-vVQOsS5i)
 1. [도입부부터 개찢고 들어가는 쌔끈보이즈 로꼬 🔥](https://youtube.com/shorts/dq8Nc4v6at0?si=n-kmS8TsJksuiJ3Y)
-1. []()
+1. [Asian Rap Song 🤣 🤣 Credits Korean Comic](https://youtube.com/shorts/G1PV_xyPXpc?si=pguqKaXnXx1i3Qkm)
 1. []()
 1. []()
 
@@ -197,17 +165,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [씨잼 - Extraordinary (약빨)](https://youtu.be/W27RuqDGC9Y)
 1. [씨잼 - Pokerface (포커페이스)](https://youtu.be/yrJSc3NKNfc)
 
-### Inspiring
-
-1. [Imagine Dragons - Radioactive (Lyric Video)](https://youtu.be/w3viBe2Q0P8)
-1. [LISA(Blackpink) - MONEY Lyrics](https://youtu.be/t-_mwJxFqS0)
-1. [릴러말즈(Leellamarz)-야망 (Feat. 창모 (CHANGMO), 애쉬 아일랜드 (ASH ISLAND), 해쉬스완 (HASH SWAN), 김효은 (가사│Lyrics)](https://youtu.be/jBLc76LpfLs)
-1. [데이빗 사바스찬 (David Sabastian) - Beyoncé's Perfect 가사 번역 뮤직비디오](https://youtu.be/Eoax1xMppAc)
-1. [AeroSmith - Dream on [English Subtitles/Lyrics | 한국어 가사/해석/자막]](https://youtu.be/Ej4pXB2oBJY)
-1. [Life of Hojj - 월요일 (Monday)](https://youtu.be/WF39hrd8NLA)
-1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
-1. [Glass Animals - Heat Waves (Official Video)](https://youtu.be/mRD0-GxqHVo)
-
 ### Emotional
 
 1. [LIZRO - Dilemma (딜레마) | 연애혁명 OST](https://youtu.be/SNI5eiVJGTc)
@@ -222,3 +179,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [빠져나올 수 없어🔥 :: Backwards - Alexander Stewart(가사해석/Lyrics)](https://youtu.be/TCzLzeelltE)
 1. [Justin Bieber - Hold On (Lyrics)](https://youtu.be/Q9aKBkMgzVo)
 1. [Acourve - What was that (그게 뭐라고)](https://youtu.be/e_-U6M_Nq-U)
+1. [Jeremy Zucker - supercuts (Lyric Video)](https://youtu.be/5S-1rG3bgAA)
+1. [Charlie Puth - I Don't Think That I Like Her (Official Audio)](https://youtu.be/9voN0gkdlS4)
+1. [멜로망스(Melomance) - 선물 [가사/Lyrics]](https://youtu.be/wTCU8wOFq5E)
+1. [Maroon 5 ft. Megan Thee Stallion - Beautiful Mistakes (Lyrics)](https://youtu.be/voM6aSZzcDk)
+1. [[한글자막/가사번역] 미리 메리 크리스마스🎄 Why don’t we - With You This Christmas 한글가사](https://youtu.be/nYI02KH3Zcs)
+1. [💘 1999년 그 때처럼 : 𝙑𝙖𝙡𝙡𝙚𝙮 - 𝙇𝙞𝙠𝙚 1999 [가사/해석/자막/lyrics]](https://youtu.be/oAq0h8VQJWs)
+1. [멜로망스(Melomance) - 사랑인가 봐 [사내맞선 OST] [가사/Lyrics]](https://youtu.be/McidaTgrQB0)
