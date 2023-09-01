@@ -142,5 +142,11 @@
 <summary>August, 2023</summary>
 
 1. [vite 호스트와 포트 설정하기(feat. cli 명령어)](https://osg.kr/archives/648)
+1. [Proxying API Requests in Development](https://create-react-app.dev/docs/proxying-api-requests-in-development/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 </details>
