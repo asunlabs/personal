@@ -81,3 +81,14 @@
 1. [Github: dependabot/dependabot-core : How to add multiple directories in dependabot.yml config file? #2824](https://github.com/dependabot/dependabot-core/issues/2824)
 
 </details>
+
+<details>
+<summary>August, 2023</summary>
+
+1. [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+1. ["code ." is not working in on the command line for Visual Studio Code on OS X/Mac](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)
+1. []()
+1. []()
+1. []()
+
+</details>

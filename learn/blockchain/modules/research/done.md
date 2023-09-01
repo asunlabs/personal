@@ -236,3 +236,10 @@
 1. [Github: 0xsequence Multicall](https://github.com/0xsequence/sequence.js/tree/master/packages/multicall)
 
 </details>
+
+<details>
+<summary>August, 2023</summary>
+
+1. [MEV(Maximal Extractable Value): 블록체인의 최대 난제](https://xangle.io/insight/research/635f8c1f6c4f32e243e4349c)
+
+</details>

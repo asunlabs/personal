@@ -88,7 +88,7 @@
 <summary>August, 2023</summary>
 
 1. [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
-1. []()
+1. [Var, Let, Const의 차이점은? - 호이스팅과 스코프](https://www.freecodecamp.org/korean/news/var-let-constyi-caijeomeun/)
 1. []()
 
 </details>
