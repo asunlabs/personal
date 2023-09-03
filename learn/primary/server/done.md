@@ -58,11 +58,6 @@
 1. [개발자가 아직 SaaS 를 몰라? 깜찍 서비스 3가지 소개! (Why Programmers Should Build SaaS?)](https://youtu.be/hhd8uUPO3-0)
 1. [ReadFile returns nil when attempting to read file [closed]](https://stackoverflow.com/questions/65370676/readfile-returns-nil-when-attempting-to-read-file)
 1. [encoding/json: changing '&' to '\u0026' #28453](https://github.com/golang/go/issues/28453)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
 
 </details>
 
@@ -85,9 +80,6 @@
 1. [Fiber docs: BasicAuth](https://docs.gofiber.io/api/middleware/basicauth/)
 1. [Paypal docs: API request](https://developer.paypal.com/api/rest/requests/#api-requests)
 1. [CORS Allows * but still getting a 403 on the POST request](https://stackoverflow.com/questions/67173530/cors-allows-but-still-getting-a-403-on-the-post-request)
-1. []()
-1. []()
-1. []()
 
 
 </details>
