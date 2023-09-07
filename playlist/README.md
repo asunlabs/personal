@@ -50,6 +50,12 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [도입부부터 개찢고 들어가는 쌔끈보이즈 로꼬 🔥](https://youtube.com/shorts/dq8Nc4v6at0?si=n-kmS8TsJksuiJ3Y)
 1. [Asian Rap Song 🤣 🤣 Credits Korean Comic](https://youtube.com/shorts/G1PV_xyPXpc?si=pguqKaXnXx1i3Qkm)
 1. [요즘 싱잉 원탑이라 불리는 폴 블랑코](https://youtube.com/shorts/kPBxOYLziSo?si=isl6i-xLGChlk2o3)
+1. [스트릿 베이비 - 전설의 허승 저승 라임](https://youtube.com/shorts/1GKlU3vnei8?si=lpLhBXPbiIGtLtba)
+1. [스트릿 베이비, 김상민그는감히전설이라고할수있다, 식보이 | [Rising Verse] Street Baby, Ksmartboi, Sikboy](https://youtu.be/NvuqaaMH3yA?si=mjv4UKzkH6Z0l4qT)
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 
 ### Bright
