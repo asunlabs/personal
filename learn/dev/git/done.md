@@ -87,8 +87,12 @@
 
 1. [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 1. ["code ." is not working in on the command line for Visual Studio Code on OS X/Mac](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)
-1. []()
-1. []()
-1. []()
+
+</details>
+
+<details>
+<summary>September, 2023</summary>
+
+1. [Atlassian docs: Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick#:~:text=git%20cherry%2Dpick%20is%20a,be%20useful%20for%20undoing%20changes.)
 
 </details>
