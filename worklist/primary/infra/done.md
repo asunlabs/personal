@@ -104,9 +104,25 @@
 
 1. [Why am I getting a Nixpacks error on Railway?](https://stackoverflow.com/questions/74932602/why-am-i-getting-a-nixpacks-error-on-railway)
 1. [How do I get into a Docker container's shell?](https://stackoverflow.com/questions/30172605/how-do-i-get-into-a-docker-containers-shell)
+1. [Docker attached vs detached mode](https://www.java4coding.com/contents/docker/docker-attached-vs-detached-mode#:~:text=Detached%20mode%2C%20started%20by%20the,session%20without%20stopping%20the%20container)
+1. [Github - amir20/dozzle](https://github.com/amir20/dozzle)
+1. [Dozzle docs: Using with Docker compose](https://dozzle.dev/guide/getting-started#using-docker-compose)
 1. []()
-1. []()
-1. []()
-1. []()
+
+</details>
+
+<details>
+
+<summary>September, 2023</summary>
+
+- [[Docker] 실행된 컨테이너에 shell 환경으로 접근하기](https://oboki.net/workspace/system/docker/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90-shell-%ED%99%98%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0/)
+- [Run the ganache-cli inside the Docker Container](https://levelup.gitconnected.com/run-the-ganache-cli-inside-the-docker-container-5e70bc962bfe)
+- [[Docker] RUN, CMD, ENTRYPOINT 차이점](https://seokhyun2.tistory.com/61)
+- [Command line arguments to Docker CMD](https://stackoverflow.com/questions/32554448/command-line-arguments-to-docker-cmd)
+- [DockerHub - trufflesuite/ganache-cli](https://hub.docker.com/r/trufflesuite/ganache-cli/)
+- [[Docker] Node 환경 만들기](https://bum-developer.tistory.com/entry/Docker-Node-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [TerraTest - testing dockerfile](https://terratest.gruntwork.io/docs/getting-started/quick-start/#example-3-docker)
+- [Docker docs: Volumes top-level element](https://docs.docker.com/compose/compose-file/07-volumes/)
+- [Locating data volumes in Docker Desktop (Windows)](https://stackoverflow.com/questions/43181654/locating-data-volumes-in-docker-desktop-windows)
 
 </details>

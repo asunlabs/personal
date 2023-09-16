@@ -98,7 +98,8 @@
 <summary>September, 2023</summary>
 
 1. [How to specify the required Node.js and npm version in package.json?](https://stackfame.com/specify-nodejs-npm-version-in-package-json)
+1. [Decoding and Encoding URLs in JavaScript](https://stackdiary.com/tutorials/decoding-and-encoding-urls-in-javascript/)
+1. [Never send un URI encoded parameters to your server from JavaScript](https://www.semicolonandsons.com/code_diary/javascript/never-send-un-URI-encoded-parameters-to-your-server-from-JavaScript)
+1. []()
 
 </details>
-
-

@@ -94,5 +94,6 @@
 <summary>September, 2023</summary>
 
 1. [Atlassian docs: Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick#:~:text=git%20cherry%2Dpick%20is%20a,be%20useful%20for%20undoing%20changes.)
+1. [Github: DavideViolante/pr-automerge-action](https://github.com/DavideViolante/pr-automerge-action)
 
 </details>

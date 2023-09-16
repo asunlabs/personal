@@ -70,8 +70,8 @@
 1. [Caddy start vs. caddy run?](https://caddy.community/t/caddy-start-vs-caddy-run/9285)
 1. [Caddy docs: API quick-start](https://caddyserver.com/docs/quick-starts/api)
 1. [How to Uninstall a Package on Ubuntu 22.04](https://linuxhint.com/uninstall-package-ubuntu-3/#b1)
-1. [Reason: Credential is not supported if the CORS header 'Access-Control-Allow-Origin' is '*'](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS/Errors/CORSNotSupportingCredentials)
-1. [Access-Control-Allow-Origin가 wildcard(*)일 때 왜 인증 정보를 포함한 요청은 실패하는가 😫](https://www.hahwul.com/2019/04/10/why-failed-get-data-with-this-cors-policy/)
+1. [Reason: Credential is not supported if the CORS header 'Access-Control-Allow-Origin' is '\*'](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS/Errors/CORSNotSupportingCredentials)
+1. [Access-Control-Allow-Origin가 wildcard(\*)일 때 왜 인증 정보를 포함한 요청은 실패하는가 😫](https://www.hahwul.com/2019/04/10/why-failed-get-data-with-this-cors-policy/)
 1. [MDN docs: 413 Content Too Large](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413)
 1. [[Node.js] Command Line 시작 시 인자 전달하기 (Arguments)](https://chashtag.tistory.com/55)
 1. [Github: curl-to-Go](https://mholt.github.io/curl-to-go/)
@@ -79,7 +79,19 @@
 1. [Connect with PayPal - invalid_client Client Authentication failed with sandbox](https://stackoverflow.com/questions/62804401/connect-with-paypal-invalid-client-client-authentication-failed-with-sandbox)
 1. [Fiber docs: BasicAuth](https://docs.gofiber.io/api/middleware/basicauth/)
 1. [Paypal docs: API request](https://developer.paypal.com/api/rest/requests/#api-requests)
-1. [CORS Allows * but still getting a 403 on the POST request](https://stackoverflow.com/questions/67173530/cors-allows-but-still-getting-a-403-on-the-post-request)
+1. [CORS Allows \* but still getting a 403 on the POST request](https://stackoverflow.com/questions/67173530/cors-allows-but-still-getting-a-403-on-the-post-request)
 
+</details>
+
+<details>
+
+<summary>September, 2023</summary>
+
+- [Next.js의 Server actions 기능](https://codingapple.com/unit/nextjs-server-actions/)
+- [websocket communication between servers](https://stackoverflow.com/questions/27605460/websocket-communication-between-servers)
+- [Nestjs docs: API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
+- [Easy Server APIs With NextJS 13.4 Server Actions](https://youtube.com/shorts/qO2qLZDVDCM?si=X7j1s8ufxlOk9K2X)
+- [Next.js 13… this changes everything](https://youtu.be/_w0Ikk4JY7U?si=GIMxScmjLSPJTEPv)
+- []()
 
 </details>
