@@ -92,6 +92,8 @@
 - [Nestjs docs: API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
 - [Easy Server APIs With NextJS 13.4 Server Actions](https://youtube.com/shorts/qO2qLZDVDCM?si=X7j1s8ufxlOk9K2X)
 - [Next.js 13… this changes everything](https://youtu.be/_w0Ikk4JY7U?si=GIMxScmjLSPJTEPv)
-- []()
+- [Using Next.js Route Handlers](https://blog.logrocket.com/using-next-js-route-handlers/)
+- [How to use Next.js API Routes?](https://refine.dev/blog/next-js-api-routes/#introduction)
+- [Nextjs docs: Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 
 </details>
