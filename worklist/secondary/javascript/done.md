@@ -100,6 +100,11 @@
 1. [How to specify the required Node.js and npm version in package.json?](https://stackfame.com/specify-nodejs-npm-version-in-package-json)
 1. [Decoding and Encoding URLs in JavaScript](https://stackdiary.com/tutorials/decoding-and-encoding-urls-in-javascript/)
 1. [Never send un URI encoded parameters to your server from JavaScript](https://www.semicolonandsons.com/code_diary/javascript/never-send-un-URI-encoded-parameters-to-your-server-from-JavaScript)
+1. [[JS] 자바스크립트 클래스와 객체 총정리](https://velog.io/@younoah/JS-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+1. [MDN docs: URL](https://developer.mozilla.org/ko/docs/Web/API/URL/URL)
+1. [MDN docs: URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
+1. []()
+1. []()
 1. []()
 
 </details>

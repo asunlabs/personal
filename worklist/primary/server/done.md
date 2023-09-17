@@ -95,5 +95,9 @@
 - [Using Next.js Route Handlers](https://blog.logrocket.com/using-next-js-route-handlers/)
 - [How to use Next.js API Routes?](https://refine.dev/blog/next-js-api-routes/#introduction)
 - [Nextjs docs: Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [Next.js 개발자가 반드시 공부해야 하는 이유 #shorts](https://youtube.com/shorts/eeOw52gwX9U?si=91bQcH_XhQng-0sc)
+- [🌶️ ExpressJS is the new JQuery](https://youtube.com/shorts/NkzzHYp3gag?si=fcY65151C34TQffn)
+- [🤝 The Link component, explained!](https://youtube.com/shorts/mH-NF4VJ-DY?si=Tmc7J11ifD4_TlXL)
+- [⭐️ NextJS image, explained!](https://youtube.com/shorts/9ZfCZroZwD4?si=tw4aexH0f2MH7SUQ)
 
 </details>
