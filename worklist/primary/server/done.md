@@ -99,5 +99,8 @@
 - [🌶️ ExpressJS is the new JQuery](https://youtube.com/shorts/NkzzHYp3gag?si=fcY65151C34TQffn)
 - [🤝 The Link component, explained!](https://youtube.com/shorts/mH-NF4VJ-DY?si=Tmc7J11ifD4_TlXL)
 - [⭐️ NextJS image, explained!](https://youtube.com/shorts/9ZfCZroZwD4?si=tw4aexH0f2MH7SUQ)
+- [mysql.createConnection vs mysql.createPool in Node JS](https://adi22maurya.medium.com/mysql-createconnection-vs-mysql-createpool-in-node-js-42a5274626e7#:~:text=createPool-,mysql.,is%20available%20before%20it%20continues.)
+- [Github: sidorares/node-mysql2](https://github.com/sidorares/node-mysql2#installation)
+- [Nextjs docs: CORS](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#cors)
 
 </details>

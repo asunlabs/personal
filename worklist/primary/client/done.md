@@ -143,9 +143,8 @@
 1. [vite 호스트와 포트 설정하기(feat. cli 명령어)](https://osg.kr/archives/648)
 1. [Proxying API Requests in Development](https://create-react-app.dev/docs/proxying-api-requests-in-development/)
 1. [MDN docs - Slug](https://developer.mozilla.org/en-US/docs/Glossary/Slug)
-
-1. []()
-1. []()
-1. []()
+1. [Github: vercel/next.js: env examples](https://github.com/vercel/next.js/blob/canary/examples/environment-variables/pages/index.tsx)
+1. [Next js 환경변수 - 클라이언트 사이드](https://taenami.tistory.com/26)
+1. [How can I view HTTP headers in Google Chrome?](https://stackoverflow.com/questions/4423061/how-can-i-view-http-headers-in-google-chrome)
 
 </details>
