@@ -105,6 +105,10 @@
 1. [MDN docs: URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
 1. [Better reading and writing URLs in modern JavaScript](https://youtube.com/shorts/ps7EkRaRMzs?si=I6i0R4acYFYNSexR)
 1. [📑 자바스크립트 에서 yaml 파일 읽기](https://inpa.tistory.com/entry/YAML-%F0%9F%93%9A-%EB%85%B8%EB%93%9C%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-yaml-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0)
+1. [함수형 프로그래밍의 Currying](https://velog.io/@kmp1007s/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-Currying)
+1. [What do multiple arrow functions mean in JavaScript?](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
+1. [change values in array when doing foreach](https://stackoverflow.com/questions/12482961/change-values-in-array-when-doing-foreach)
+1. []()
 1. []()
 
 </details>
