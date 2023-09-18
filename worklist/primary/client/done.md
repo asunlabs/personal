@@ -148,3 +148,11 @@
 1. [How can I view HTTP headers in Google Chrome?](https://stackoverflow.com/questions/4423061/how-can-i-view-http-headers-in-google-chrome)
 
 </details>
+
+<details>
+<summary>September, 2023</summary>
+
+1. [NextJS with TypesScript index.ts files not being resolved with path aliases](https://stackoverflow.com/questions/66253115/nextjs-with-typesscript-index-ts-files-not-being-resolved-with-path-aliases)
+1. [External link is not working in Next.js when you want to use Link component](https://stackoverflow.com/questions/61059111/external-link-is-not-working-in-next-js-when-you-want-to-use-link-component)
+
+</details>

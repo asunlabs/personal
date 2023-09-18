@@ -124,5 +124,9 @@
 - [TerraTest - testing dockerfile](https://terratest.gruntwork.io/docs/getting-started/quick-start/#example-3-docker)
 - [Docker docs: Volumes top-level element](https://docs.docker.com/compose/compose-file/07-volumes/)
 - [Locating data volumes in Docker Desktop (Windows)](https://stackoverflow.com/questions/43181654/locating-data-volumes-in-docker-desktop-windows)
+- [CMD 이더넷 어댑터, 무선 LAN 어댑터란?](https://change-words.tistory.com/entry/ethernet)
+- [The EASIEST Docker Swarm Tutorial](https://youtu.be/6IYKdiRpTi4?si=XSD6r0QW_3ene_Zo)
+- [Easily Deploy Bitwarden (Vaultwarden) to Docker Swarm](https://youtu.be/HSIJ24-yc3g?si=_VQ5PdX0mG3VV615)
+- [Choosing a container orchestration tool | Docker Swarm vs. Kubernetes](https://youtu.be/thb21co4Gw0?si=EExKcX0jv3zt2j_Z)
 
 </details>

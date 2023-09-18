@@ -103,8 +103,8 @@
 1. [[JS] 자바스크립트 클래스와 객체 총정리](https://velog.io/@younoah/JS-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 1. [MDN docs: URL](https://developer.mozilla.org/ko/docs/Web/API/URL/URL)
 1. [MDN docs: URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
-1. []()
-1. []()
+1. [Better reading and writing URLs in modern JavaScript](https://youtube.com/shorts/ps7EkRaRMzs?si=I6i0R4acYFYNSexR)
+1. [📑 자바스크립트 에서 yaml 파일 읽기](https://inpa.tistory.com/entry/YAML-%F0%9F%93%9A-%EB%85%B8%EB%93%9C%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-yaml-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0)
 1. []()
 
 </details>
