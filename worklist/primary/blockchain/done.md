@@ -17,3 +17,7 @@
 1. [What is a Mnemonic, or Secret Code, Seed, or Recovery Phrase?](https://vault12.com/securemycrypto/crypto-security-basics/mnemonic-phrase/)
 1. [What are Solidity events and how they are related to topics and logs?](https://ethereum.stackexchange.com/questions/12950/what-are-solidity-events-and-how-they-are-related-to-topics-and-logs)
 1. [NPM: @typechain/ethers-v6](https://www.npmjs.com/package/@typechain/ethers-v6)
+1. [Cold access VS Warm access - Gas Cost Question](https://ethereum.stackexchange.com/questions/149658/cold-access-vs-warm-access-gas-cost-question)
+1. [Do the tight variable packing rules apply to events too?](https://ethereum.stackexchange.com/questions/125703/do-the-tight-variable-packing-rules-apply-to-events-too)
+1. [Hardhat docs: Support for path mappings](https://hardhat.org/hardhat-runner/docs/guides/typescript#support-for-path-mappings)
+1. [tsconfig short paths are not working #2259](https://github.com/NomicFoundation/hardhat/issues/2259)
