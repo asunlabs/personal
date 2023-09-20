@@ -21,3 +21,6 @@
 1. [Do the tight variable packing rules apply to events too?](https://ethereum.stackexchange.com/questions/125703/do-the-tight-variable-packing-rules-apply-to-events-too)
 1. [Hardhat docs: Support for path mappings](https://hardhat.org/hardhat-runner/docs/guides/typescript#support-for-path-mappings)
 1. [tsconfig short paths are not working #2259](https://github.com/NomicFoundation/hardhat/issues/2259)
+1. [Optimizing Ethereum Transactions with eth_createAccessList](https://blog.infura.io/post/optimizing-ethereum-transactions-with-eth_createaccesslist)
+1. [Github: folia-app/eip-2929](https://github.com/folia-app/eip-2929/blob/master/index.js)
+1. [EIP-2930 - Ethereum access list](https://www.rareskills.io/post/eip-2930-optional-access-list-ethereum)

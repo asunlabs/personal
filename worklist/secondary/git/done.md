@@ -95,5 +95,6 @@
 
 1. [Atlassian docs: Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick#:~:text=git%20cherry%2Dpick%20is%20a,be%20useful%20for%20undoing%20changes.)
 1. [Github: DavideViolante/pr-automerge-action](https://github.com/DavideViolante/pr-automerge-action)
+1. [[Git] 텍스트 기반 Git 유저 인터페이스, Tig - 감성 프로그래밍](https://programmingsummaries.tistory.com/390)
 
 </details>
