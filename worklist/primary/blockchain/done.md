@@ -24,3 +24,9 @@
 1. [Optimizing Ethereum Transactions with eth_createAccessList](https://blog.infura.io/post/optimizing-ethereum-transactions-with-eth_createaccesslist)
 1. [Github: folia-app/eip-2929](https://github.com/folia-app/eip-2929/blob/master/index.js)
 1. [EIP-2930 - Ethereum access list](https://www.rareskills.io/post/eip-2930-optional-access-list-ethereum)
+
+- [What happens if the L1 gas price spikes while a transaction is in process?](https://help.optimism.io/hc/en-us/articles/4416677738907)
+- [How do transaction gas fees on OP Mainnet work?](https://help.optimism.io/hc/en-us/articles/4411895794715-How-do-transaction-gas-fees-on-OP-Mainnet-work-)
+- [HOW DO OPTIMISTIC ROLLUPS INTERACT WITH ETHEREUM?](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)
+- [Polygon vs Optimism: How Do They Provide Enhancements to Ethereum?](https://www.cryptopolitan.com/polygon-vs-optimism-enhancements-to-ethereum/#:~:text=What%20is%20the%20primary%20difference,while%20storing%20data%20on%2Dchain.)
+- [Building a raw contract transaction with ethers.js](https://ethereum.stackexchange.com/questions/84561/building-a-raw-contract-transaction-with-ethers-js)
