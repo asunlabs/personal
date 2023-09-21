@@ -1,0 +1,8 @@
+- [transfer() in Solidity: Why you should STOP using it?](https://www.immunebytes.com/blog/transfer-in-solidity-why-you-should-stop-using-it/)
+- [Rare skills: Solidity Events](https://www.rareskills.io/post/ethereum-events#:~:text=Gas%20cost%20to%20emit%20Solidity%20event&text=Each%20event%20costs%20at%20least,included%20most%20of%20the%20time.)
+- [Github: ethers: network name types](https://github.com/ethers-io/ethers.js/blob/master/packages/networks/src.ts/index.ts#L179)
+- [Solidity docs: Layout in Memory](https://docs.soliditylang.org/en/latest/internals/layout_in_memory.html)
+- [Design Pattern Solidity: Free up unused storage](https://soliditydeveloper.com/design-pattern-solidity-free-up-unused-storage)
+- [What happens if the L1 gas price spikes while a transaction is in process?](https://help.optimism.io/hc/en-us/articles/4416677738907)
+- [How do transaction gas fees on OP Mainnet work?](https://help.optimism.io/hc/en-us/articles/4411895794715-How-do-transaction-gas-fees-on-OP-Mainnet-work-)
+- [HOW DO OPTIMISTIC ROLLUPS INTERACT WITH ETHEREUM?](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)

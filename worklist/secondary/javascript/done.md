@@ -108,7 +108,7 @@
 1. [함수형 프로그래밍의 Currying](https://velog.io/@kmp1007s/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-Currying)
 1. [What do multiple arrow functions mean in JavaScript?](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
 1. [change values in array when doing foreach](https://stackoverflow.com/questions/12482961/change-values-in-array-when-doing-foreach)
-1. []()
+1. [Will a 'break' statement break out multiple if statements?](https://stackoverflow.com/questions/51858871/will-a-break-statement-break-out-multiple-if-statements)
 1. []()
 
 </details>
