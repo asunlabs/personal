@@ -7,3 +7,6 @@
 - [Cold access VS Warm access - Gas Cost Question](https://ethereum.stackexchange.com/questions/149658/cold-access-vs-warm-access-gas-cost-question)
 - [Solidity Gas Optimization: Understanding how EVM works can save you gas](https://medium.com/@bloqarl/solidity-gas-optimization-1-understanding-how-evm-works-can-save-you-gas-44c87011b295)
 - [Comprehensive Guide: Tips and Tricks for Gas Optimization in Solidity](https://coinsbench.com/comprehensive-guide-tips-and-tricks-for-gas-optimization-in-solidity-5380db734404)
+- [How to Create A Soulbound Token](https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-create-a-soulbound-token)
+- [What does \_ (underscore) do? [duplicate]](https://ethereum.stackexchange.com/questions/19171/what-does-underscore-do)
+- [How to define TYPEHASH for EIP712 typed data signing with nested struct in Solidity?](https://stackoverflow.com/questions/75019935/how-to-define-typehash-for-eip712-typed-data-signing-with-nested-struct-in-solid)
