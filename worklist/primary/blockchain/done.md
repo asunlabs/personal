@@ -39,3 +39,4 @@
 - [EThers V5 docs: getFeeData](https://docs.ethers.org/v5/api/providers/provider/#Provider-getFeeData)
 - [Hardhat docs: ESM support](https://hardhat.org/hardhat-runner/docs/advanced/using-esm#hardhat-support-for-es-modules)
 - [Hardhat get last block timestamp, block number, block hash, nonce, gas limit, gas used](https://ethereum.stackexchange.com/questions/110856/hardhat-get-last-block-timestamp-block-number-block-hash-nonce-gas-limit-ga)
+- [ethers v6 docs: BigNumbers to BigInts](https://docs.ethers.org/v6/migrating/#migrate-bigint)

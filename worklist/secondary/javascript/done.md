@@ -111,7 +111,7 @@
 1. [Will a 'break' statement break out multiple if statements?](https://stackoverflow.com/questions/51858871/will-a-break-statement-break-out-multiple-if-statements)
 1. [How to import from a file with an .mts extension in a CJS-first project?](https://stackoverflow.com/questions/76800010/how-to-import-from-a-file-with-an-mts-extension-in-a-cjs-first-project)
 1. [Dynamic import() Expressions in TypeScript](https://mariusschulz.com/blog/dynamic-import-expressions-in-typescript)
-1. []()
+1. [Why we need "nodenext" typescript compiler option when we have "esnext"?](https://stackoverflow.com/questions/71463698/why-we-need-nodenext-typescript-compiler-option-when-we-have-esnext#:~:text=%2D%2Dmodule%20nodenext%20enables%20looking,of%20module%20output%20we%20emit.)
 1. []()
 1. []()
 1. []()
