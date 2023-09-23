@@ -37,3 +37,5 @@
 - [Ethers.js how to calculate gas used in transaction](https://mirror.xyz/n00b21337.eth/8ErvjEdXmVimO4bWh5NK6sjpCEbvhXE1Z_QyFT2m-tE)
 - [Klaytn dev forum: Gas price 에 대해 기본적인 개념이 헷갈려서 질문드립니다](https://forum.klaytn.foundation/t/gas-price/6313/1)
 - [EThers V5 docs: getFeeData](https://docs.ethers.org/v5/api/providers/provider/#Provider-getFeeData)
+- [Hardhat docs: ESM support](https://hardhat.org/hardhat-runner/docs/advanced/using-esm#hardhat-support-for-es-modules)
+- [Hardhat get last block timestamp, block number, block hash, nonce, gas limit, gas used](https://ethereum.stackexchange.com/questions/110856/hardhat-get-last-block-timestamp-block-number-block-hash-nonce-gas-limit-ga)

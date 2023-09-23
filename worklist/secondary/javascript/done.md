@@ -109,6 +109,12 @@
 1. [What do multiple arrow functions mean in JavaScript?](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
 1. [change values in array when doing foreach](https://stackoverflow.com/questions/12482961/change-values-in-array-when-doing-foreach)
 1. [Will a 'break' statement break out multiple if statements?](https://stackoverflow.com/questions/51858871/will-a-break-statement-break-out-multiple-if-statements)
+1. [How to import from a file with an .mts extension in a CJS-first project?](https://stackoverflow.com/questions/76800010/how-to-import-from-a-file-with-an-mts-extension-in-a-cjs-first-project)
+1. [Dynamic import() Expressions in TypeScript](https://mariusschulz.com/blog/dynamic-import-expressions-in-typescript)
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 
 </details>
