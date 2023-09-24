@@ -112,7 +112,7 @@
 1. [How to import from a file with an .mts extension in a CJS-first project?](https://stackoverflow.com/questions/76800010/how-to-import-from-a-file-with-an-mts-extension-in-a-cjs-first-project)
 1. [Dynamic import() Expressions in TypeScript](https://mariusschulz.com/blog/dynamic-import-expressions-in-typescript)
 1. [Why we need "nodenext" typescript compiler option when we have "esnext"?](https://stackoverflow.com/questions/71463698/why-we-need-nodenext-typescript-compiler-option-when-we-have-esnext#:~:text=%2D%2Dmodule%20nodenext%20enables%20looking,of%20module%20output%20we%20emit.)
-1. []()
+1. [[Typescript] 클래스(Class) : private, protected, public](https://velog.io/@wjd489898/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4Class-private-protected-public)
 1. []()
 1. []()
 1. []()
