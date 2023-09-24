@@ -1,0 +1,2 @@
+- [Features and Use of Pointers in C/C++](https://www.geeksforgeeks.org/features-and-use-of-pointers-in-c-c/)
+- [Wikipedia docs: Scratch space](https://en.wikipedia.org/wiki/Scratch_space)
