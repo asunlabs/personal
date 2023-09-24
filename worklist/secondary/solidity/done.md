@@ -13,3 +13,4 @@
 - [Storage Pointers In Solidity](https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054)
 - [Generics in Solidity?](https://www.reddit.com/r/ethdev/comments/7o3jjp/generics_in_solidity/)
 - [How does memory work in Yul?](https://www.alchemy.com/overviews/yul-memory)
+- [Github: yul by example: unchecked](https://github.com/Perelyn-sama/yul_by_example/blob/main/src/Unchecked.sol)

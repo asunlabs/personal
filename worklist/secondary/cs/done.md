@@ -1,2 +1,3 @@
 - [Features and Use of Pointers in C/C++](https://www.geeksforgeeks.org/features-and-use-of-pointers-in-c-c/)
 - [Wikipedia docs: Scratch space](https://en.wikipedia.org/wiki/Scratch_space)
+- [Offset(오프셋이란?)](https://hyo-ue4study.tistory.com/56)

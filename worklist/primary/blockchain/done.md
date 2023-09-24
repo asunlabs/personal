@@ -46,3 +46,6 @@
 - [Using a SignerWithAddress to sign a transaction from populateTransaction fails with "Signing transactions is unsupported" #1869](https://github.com/ethers-io/ethers.js/issues/1869)
 - [Does the EVM support garbage collection (reclaim unused memory)?](https://ethereum.stackexchange.com/questions/32080/does-the-evm-support-garbage-collection-reclaim-unused-memory)
 - [OPCODE free memory pointer and offset](https://ethereum.stackexchange.com/questions/137729/opcode-free-memory-pointer-and-offset)
+- [Solidity docs: Layout in Memory](https://docs.soliditylang.org/en/v0.8.21/internals/layout_in_memory.html)
+- [Uniswap article: Dutch auctions](https://www.linkedin.com/posts/uniswaporg_uniswapx-activity-7110276084486537216-dtMn/?utm_source=share&utm_medium=member_android)
+- [EIP-1559에 따른 이더리움 수수료 계산법](https://brunch.co.kr/@doyoulovez/15)
