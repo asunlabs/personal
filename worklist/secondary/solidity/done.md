@@ -10,3 +10,6 @@
 - [How to Create A Soulbound Token](https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-create-a-soulbound-token)
 - [What does \_ (underscore) do? [duplicate]](https://ethereum.stackexchange.com/questions/19171/what-does-underscore-do)
 - [How to define TYPEHASH for EIP712 typed data signing with nested struct in Solidity?](https://stackoverflow.com/questions/75019935/how-to-define-typehash-for-eip712-typed-data-signing-with-nested-struct-in-solid)
+- [Storage Pointers In Solidity](https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054)
+- [Generics in Solidity?](https://www.reddit.com/r/ethdev/comments/7o3jjp/generics_in_solidity/)
+- [How does memory work in Yul?](https://www.alchemy.com/overviews/yul-memory)
