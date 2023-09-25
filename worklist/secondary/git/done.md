@@ -97,5 +97,7 @@
 1. [Github: DavideViolante/pr-automerge-action](https://github.com/DavideViolante/pr-automerge-action)
 1. [[Git] 텍스트 기반 Git 유저 인터페이스, Tig - 감성 프로그래밍](https://programmingsummaries.tistory.com/390)
 1. [Geeks for geeks: Git – Head](https://www.geeksforgeeks.org/git-head/)
+1. [Github docs: Managing the automatic deletion of branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-the-automatic-deletion-of-branches)
+1. [Github docs: Automatically merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request)
 
 </details>
