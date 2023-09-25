@@ -52,9 +52,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [요즘 싱잉 원탑이라 불리는 폴 블랑코](https://youtube.com/shorts/kPBxOYLziSo?si=isl6i-xLGChlk2o3)
 1. [스트릿 베이비 - 전설의 허승 저승 라임](https://youtube.com/shorts/1GKlU3vnei8?si=lpLhBXPbiIGtLtba)
 1. [스트릿 베이비, 김상민그는감히전설이라고할수있다, 식보이 | [Rising Verse] Street Baby, Ksmartboi, Sikboy](https://youtu.be/NvuqaaMH3yA?si=mjv4UKzkH6Z0l4qT)
-1. []()
-1. []()
-1. []()
+1. [Billie Eilish - I will](https://youtube.com/shorts/-06vZOkulZQ?si=sKwfqP4w1xN1qTu8)
+1. [The great show man - this is me](https://youtube.com/shorts/FeEezzEtbtM?si=rz1dLwAXRLveo2_l)
+1. [Coi Leray - players](https://youtube.com/shorts/leTirGIX_m0?si=dwoY-mzKAh091Tk1)
 1. []()
 1. []()
 
