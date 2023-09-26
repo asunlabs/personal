@@ -57,3 +57,6 @@
 - [Optimism Transaction (sequencer transaction and queue transaction)[KR]](https://medium.com/onther-tech/optimism-transaction-b5de4f1b82e1)
 - [Ethereum docs: Account abstraction](https://ethereum.org/en/roadmap/account-abstraction/)
 - [Hardhat docs: #hardhat-foundry](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-foundry#hardhat-foundry)
+- [How To Bridge to Optimism](https://coinmarketcap.com/academy/article/how-to-bridge-to-optimism)
+- [ERC-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
+- [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
