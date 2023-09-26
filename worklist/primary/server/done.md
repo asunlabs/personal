@@ -102,5 +102,7 @@
 - [mysql.createConnection vs mysql.createPool in Node JS](https://adi22maurya.medium.com/mysql-createconnection-vs-mysql-createpool-in-node-js-42a5274626e7#:~:text=createPool-,mysql.,is%20available%20before%20it%20continues.)
 - [Github: sidorares/node-mysql2](https://github.com/sidorares/node-mysql2#installation)
 - [Nextjs docs: CORS](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#cors)
+- [Send post request from one web server to another](https://stackoverflow.com/questions/60184195/send-post-request-from-one-web-server-to-another)
+- [handling posted data from a server on another server with http node.js](https://stackoverflow.com/questions/75267357/handling-posted-data-from-a-server-on-another-server-with-http-node-js)
 
 </details>

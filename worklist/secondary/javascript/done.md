@@ -114,7 +114,7 @@
 1. [Why we need "nodenext" typescript compiler option when we have "esnext"?](https://stackoverflow.com/questions/71463698/why-we-need-nodenext-typescript-compiler-option-when-we-have-esnext#:~:text=%2D%2Dmodule%20nodenext%20enables%20looking,of%20module%20output%20we%20emit.)
 1. [[Typescript] 클래스(Class) : private, protected, public](https://velog.io/@wjd489898/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4Class-private-protected-public)
 1. [How to extend interfaces in TypeScript](https://byby.dev/ts-extending-interfaces)
-1. []()
+1. [Geeks for geeks: What is buffer in Node.js ?](https://www.geeksforgeeks.org/what-is-buffer-in-node-js/)
 1. []()
 
 </details>
