@@ -55,8 +55,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Billie Eilish - I will](https://youtube.com/shorts/-06vZOkulZQ?si=sKwfqP4w1xN1qTu8)
 1. [The great show man - this is me](https://youtube.com/shorts/FeEezzEtbtM?si=rz1dLwAXRLveo2_l)
 1. [Coi Leray - players](https://youtube.com/shorts/leTirGIX_m0?si=dwoY-mzKAh091Tk1)
-1. []()
-1. []()
+1. [이 노래는 꼭 역주행 해야 함🙏: The Unlikely Candidates - Oh My Dear Lord [가사/해석/팝송/lyrics]](https://youtu.be/1NdFm4NrQYQ?si=veHhJAA1ll3--qqW)
+1. [아니 이런 노래가 묻혀있었다고?!!!!🔥💦 : 𝐏𝐚𝐩𝐞𝐫 𝐊𝐢𝐧𝐠𝐬 - 𝐅𝐢𝐫𝐞 𝐨𝐧 𝐔𝐩 [가사/해석/lyrics]](https://youtu.be/RiyY-LZFLw8?si=90hUTuZjmBo59f0Q)
 
 ### Bright
 
