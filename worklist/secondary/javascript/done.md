@@ -115,6 +115,6 @@
 1. [[Typescript] 클래스(Class) : private, protected, public](https://velog.io/@wjd489898/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4Class-private-protected-public)
 1. [How to extend interfaces in TypeScript](https://byby.dev/ts-extending-interfaces)
 1. [Geeks for geeks: What is buffer in Node.js ?](https://www.geeksforgeeks.org/what-is-buffer-in-node-js/)
-1. []()
+1. [제네릭(Generics)의 사전적 정의](https://joshua1988.github.io/ts/guide/generics.html#%EC%A0%9C%EB%84%A4%EB%A6%AD-generics-%EC%9D%98-%EC%82%AC%EC%A0%84%EC%A0%81-%EC%A0%95%EC%9D%98)
 
 </details>
