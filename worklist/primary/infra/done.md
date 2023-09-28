@@ -128,5 +128,15 @@
 - [The EASIEST Docker Swarm Tutorial](https://youtu.be/6IYKdiRpTi4?si=XSD6r0QW_3ene_Zo)
 - [Easily Deploy Bitwarden (Vaultwarden) to Docker Swarm](https://youtu.be/HSIJ24-yc3g?si=_VQ5PdX0mG3VV615)
 - [Choosing a container orchestration tool | Docker Swarm vs. Kubernetes](https://youtu.be/thb21co4Gw0?si=EExKcX0jv3zt2j_Z)
+- [Docker Swarm의 주요 용어, 활성화 방법 및 노드(Node) 관리법 살펴보기](https://seongjin.me/docker-swarm-introduction-nodes/)
+- [Velog: 내부망, 외부망, 망분리](https://velog.io/@szlee/%EB%82%B4%EB%B6%80%EB%A7%9D-%EC%99%B8%EB%B6%80%EB%A7%9D-%EB%A7%9D%EB%B6%84%EB%A6%AC)
+- [금융권 개발자를 위한 망분리용 안드로이드 gradle cache 설정하기](https://velog.io/@won2oppa/%EA%B8%88%EC%9C%B5%EA%B6%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%9D%EB%B6%84%EB%A6%AC%EC%9A%A9-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-gradle-cache-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [[네트워크] - 내부망과 외부망 개념](https://data-study-clip.tistory.com/18)
+- [IP란 무엇인가: 공인 IP, 사설 IP](https://study-recording.tistory.com/7)
+- [내 아이피 주소 확인 ip 주소 및 휴대폰 아이피 변경하는 법](https://blog.naver.com/jackie30/222670836831)
+- [한경 용어 사전: 망분리(network separation)](https://dic.hankyung.com/economy/view/?seq=14621)
+- []()
+- []()
+- []()
 
 </details>
