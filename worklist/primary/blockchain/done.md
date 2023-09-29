@@ -62,3 +62,5 @@
 - [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
 - [An Introduction to Upgradeable Smart Contracts](https://www.quicknode.com/guides/ethereum-development/smart-contracts/an-introduction-to-upgradeable-smart-contracts)
 - [ERC165 interface calculator](https://erc165.ardis.lu/)
+- [[Inline assembly] Error on usage of pc() with Yul optimizer enabled #8852](https://github.com/ethereum/solidity/issues/8852)
+- [Ethereum docs: OPCODES FOR THE EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)

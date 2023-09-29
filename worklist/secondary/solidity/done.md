@@ -15,3 +15,6 @@
 - [How does memory work in Yul?](https://www.alchemy.com/overviews/yul-memory)
 - [Github: yul by example: unchecked](https://github.com/Perelyn-sama/yul_by_example/blob/main/src/Unchecked.sol)
 - [Solidity by example: import](https://solidity-by-example.org/import/)
+- [Solidity: Raise events via Assembly using log3](https://ethereum.stackexchange.com/questions/72817/solidity-raise-events-via-assembly-using-log3)
+- [How to get a contract's balance in Solidity?](https://ethereum.stackexchange.com/questions/21448/how-to-get-a-contracts-balance-in-solidity)
+- [Difference between address payable and payable(address)](https://ethereum.stackexchange.com/questions/135821/difference-between-address-payable-and-payableaddress)
