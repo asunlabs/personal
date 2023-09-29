@@ -64,3 +64,5 @@
 - [ERC165 interface calculator](https://erc165.ardis.lu/)
 - [[Inline assembly] Error on usage of pc() with Yul optimizer enabled #8852](https://github.com/ethereum/solidity/issues/8852)
 - [Ethereum docs: OPCODES FOR THE EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
+- [ERC-191: Signed Data Standard](https://eips.ethereum.org/EIPS/eip-191)
+- ["\x19Ethereum Signed Message:\n32" Prefix Meaning](https://stackoverflow.com/questions/74164255/x19ethereum-signed-message-n32-prefix-meaning)
