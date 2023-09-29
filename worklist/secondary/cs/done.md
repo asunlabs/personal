@@ -21,7 +21,7 @@
 - [기계식 키보드의 추천, 장점, 기계식 키보드 소음 순위, 긱핵 크림치즈 키캡 사용기](https://iandi.tistory.com/151)
 - [| 기계식 키보드에 붙는 키압이 30g, 45g, 50g 같은 건 뭔가요?](https://coolenjoy.net/bbs/34/2091053)
 - [BP69: Use Index.ts to simplify imports](https://www.bettercoder.io/best-practices/69/use-indexts-to-simplify-imports)
-- []()
+- [Wikipedia - magic number](<https://en.wikipedia.org/wiki/Magic_number_(programming)>)
 - []()
 - []()
 - []()

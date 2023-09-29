@@ -60,3 +60,5 @@
 - [How To Bridge to Optimism](https://coinmarketcap.com/academy/article/how-to-bridge-to-optimism)
 - [ERC-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 - [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
+- [An Introduction to Upgradeable Smart Contracts](https://www.quicknode.com/guides/ethereum-development/smart-contracts/an-introduction-to-upgradeable-smart-contracts)
+- [ERC165 interface calculator](https://erc165.ardis.lu/)

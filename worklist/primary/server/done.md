@@ -104,5 +104,7 @@
 - [Nextjs docs: CORS](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#cors)
 - [Send post request from one web server to another](https://stackoverflow.com/questions/60184195/send-post-request-from-one-web-server-to-another)
 - [handling posted data from a server on another server with http node.js](https://stackoverflow.com/questions/75267357/handling-posted-data-from-a-server-on-another-server-with-http-node-js)
+- [Using CORS in Next.js to handle cross-origin requests](https://blog.logrocket.com/using-cors-next-js-handle-cross-origin-requests/#why-need-cors-next-js)
+- [Do I need 2 servers for reverse proxy?](https://www.quora.com/Do-I-need-2-servers-for-reverse-proxy)
 
 </details>
