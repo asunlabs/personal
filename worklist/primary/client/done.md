@@ -154,5 +154,7 @@
 
 1. [NextJS with TypesScript index.ts files not being resolved with path aliases](https://stackoverflow.com/questions/66253115/nextjs-with-typesscript-index-ts-files-not-being-resolved-with-path-aliases)
 1. [External link is not working in Next.js when you want to use Link component](https://stackoverflow.com/questions/61059111/external-link-is-not-working-in-next-js-when-you-want-to-use-link-component)
+1. [Why can't I import "white" color from Material UI colors?](https://stackoverflow.com/questions/61118174/why-cant-i-import-white-color-from-material-ui-colors)
+1. [MUI docs: Color](https://mui.com/material-ui/customization/color/)
 
 </details>

@@ -116,5 +116,9 @@
 1. [How to extend interfaces in TypeScript](https://byby.dev/ts-extending-interfaces)
 1. [Geeks for geeks: What is buffer in Node.js ?](https://www.geeksforgeeks.org/what-is-buffer-in-node-js/)
 1. [제네릭(Generics)의 사전적 정의](https://joshua1988.github.io/ts/guide/generics.html#%EC%A0%9C%EB%84%A4%EB%A6%AD-generics-%EC%9D%98-%EC%82%AC%EC%A0%84%EC%A0%81-%EC%A0%95%EC%9D%98)
+1. [JavaScript Math.pow() Function](https://www.scaler.com/topics/javascript-math-pow/)
+1. [자바스크립트의 setTimeout()과 setInterval() 함수](https://www.daleseo.com/js-timer/)
+1. [Get return value from setTimeout [duplicate]](https://stackoverflow.com/questions/24928846/get-return-value-from-settimeout)
+1. [What is void and when to use void type in JavaScript ?](https://www.geeksforgeeks.org/what-is-void-and-when-to-use-void-type-in-javascript/)
 
 </details>
