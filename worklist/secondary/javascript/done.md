@@ -120,5 +120,9 @@
 1. [자바스크립트의 setTimeout()과 setInterval() 함수](https://www.daleseo.com/js-timer/)
 1. [Get return value from setTimeout [duplicate]](https://stackoverflow.com/questions/24928846/get-return-value-from-settimeout)
 1. [What is void and when to use void type in JavaScript ?](https://www.geeksforgeeks.org/what-is-void-and-when-to-use-void-type-in-javascript/)
+1. [Is Math.random() cryptographically secure?](https://stackoverflow.com/questions/5651789/is-math-random-cryptographically-secure)
+1. [JS Symbol type](https://javascript.info/symbol)
+1. [Mocha afterEach](https://www.educative.io/answers/mocha-aftereach)
+1. [[JS] Promise와 async/await 비교하기](https://velog.io/@nemo/async-await)
 
 </details>
