@@ -57,6 +57,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Coi Leray - players](https://youtube.com/shorts/leTirGIX_m0?si=dwoY-mzKAh091Tk1)
 1. [이 노래는 꼭 역주행 해야 함🙏: The Unlikely Candidates - Oh My Dear Lord [가사/해석/팝송/lyrics]](https://youtu.be/1NdFm4NrQYQ?si=veHhJAA1ll3--qqW)
 1. [아니 이런 노래가 묻혀있었다고?!!!!🔥💦 : 𝐏𝐚𝐩𝐞𝐫 𝐊𝐢𝐧𝐠𝐬 - 𝐅𝐢𝐫𝐞 𝐨𝐧 𝐔𝐩 [가사/해석/lyrics]](https://youtu.be/RiyY-LZFLw8?si=90hUTuZjmBo59f0Q)
+1. [The Notorious B.I.G. - Juicy 가사 해석 번역](https://youtu.be/Bs-8Rwv1CdY?si=DNTbMinaxKv5KHNI)
 
 ### Bright
 
@@ -84,6 +85,13 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [BTS Go Go Lyrics (방탄소년단 고민보다 Go 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/4Z4QAADu_30)
 1. [Johnny Stimson - Gimme Gimme (Official Lyric Video)](https://youtu.be/jNDY_BxpdYo)
 1. [SEVENTEEN(세븐틴) "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
+1. [⭐️우리에게 영원히 기억될 “명곡" : Avicii - The Nights [가사/해석/lyrics]](https://youtu.be/yG57Xggm92A?si=xaxSM4Zx0WUvCQeH)
+1. [Coldplay X BTS - My Universe (Official Lyric Video)](https://youtu.be/bZYPI4mYwhw?si=GY0hFB0x63sP78Wz)
+1. [괜히 입 열었다가 금사빠인 거 들킬라🤫 [가사 번역] 찰리 푸스 (Charlie Puth) - Charlie Be Quiet!](https://youtu.be/WM47vsnE_gc?si=aC2iw4U28GDpXrq-)
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### Vibing
 
@@ -107,6 +115,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
 1. [Glass Animals - Heat Waves (Official Video)](https://youtu.be/mRD0-GxqHVo)
 1. [Deba - Catch up Later]()
+1. [AJR - I'm Not Famous (Official Video)](https://youtu.be/VkXYjy6sZ2A?si=Lm5EtJ51gR6ZISip)
 
 ### Geeky
 
@@ -170,6 +179,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [[한글자막/가사번역] 미리 메리 크리스마스🎄 Why don’t we - With You This Christmas 한글가사](https://youtu.be/nYI02KH3Zcs)
 1. [💘 1999년 그 때처럼 : 𝙑𝙖𝙡𝙡𝙚𝙮 - 𝙇𝙞𝙠𝙚 1999 [가사/해석/자막/lyrics]](https://youtu.be/oAq0h8VQJWs)
 1. [멜로망스(Melomance) - 사랑인가 봐 [사내맞선 OST] [가사/Lyrics]](https://youtu.be/McidaTgrQB0)
+1. [Billy Joel - Piano Man (한글 자막/가사/번역/해석/lyrics/가사해석)](https://youtu.be/TopdlAgjdA4?si=LKO3YexAd1n3ld3B)
 
 ### One hour
 
