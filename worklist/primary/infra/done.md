@@ -140,3 +140,12 @@
 - []()
 
 </details>
+
+<details>
+<summary>October, 2023</summary>
+
+- [Containerize a Node.js application](https://docs.docker.com/language/nodejs/develop/)
+- [Use containers for Node.js development](https://docs.docker.com/language/nodejs/develop/)
+- [Run Node.js tests in a container](https://docs.docker.com/language/nodejs/run-tests/)
+
+</details>

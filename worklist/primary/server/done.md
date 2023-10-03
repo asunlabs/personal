@@ -108,3 +108,10 @@
 - [Do I need 2 servers for reverse proxy?](https://www.quora.com/Do-I-need-2-servers-for-reverse-proxy)
 
 </details>
+
+<details>
+<summary>October, 2023</summary>
+
+- [Database Migration: What It Is and How It Is Done](https://astera1.medium.com/database-migration-what-it-is-and-how-it-is-done-5435290ee11b)
+
+</details>

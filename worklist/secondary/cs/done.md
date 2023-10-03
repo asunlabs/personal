@@ -22,6 +22,6 @@
 - [| 기계식 키보드에 붙는 키압이 30g, 45g, 50g 같은 건 뭔가요?](https://coolenjoy.net/bbs/34/2091053)
 - [BP69: Use Index.ts to simplify imports](https://www.bettercoder.io/best-practices/69/use-indexts-to-simplify-imports)
 - [Wikipedia - magic number](<https://en.wikipedia.org/wiki/Magic_number_(programming)>)
-- []()
+- [End to end testing: cypress](https://player.vimeo.com/video/237527670)
 - []()
 - []()
