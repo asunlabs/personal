@@ -113,5 +113,12 @@
 <summary>October, 2023</summary>
 
 - [Database Migration: What It Is and How It Is Done](https://astera1.medium.com/database-migration-what-it-is-and-how-it-is-done-5435290ee11b)
+- [Nextjs docs: How do I access Environment Variables?](https://nextjs.org/docs/pages/api-reference/functions/next-server#how-do-i-access-environment-variables)
+- [Nextjs docs: Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [MDN docs: Request](https://developer.mozilla.org/en-US/docs/Web/API/Request)
+- [Request vs NextRequest vs NextApiRequest (and Response)](https://www.reddit.com/r/nextjs/comments/12i224x/request_vs_nextrequest_vs_nextapirequest_and/)
+- [Testing api endpoints in Next.js](https://www.reddit.com/r/nextjs/comments/12dj9rs/testing_api_endpoints_in_nextjs/)
+- [How can I test dynamic next.js API route using supertest in an integration test scenario? #769](https://github.com/ladjs/supertest/issues/769)
+- [How to Unit Test Next.js API Routes with TypeScript](https://www.paigeniedringhaus.com/blog/how-to-unit-test-next-js-api-routes-with-typescript)
 
 </details>

@@ -102,3 +102,12 @@
 1. [Using Git hooks to enforce branch naming policy](https://itnext.io/using-git-hooks-to-enforce-branch-naming-policy-ffd81fa01e5e)
 
 </details>
+
+<details>
+<summary>October, 2023</summary>
+
+1. [Git diff says subproject is dirty](https://stackoverflow.com/questions/4873980/git-diff-says-subproject-is-dirty)
+1. []()
+1. []()
+
+</details>

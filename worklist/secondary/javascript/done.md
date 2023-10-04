@@ -126,3 +126,13 @@
 1. [[JS] Promise와 async/await 비교하기](https://velog.io/@nemo/async-await)
 
 </details>
+
+<details>
+<summary>October, 2023</summary>
+
+- [MDN docs: Number.isSafeInteger()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger)
+- [Nodemon does not reload on --watch folder only on the app file #1528](https://github.com/remy/nodemon/issues/1528)
+- [kill ENOSYS error coming from this module on Windows #54](https://github.com/tapjs/signal-exit/issues/54)
+- [Why does TypeScript require optional parameters after required parameters?](https://stackoverflow.com/questions/46958782/why-does-typescript-require-optional-parameters-after-required-parameters)
+
+</details>
