@@ -134,5 +134,10 @@
 - [Nodemon does not reload on --watch folder only on the app file #1528](https://github.com/remy/nodemon/issues/1528)
 - [kill ENOSYS error coming from this module on Windows #54](https://github.com/tapjs/signal-exit/issues/54)
 - [Why does TypeScript require optional parameters after required parameters?](https://stackoverflow.com/questions/46958782/why-does-typescript-require-optional-parameters-after-required-parameters)
+- [Mocha vs SinonJS: What are the differences?](https://stackshare.io/stackups/mocha-vs-sinonjs#:~:text=Mocha%20tests%20run%20serially%2C%20allowing,to%20unit%20test%20your%20code.)
+- [Jest의 jest.fn(), jest.spyOn()를 이용한 함수 모킹](https://www.daleseo.com/jest-fn-spy-on/)
+- [Jest의 jest.mock()을 이용한 모듈 모킹](https://www.daleseo.com/jest-mock-modules/)
+- [TS-Jest docs: Installation](https://kulshekhar.github.io/ts-jest/docs/getting-started/installation/#dependencies)
+- [Specify jest test files directory](https://stackoverflow.com/questions/52637116/specify-jest-test-files-directory)
 
 </details>
