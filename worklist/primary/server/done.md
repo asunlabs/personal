@@ -120,5 +120,8 @@
 - [Testing api endpoints in Next.js](https://www.reddit.com/r/nextjs/comments/12dj9rs/testing_api_endpoints_in_nextjs/)
 - [How can I test dynamic next.js API route using supertest in an integration test scenario? #769](https://github.com/ladjs/supertest/issues/769)
 - [How to Unit Test Next.js API Routes with TypeScript](https://www.paigeniedringhaus.com/blog/how-to-unit-test-next-js-api-routes-with-typescript)
+- [bodyParser is deprecated express 4](https://stackoverflow.com/questions/24330014/bodyparser-is-deprecated-express-4)
+- [Github supertest: Why req.body is undefined ? #638](https://github.com/ladjs/supertest/issues/638)
+- [Server to Server / Route to Route Axios request in Express](https://stackoverflow.com/questions/66026725/server-to-server-route-to-route-axios-request-in-express)
 
 </details>

@@ -66,3 +66,6 @@
 - [Ethereum docs: OPCODES FOR THE EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [ERC-191: Signed Data Standard](https://eips.ethereum.org/EIPS/eip-191)
 - ["\x19Ethereum Signed Message:\n32" Prefix Meaning](https://stackoverflow.com/questions/74164255/x19ethereum-signed-message-n32-prefix-meaning)
+- [Alchemy docs: Retrying an EIP 1559 transaction](https://docs.alchemy.com/docs/retrying-an-eip-1559-transaction)
+- [Github: Retry transaction method #1745](https://github.com/ethers-io/ethers.js/discussions/1745)
+- [How to re-send a transaction with higher gas price using Ethers.js](https://www.quicknode.com/guides/ethereum-development/transactions/how-to-re-send-a-transaction-with-higher-gas-price-using-ethersjs)
