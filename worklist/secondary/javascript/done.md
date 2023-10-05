@@ -139,5 +139,9 @@
 - [Jest의 jest.mock()을 이용한 모듈 모킹](https://www.daleseo.com/jest-mock-modules/)
 - [TS-Jest docs: Installation](https://kulshekhar.github.io/ts-jest/docs/getting-started/installation/#dependencies)
 - [Specify jest test files directory](https://stackoverflow.com/questions/52637116/specify-jest-test-files-directory)
+- [Uncaught Error: ECONNREFUSED: Connection refused #484](https://github.com/ladjs/supertest/issues/484)
+- [W3 schools: TypeScript Keyof](https://www.w3schools.com/typescript/typescript_keyof.php)
+- [Jest docs: mocking modules](https://jestjs.io/docs/mock-functions#mocking-modules)
+- [[Node] Express + Typescript에서 Jest로 테스트하기 - 모킹](https://velog.io/@tkppp-dev/Node-Express-Typescript%EC%97%90%EC%84%9C-Jest%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-%EB%AA%A8%ED%82%B9)
 
 </details>
