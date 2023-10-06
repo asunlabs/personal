@@ -143,5 +143,8 @@
 - [W3 schools: TypeScript Keyof](https://www.w3schools.com/typescript/typescript_keyof.php)
 - [Jest docs: mocking modules](https://jestjs.io/docs/mock-functions#mocking-modules)
 - [[Node] Express + Typescript에서 Jest로 테스트하기 - 모킹](https://velog.io/@tkppp-dev/Node-Express-Typescript%EC%97%90%EC%84%9C-Jest%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-%EB%AA%A8%ED%82%B9)
+- [Two useful ways to easily run a single test using Jest](https://geshan.com.np/blog/2022/07/jest-run-single-test/)
+- [Jest docs: Timer Mocks](https://jestjs.io/docs/timer-mocks)
+- [Jest Mock 타이머 적용하기](https://haeguri.github.io/2020/01/12/jest-mock-timer/)
 
 </details>
