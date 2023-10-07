@@ -146,5 +146,9 @@
 - [Two useful ways to easily run a single test using Jest](https://geshan.com.np/blog/2022/07/jest-run-single-test/)
 - [Jest docs: Timer Mocks](https://jestjs.io/docs/timer-mocks)
 - [Jest Mock 타이머 적용하기](https://haeguri.github.io/2020/01/12/jest-mock-timer/)
+- [What is node-gyp?](https://stackoverflow.com/questions/39739626/what-is-node-gyp)
+- [Github: node-gyp on windows](https://github.com/nodejs/node-gyp#on-windows)
+- [Github: next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
+- [Swgger docs: Describing Request Body](https://swagger.io/docs/specification/2-0/describing-request-body/)
 
 </details>
