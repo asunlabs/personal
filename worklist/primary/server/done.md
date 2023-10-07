@@ -123,5 +123,12 @@
 - [bodyParser is deprecated express 4](https://stackoverflow.com/questions/24330014/bodyparser-is-deprecated-express-4)
 - [Github supertest: Why req.body is undefined ? #638](https://github.com/ladjs/supertest/issues/638)
 - [Server to Server / Route to Route Axios request in Express](https://stackoverflow.com/questions/66026725/server-to-server-route-to-route-axios-request-in-express)
+- [[Database] DB 인덱싱(Indexing)이란?](https://velog.io/@bsjp400/Database-DB-%EC%9D%B8%EB%8D%B1%EC%8B%B1Indexing%EC%9D%B4%EB%9E%80)
+- [[Database] 인덱스(index)란?](https://mangkyu.tistory.com/96)
+- [[MySQL] 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
+- [SQL ALTER TABLE 구문](https://makand.tistory.com/m/entry/SQL-ALTER-TABLE-%EA%B5%AC%EB%AC%B8)
+- []()
+- []()
+- []()
 
 </details>
