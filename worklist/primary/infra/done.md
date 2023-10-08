@@ -147,5 +147,11 @@
 - [Containerize a Node.js application](https://docs.docker.com/language/nodejs/develop/)
 - [Use containers for Node.js development](https://docs.docker.com/language/nodejs/develop/)
 - [Run Node.js tests in a container](https://docs.docker.com/language/nodejs/run-tests/)
+- [Github: node:alpine](https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine)
+- [PNPM docs: frozen lockfile](https://pnpm.io/ko/next/cli/install#--frozen-lockfile)
+- [PNPM docs: working with docker](https://pnpm.io/docker)
+- [Getting Started with Docker Multi-Stage Builds](https://collabnix.com/getting-started-with-docker-multi-stage-builds/#:~:text=Multi%2Dstage%20builds%20are%20a%20feature%20introduced%20in%20Docker%2017.05,optimized%20for%20size%20and%20performance.)
+- [Docker Multi Stage란?](https://nesoy.github.io/articles/2020-11/Docker-multi-stage-build)
+- [Node v20.6: Class extends value undefined is not a constructor or null #10338](https://github.com/typeorm/typeorm/issues/10338)
 
 </details>

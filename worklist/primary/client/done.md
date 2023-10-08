@@ -158,3 +158,14 @@
 1. [MUI docs: Color](https://mui.com/material-ui/customization/color/)
 
 </details>
+
+<details>
+<summary>October, 2023</summary>
+
+- [Private Routing in Next.js](https://velog.io/@henrynoowah/Next.js-Private-Route)
+- [[react] useEffect 훅에서 async await 함수 사용하기](https://velog.io/@he0_077/useEffect-%ED%9B%85%EC%97%90%EC%84%9C-async-await-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [Critical dependency warning when compiling NextJS pages #1545](https://github.com/i18next/next-i18next/issues/1545)
+- []()
+- []()
+
+</details>

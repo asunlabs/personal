@@ -127,8 +127,8 @@
 - [[Database] 인덱스(index)란?](https://mangkyu.tistory.com/96)
 - [[MySQL] 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
 - [SQL ALTER TABLE 구문](https://makand.tistory.com/m/entry/SQL-ALTER-TABLE-%EA%B5%AC%EB%AC%B8)
-- []()
-- []()
+- [How to implement Bearer Authentication in Next.js API](https://nesin.io/blog/nextjs-api-bearer-authentication)
+- [[Next.js] Module not found: Can't resolve 'fs' 오류 해결](https://cocoon1787.tistory.com/851)
 - []()
 
 </details>
