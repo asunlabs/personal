@@ -149,6 +149,12 @@
 - [What is node-gyp?](https://stackoverflow.com/questions/39739626/what-is-node-gyp)
 - [Github: node-gyp on windows](https://github.com/nodejs/node-gyp#on-windows)
 - [Github: next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
-- [Swgger docs: Describing Request Body](https://swagger.io/docs/specification/2-0/describing-request-body/)
+- [Custom error class in TypeScript](https://stackoverflow.com/questions/31626231/custom-error-class-in-typescript)
+- [PNPM docs: pnpm store prune](https://pnpm.io/cli/store#prune)
+- ["Class extends value undefined is not a constructor or null" when import CoreCompletionCore](https://stackoverflow.com/questions/74793164/class-extends-value-undefined-is-not-a-constructor-or-null-when-import-corecom)
+- [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://engineering.ab180.co/stories/yarn-to-pnpm)
+- [RangeError: x can't be converted to BigInt because it isn't an integer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_be_converted_to_BigInt_because_it_isnt_an_integer)
+- [[Node] yarn workspaces (프로젝트 참조)](https://musma.github.io/2019/04/02/yarn-workspaces.html)
+- [Yarn workspace로 모노레포 알아보기](https://www.testbank.ai/42b54c4b-2aa7-4bc7-b29b-b7219c700f22#5f9989fc-a111-4cb7-afe0-c6ba374354a2)
 
 </details>
