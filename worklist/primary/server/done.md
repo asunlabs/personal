@@ -132,5 +132,11 @@
 - [Swgger docs: Describing Request Body: openapi 2.0](https://swagger.io/docs/specification/2-0/describing-request-body/)
 - [Swgger docs: Describing Request Body: openapi 3.0](https://swagger.io/docs/specification/describing-request-body/)
 - [Swagger openapi 3.0.x empty body](https://stackoverflow.com/questions/58634566/swagger-openapi-3-0-x-empty-body)
+- [Open API docs: What is OpenAPI?](https://www.openapis.org/what-is-openapi)
+- [Swagger docs: Data Types](https://swagger.io/docs/specification/data-models/data-types/#array)
+- [No operations defined in spec! - I get this error even though the swagger is setup and the end points are defined](https://stackoverflow.com/questions/56781385/no-operations-defined-in-spec-i-get-this-error-even-though-the-swagger-is-set)
+- [Pino logger does not output JSON within NextJS middleware function #33898](https://github.com/vercel/next.js/discussions/33898)
+- [how to handle a post request in next.js?](https://stackoverflow.com/questions/66739797/how-to-handle-a-post-request-in-next-js)
+- [프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger](https://yozm.wishket.com/magazine/detail/2195/)
 
 </details>
