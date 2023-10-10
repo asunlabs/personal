@@ -156,5 +156,11 @@
 - [RangeError: x can't be converted to BigInt because it isn't an integer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_be_converted_to_BigInt_because_it_isnt_an_integer)
 - [[Node] yarn workspaces (프로젝트 참조)](https://musma.github.io/2019/04/02/yarn-workspaces.html)
 - [Yarn workspace로 모노레포 알아보기](https://www.testbank.ai/42b54c4b-2aa7-4bc7-b29b-b7219c700f22#5f9989fc-a111-4cb7-afe0-c6ba374354a2)
+- [Convert date to another timezone in JavaScript](https://stackoverflow.com/questions/10087819/convert-date-to-another-timezone-in-javascript)
+- [Convert Epoch time to human readable with specific timezone](https://stackoverflow.com/questions/44060804/convert-epoch-time-to-human-readable-with-specific-timezone)
+- [Why does mocked axios get method return undefined?](https://stackoverflow.com/questions/57816438/why-does-mocked-axios-get-method-return-undefined)
+- [Node.js 에서 전역 에러 처리하기](https://lomuto.tistory.com/4)
+- [How to represent Get error type using a switch statement?](https://stackoverflow.com/questions/47176449/how-to-represent-get-error-type-using-a-switch-statement)
+- []()
 
 </details>
