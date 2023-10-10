@@ -69,3 +69,5 @@
 - [Alchemy docs: Retrying an EIP 1559 transaction](https://docs.alchemy.com/docs/retrying-an-eip-1559-transaction)
 - [Github: Retry transaction method #1745](https://github.com/ethers-io/ethers.js/discussions/1745)
 - [How to re-send a transaction with higher gas price using Ethers.js](https://www.quicknode.com/guides/ethereum-development/transactions/how-to-re-send-a-transaction-with-higher-gas-price-using-ethersjs)
+- [Ether.js: Set Priority Fee when calling contract](https://ethereum.stackexchange.com/questions/112770/ether-js-set-priority-fee-when-calling-contract)
+- [Flushing pending ethereum transactions with ethers](https://stackoverflow.com/questions/71326340/flushing-pending-ethereum-transactions-with-ethers)
