@@ -33,3 +33,7 @@
 - [Streams in Computer Programming](https://study.com/learn/lesson/streams-in-computer-programming-overview-importance-types.html#:~:text=In%20computers%2C%20stream%20refers%20to,devices%20to%20the%20logic%20unit.)
 - [How to open a create-react-app from another computer connected to the same network?](https://stackoverflow.com/questions/47412363/how-to-open-a-create-react-app-from-another-computer-connected-to-the-same-netwo)
 - [Request: json() method](https://developer.mozilla.org/en-US/docs/Web/API/Request/json)
+- [What Is System Error And How Do You Fix It](https://www.minitool.com/news/system-error-codes-fixes.html)
+- [How to install 'make' and GCC on a Mac](https://stackoverflow.com/questions/10265742/how-to-install-make-and-gcc-on-a-mac)
+- [Wikipedia - Make](<https://en.wikipedia.org/wiki/Make_(software)>)
+- [Jest docs: test timeout](https://jestjs.io/docs/api#testname-fn-timeout)

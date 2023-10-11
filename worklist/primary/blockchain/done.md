@@ -77,5 +77,5 @@
 - [Hardhat docs: Mining modes](https://hardhat.org/hardhat-network/docs/reference#mining-modes)
 - [Github: xdeployer: how it works](https://github.com/pcaversaccio/xdeployer#how-it-works)
 - [how to deploy a smart contract on same address in ethereum and binance](https://ethereum.stackexchange.com/questions/102235/how-to-deploy-a-smart-contract-on-same-address-in-ethereum-and-binance)
-- []()
+- [Gist: fvictorio/hardhat-mocking.md](https://gist.github.com/fvictorio/8dfee19ec4925a8a0d85cb05a112bbb2)
 - []()

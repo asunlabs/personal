@@ -18,3 +18,4 @@
 - [Solidity: Raise events via Assembly using log3](https://ethereum.stackexchange.com/questions/72817/solidity-raise-events-via-assembly-using-log3)
 - [How to get a contract's balance in Solidity?](https://ethereum.stackexchange.com/questions/21448/how-to-get-a-contracts-balance-in-solidity)
 - [Difference between address payable and payable(address)](https://ethereum.stackexchange.com/questions/135821/difference-between-address-payable-and-payableaddress)
+- [What is msg.data?](https://ethereum.stackexchange.com/questions/14037/what-is-msg-data)

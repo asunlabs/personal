@@ -153,5 +153,8 @@
 - [Getting Started with Docker Multi-Stage Builds](https://collabnix.com/getting-started-with-docker-multi-stage-builds/#:~:text=Multi%2Dstage%20builds%20are%20a%20feature%20introduced%20in%20Docker%2017.05,optimized%20for%20size%20and%20performance.)
 - [Docker Multi Stage란?](https://nesoy.github.io/articles/2020-11/Docker-multi-stage-build)
 - [Node v20.6: Class extends value undefined is not a constructor or null #10338](https://github.com/typeorm/typeorm/issues/10338)
+- [Unable to connect localhost in docker](https://stackoverflow.com/questions/43884981/unable-to-connect-localhost-in-docker)
+- [Unexpected token in docker logs after docker run](https://stackoverflow.com/questions/56712015/unexpected-token-in-docker-logs-after-docker-run)
+- [The Interactive and TTY Options in docker run](https://www.baeldung.com/linux/docker-run-interactive-tty-options#:~:text=From%20the%20official%20documentation%2C%20Docker,that%20offers%20basic%20input%2Doutput.)
 
 </details>

@@ -138,5 +138,7 @@
 - [Pino logger does not output JSON within NextJS middleware function #33898](https://github.com/vercel/next.js/discussions/33898)
 - [how to handle a post request in next.js?](https://stackoverflow.com/questions/66739797/how-to-handle-a-post-request-in-next-js)
 - [프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger](https://yozm.wishket.com/magazine/detail/2195/)
+- [How to Modify Logging Fields on Pino express Log](https://stackoverflow.com/questions/56344104/how-to-modify-logging-fields-on-pino-express-log)
+- [Github: pino base object](https://github.com/pinojs/pino/blob/HEAD/docs/api.md#base-object)
 
 </details>

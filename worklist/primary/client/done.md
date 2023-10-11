@@ -165,7 +165,8 @@
 - [Private Routing in Next.js](https://velog.io/@henrynoowah/Next.js-Private-Route)
 - [[react] useEffect 훅에서 async await 함수 사용하기](https://velog.io/@he0_077/useEffect-%ED%9B%85%EC%97%90%EC%84%9C-async-await-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [Critical dependency warning when compiling NextJS pages #1545](https://github.com/i18next/next-i18next/issues/1545)
-- []()
-- []()
+- [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804)
+- [Why do you need to use JSON.stringify() in the body field of a fetch function](https://erikmartinjordan.com/fetch-stringify)
+- [[Axios] 타임아웃 설정하기](https://velog.io/@boyeon_jeong/Axios-%ED%83%80%EC%9E%84%EC%95%84%EC%9B%83-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 </details>
