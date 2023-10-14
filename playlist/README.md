@@ -42,6 +42,12 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [쇼미10 싸이퍼를 찢어버린 송민호🔥🔥](https://youtube.com/shorts/G8E-kK-pzPw?feature=share)
 1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
 1. [릴러말즈(Leellamarz)-야망 (Feat. 창모 (CHANGMO), 애쉬 아일랜드 (ASH ISLAND), 해쉬스완 (HASH SWAN), 김효은 (가사│Lyrics)](https://youtu.be/jBLc76LpfLs)
+1. [뷰티풀 너드 - 프리스타일: 와 현장 분위기 어땠으려나 ㄷㄷ](https://youtube.com/shorts/hi6SaHe7YGs?si=ieatVuuxnKmGMmZa)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Other shit
 
@@ -57,6 +63,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [80년대 하이틴 감성 🤍](https://youtube.com/shorts/duamPXwFeN8?feature=share)
 1. [나는 생애 첫 콘서트를 이 분에게 받치고 싶다..제발 내한 와주세요..#shorts](https://youtube.com/shorts/h7y7baSRrCA?feature=share)
 1. [The great show man - this is me](https://youtube.com/shorts/FeEezzEtbtM?si=rz1dLwAXRLveo2_l)
+1. [“어익후” AI임재범의 “좋은 날” (아이유IU)](https://youtube.com/shorts/nTP7IbcBzpc?si=4POb-0GVANR5QCJo)
 
 ### Vibe check
 
@@ -80,6 +87,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Charlie Puth - Charlie Be Quiet!](https://youtu.be/WM47vsnE_gc?si=aC2iw4U28GDpXrq-)
 1. [Pink Sweat$ - Nothing Feels Better [Official Audio]](https://youtu.be/iZgAp5zVxPA?si=rRW-fICLmbQ_I2nV)
 1. [AJR - I'm Not Famous (Official Video)](https://youtu.be/VkXYjy6sZ2A?si=Lm5EtJ51gR6ZISip)
+1. [AJR - The DJ Is Crying For Help](https://youtu.be/uxhs3J_OBGg?si=QAw09Ajbw6rT5Jzl)
+1. [Glass Animals - The Other Side Of Paradise](https://youtu.be/RMPX_vgqQnM?si=ObtkL3zQks3cAZqd)
+1. [Bruno Mars - The Other Side](https://youtu.be/m8Ed8in9Qng?si=KVDKa3wHDPXj5RDW)
 
 #### K-Pop
 
@@ -95,6 +105,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [[4K] LINGER_LNGRS, Zior Park. Official MV](https://youtu.be/j_4WDG8jPf4)
 1. [BTS Go Go Lyrics (방탄소년단 고민보다 Go 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/4Z4QAADu_30)
 1. [SEVENTEEN - "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
+1. [[Lyrics Video] BOL4(볼빨간사춘기) - Travel(여행)](https://youtu.be/g6U2SS-ZMy8?si=bI65sTKD764t-k2K)
+1. [[M/V] 싸운날 - 볼빨간 사춘기](https://youtu.be/1ri7I32Auhg?si=lSQtMlAbpzv2rUjS)
 
 ### UFO - Unidentified Fucking good songs On my mind
 
@@ -170,6 +182,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [멜로망스(Melomance) - 사랑인가 봐 [사내맞선 OST] [가사/Lyrics]](https://youtu.be/McidaTgrQB0)
 1. [The Kid LAROI - WITHOUT YOU](https://youtu.be/CZrEcslERe8?si=7oxYohh5MzQgyhbh)
 1. [shawn mendas - Where were you in the morning](https://youtu.be/dP1hIygwrTk?si=A5CTEksdi_t4Lii-)
+1. [BOL4(볼빨간사춘기) - Travel(여행)](https://www.youtube.com/watch?v=g6U2SS-ZMy8)
+1. [싸운날 - 볼빨간 사춘기](https://youtu.be/1ri7I32Auhg?si=-L_IA3EVFFMxm_Xw)
 
 #### Instrumental
 
