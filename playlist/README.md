@@ -7,8 +7,18 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 - [@awesome-playlist](#asunlabsawesome-playlist)
   - [table of contents](#table-of-contents)
     - [killing verse](#killing-verses)
+      - [rap shit](#rap-shit)
+      - [other shit](#other-shit)
     - [vibe check](#vibe-check)
+      - [world pop](#world-pop)
+      - [k-pop](#k-pop)
     - [ufos](#ufo---unidentified-fucking-good-songs-on-my-mind)
+      - [villainlike](#villainlike)
+      - [herolike](#herolike)
+      - [dreamlike](#dreamlike)
+      - [geeky](#geeky)
+      - [melancholy](#melancholy)
+      - [instrumental](#instrumental)
 
 ### Killing verses
 
@@ -43,7 +53,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Go Sweat (Feat. Leellamarz)](https://youtu.be/ofbOOH-Vr0g)
 1. [릴러말즈(Leellamarz)-야망 (Feat. 창모 (CHANGMO), 애쉬 아일랜드 (ASH ISLAND), 해쉬스완 (HASH SWAN), 김효은 (가사│Lyrics)](https://youtu.be/jBLc76LpfLs)
 1. [뷰티풀 너드 - 프리스타일: 와 현장 분위기 어땠으려나 ㄷㄷ](https://youtube.com/shorts/hi6SaHe7YGs?si=ieatVuuxnKmGMmZa)
-1. []()
+1. [[4K] Men's Tear (맨스티어) - 빈민가 소년 Official M/V](https://youtu.be/s1In1cr__pE?si=n_6WhI-8AW475H4b)
 1. []()
 1. []()
 1. []()
