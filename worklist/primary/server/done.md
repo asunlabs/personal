@@ -140,5 +140,11 @@
 - [프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger](https://yozm.wishket.com/magazine/detail/2195/)
 - [How to Modify Logging Fields on Pino express Log](https://stackoverflow.com/questions/56344104/how-to-modify-logging-fields-on-pino-express-log)
 - [Github: pino base object](https://github.com/pinojs/pino/blob/HEAD/docs/api.md#base-object)
+- [SQL Data Types for MySQL, SQL Server, and MS Access](https://www.w3schools.com/sql/sql_datatypes.asp)
+- [W3 schools: SQL Syntax](https://www.w3schools.com/sql/sql_syntax.asp)
+- [W3 schools: SQL GROUP BY Statement](https://www.w3schools.com/sql/sql_groupby.asp)
+- [W3 schools: SQL quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
+- [[Next.js] Module not found: Can't resolve 'fs' 오류 해결](https://cocoon1787.tistory.com/851)
+- [Getting uncaughtException: Error: Cannot find module '...\.next\server\app\home\lib\worker.js' when trying to use pino.transport in Next.js](https://stackoverflow.com/questions/76617612/getting-uncaughtexception-error-cannot-find-module-next-server-app-home)
 
 </details>

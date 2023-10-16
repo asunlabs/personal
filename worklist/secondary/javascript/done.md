@@ -161,6 +161,13 @@
 - [Why does mocked axios get method return undefined?](https://stackoverflow.com/questions/57816438/why-does-mocked-axios-get-method-return-undefined)
 - [Node.js 에서 전역 에러 처리하기](https://lomuto.tistory.com/4)
 - [How to represent Get error type using a switch statement?](https://stackoverflow.com/questions/47176449/how-to-represent-get-error-type-using-a-switch-statement)
+- [3 Ways to Check If an Object Has a Property/Key in JavaScript](https://dmitripavlutin.com/check-if-object-has-property-javascript/#1-hasownproperty-method)
+- [How can I fix the yarn error 'Unknown workspace'?](https://stackoverflow.com/questions/60910762/how-can-i-fix-the-yarn-error-unknown-workspace)
+- [pnpm과 함께하는 Frontend 모노레포 세팅](https://jasonkang14.github.io/react/monorepo-with-pnpm)
+- [PNPM docs: workspace](https://pnpm.io/ko/7.x/workspaces)
+- [how to create file according to date](https://stackoverflow.com/questions/16536093/how-to-create-file-according-to-date)
+- [getMonth in javascript gives previous month](https://stackoverflow.com/questions/18624326/getmonth-in-javascript-gives-previous-month)
+- []()
 - []()
 
 </details>
