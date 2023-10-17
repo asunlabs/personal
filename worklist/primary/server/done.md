@@ -146,5 +146,14 @@
 - [W3 schools: SQL quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
 - [[Next.js] Module not found: Can't resolve 'fs' 오류 해결](https://cocoon1787.tistory.com/851)
 - [Getting uncaughtException: Error: Cannot find module '...\.next\server\app\home\lib\worker.js' when trying to use pino.transport in Next.js](https://stackoverflow.com/questions/76617612/getting-uncaughtexception-error-cannot-find-module-next-server-app-home)
+- [Production Essentials: Logging in NextJS 13](https://dev.to/abhijitdotsharma/production-essentials-logging-in-nextjs-13-43l0)
+- [Getting uncaughtException: Error: Cannot find module '...\.next\server\app\home\lib\worker.js' when trying to use pino.transport in Next.js](https://stackoverflow.com/questions/76617612/getting-uncaughtexception-error-cannot-find-module-next-server-app-home)
+- [pino-pretty logger doesn't work with Next 13 app directory #46987](https://github.com/vercel/next.js/discussions/46987)
+- [Unable to write the logs to file using Pino logger in NodeJS](https://stackoverflow.com/questions/61222398/unable-to-write-the-logs-to-file-using-pino-logger-in-nodejs)
+- [A Complete Guide to Pino Logging in Node.js](https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/)
+- []()
+- []()
+- []()
+- []()
 
 </details>

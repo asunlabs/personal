@@ -167,6 +167,13 @@
 - [PNPM docs: workspace](https://pnpm.io/ko/7.x/workspaces)
 - [how to create file according to date](https://stackoverflow.com/questions/16536093/how-to-create-file-according-to-date)
 - [getMonth in javascript gives previous month](https://stackoverflow.com/questions/18624326/getmonth-in-javascript-gives-previous-month)
+- [PNPM docs: filtering](https://pnpm.io/filtering#--filter-directory)
+- [Building a Monorepo with pnpm Workspace](https://dev.to/soom/building-a-monorepo-with-pnpm-workspace-1544)
+- [How to add dependency to PNPM workspace?](https://stackoverflow.com/questions/71054629/how-to-add-dependency-to-pnpm-workspace)
+- [why does yarn warn when adding a dependency to the root workspaces package.json](https://stackoverflow.com/questions/51235261/why-does-yarn-warn-when-adding-a-dependency-to-the-root-workspaces-package-json)
+- []()
+- []()
+- []()
 - []()
 - []()
 
