@@ -171,7 +171,7 @@
 - [Building a Monorepo with pnpm Workspace](https://dev.to/soom/building-a-monorepo-with-pnpm-workspace-1544)
 - [How to add dependency to PNPM workspace?](https://stackoverflow.com/questions/71054629/how-to-add-dependency-to-pnpm-workspace)
 - [why does yarn warn when adding a dependency to the root workspaces package.json](https://stackoverflow.com/questions/51235261/why-does-yarn-warn-when-adding-a-dependency-to-the-root-workspaces-package-json)
-- []()
+- [MDN github: dom example: simple web worker](https://github.com/mdn/dom-examples/tree/main/web-workers/simple-web-worker)
 - []()
 - []()
 - []()

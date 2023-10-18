@@ -108,6 +108,6 @@
 - [encodeABI to get call data with encoded parameters of contract method #478](https://github.com/ethers-io/ethers.js/issues/478)
 - [What is the purpose of signTransaction? How do you verify the signed tx on-chain? #2744](https://github.com/ethers-io/ethers.js/discussions/2744)
 - [Help: I cannot calculate the transaction hash #2158](https://github.com/ethers-io/ethers.js/discussions/2158)
-- []()
+- [NONCE MANAGER IMPLEMENTATION #3289](https://github.com/ethers-io/ethers.js/discussions/3289)
 - []()
 - []()

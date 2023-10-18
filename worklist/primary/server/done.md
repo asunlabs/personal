@@ -151,9 +151,9 @@
 - [pino-pretty logger doesn't work with Next 13 app directory #46987](https://github.com/vercel/next.js/discussions/46987)
 - [Unable to write the logs to file using Pino logger in NodeJS](https://stackoverflow.com/questions/61222398/unable-to-write-the-logs-to-file-using-pino-logger-in-nodejs)
 - [A Complete Guide to Pino Logging in Node.js](https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/)
-- []()
-- []()
-- []()
+- [APIDoc 으로 REST API 문서화 하기(REST API documentation) #1](https://www.lesstif.com/software-architect/apidoc-rest-api-rest-api-documentation-1-98926722.html)
+- [APIDOC: Inline Documentation for RESTful web APIs](https://apidocjs.com/)
+- [vercel serve 로 정적 사이트 서빙하기](https://www.lesstif.com/javascript/vercel-serve-129008279.html)
 - []()
 
 </details>
