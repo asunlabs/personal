@@ -109,5 +109,5 @@
 - [What is the purpose of signTransaction? How do you verify the signed tx on-chain? #2744](https://github.com/ethers-io/ethers.js/discussions/2744)
 - [Help: I cannot calculate the transaction hash #2158](https://github.com/ethers-io/ethers.js/discussions/2158)
 - [NONCE MANAGER IMPLEMENTATION #3289](https://github.com/ethers-io/ethers.js/discussions/3289)
-- []()
-- []()
+- [Compute transaction hash locally?](https://ethereum.stackexchange.com/questions/127073/compute-transaction-hash-locally)
+- [Ethereum docs: transaction cycle](https://ethereum.org/en/developers/docs/transactions/#transaction-lifecycle)
