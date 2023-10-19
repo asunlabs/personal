@@ -172,9 +172,9 @@
 - [How to add dependency to PNPM workspace?](https://stackoverflow.com/questions/71054629/how-to-add-dependency-to-pnpm-workspace)
 - [why does yarn warn when adding a dependency to the root workspaces package.json](https://stackoverflow.com/questions/51235261/why-does-yarn-warn-when-adding-a-dependency-to-the-root-workspaces-package-json)
 - [MDN github: dom example: simple web worker](https://github.com/mdn/dom-examples/tree/main/web-workers/simple-web-worker)
-- []()
-- []()
-- []()
+- [How do you resolve Git conflicts in yarn.lock](https://stackoverflow.com/questions/42939113/how-do-you-resolve-git-conflicts-in-yarn-lock)
+- [Convert a Map to an Object in JavaScript](https://bobbyhadz.com/blog/javascript-convert-map-to-object)
+- [Promise.allSettled 가 필요한 순간](https://velog.io/@eggplantiny/Promise.allSettled-%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%88%9C%EA%B0%84)
 - []()
 
 </details>

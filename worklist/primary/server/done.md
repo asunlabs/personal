@@ -154,6 +154,13 @@
 - [APIDoc 으로 REST API 문서화 하기(REST API documentation) #1](https://www.lesstif.com/software-architect/apidoc-rest-api-rest-api-documentation-1-98926722.html)
 - [APIDOC: Inline Documentation for RESTful web APIs](https://apidocjs.com/)
 - [vercel serve 로 정적 사이트 서빙하기](https://www.lesstif.com/javascript/vercel-serve-129008279.html)
+- [What are Linux Logs? How to View Them, Most Important Directories & More](https://stackify.com/linux-logs/)
+- [How to Access MySQL Error Logs](https://www.digitalocean.com/community/tutorials/how-to-access-mysql-error-logs)
+- [[Linux - 리눅스 / Ubuntu - 우분투] 시스템 로그 - /var/log](https://sharkmino.tistory.com/m/1613)
+- [Where should I store server build logs?](https://askubuntu.com/questions/1182624/where-should-i-store-server-build-logs)
+- []()
+- []()
+- []()
 - []()
 
 </details>
