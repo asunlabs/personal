@@ -109,5 +109,6 @@
 1. [Git diff says subproject is dirty](https://stackoverflow.com/questions/4873980/git-diff-says-subproject-is-dirty)
 1. [Github 코드조각(Snippet) 링크 이용하기](https://hbase.tistory.com/2)
 1. [[Git] fatal: refusing to merge unrelated histories 해결 방법](https://somjang.tistory.com/entry/Git-fatal-refusing-to-merge-unrelated-histories-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
+1. [Github Pull Requests template not showing](https://stackoverflow.com/questions/52139192/github-pull-requests-template-not-showing)
 
 </details>
