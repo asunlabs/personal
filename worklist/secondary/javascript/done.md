@@ -176,8 +176,8 @@
 - [Convert a Map to an Object in JavaScript](https://bobbyhadz.com/blog/javascript-convert-map-to-object)
 - [Promise.allSettled 가 필요한 순간](https://velog.io/@eggplantiny/Promise.allSettled-%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%88%9C%EA%B0%84)
 - [Typescript interface A extends B, but is missing properties from B?](https://stackoverflow.com/questions/65625183/typescript-interface-a-extends-b-but-is-missing-properties-from-b)
-- []()
-- []()
+- [How to extend a type in TypeScript](https://youtube.com/shorts/ll8tGKL0OGU?si=2ooOnWCgIQKKkVVv)
+- [OVERLOADS vs GENERICS: which is better? - Advanced TypeScript](https://youtu.be/Vr1BUFw6dJM?si=kN-qbJwLbbucT9Pp)
 - []()
 
 </details>
