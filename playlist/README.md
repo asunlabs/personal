@@ -54,6 +54,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [릴러말즈(Leellamarz)-야망 (Feat. 창모 (CHANGMO), 애쉬 아일랜드 (ASH ISLAND), 해쉬스완 (HASH SWAN), 김효은 (가사│Lyrics)](https://youtu.be/jBLc76LpfLs)
 1. [뷰티풀 너드 - 프리스타일: 와 현장 분위기 어땠으려나 ㄷㄷ](https://youtube.com/shorts/hi6SaHe7YGs?si=ieatVuuxnKmGMmZa)
 1. [[4K] Men's Tear (맨스티어) - 빈민가 소년 Official M/V](https://youtu.be/s1In1cr__pE?si=n_6WhI-8AW475H4b)
+1. [언에듀도 울고갈 허언증 만렙 신예래퍼🔥](https://youtube.com/shorts/dzpOZbG4xAA?si=pvI0KxhBz-9t6QfF)
+1. [쇼미11 내 삶의 나침반 언에듀케이티드 키드](https://youtube.com/shorts/dzpOZbG4xAA?si=GMZ1H0sR0n5TomoT)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()
@@ -74,6 +79,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [나는 생애 첫 콘서트를 이 분에게 받치고 싶다..제발 내한 와주세요..#shorts](https://youtube.com/shorts/h7y7baSRrCA?feature=share)
 1. [The great show man - this is me](https://youtube.com/shorts/FeEezzEtbtM?si=rz1dLwAXRLveo2_l)
 1. [“어익후” AI임재범의 “좋은 날” (아이유IU)](https://youtube.com/shorts/nTP7IbcBzpc?si=4POb-0GVANR5QCJo)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### Vibe check
 
@@ -100,6 +110,12 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [AJR - The DJ Is Crying For Help](https://youtu.be/uxhs3J_OBGg?si=QAw09Ajbw6rT5Jzl)
 1. [Glass Animals - The Other Side Of Paradise](https://youtu.be/RMPX_vgqQnM?si=ObtkL3zQks3cAZqd)
 1. [Bruno Mars - The Other Side](https://youtu.be/m8Ed8in9Qng?si=KVDKa3wHDPXj5RDW)
+1. [이 노래를 이렇게 감미롭게 부르네ㅋㅋㅋ - Charlie Puth - Unholy (Cover)](https://youtube.com/shorts/d3luU_rSJmo?si=XWCjOB7B_CP67fhS)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### K-Pop
 
@@ -117,6 +133,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [SEVENTEEN - "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
 1. [[Lyrics Video] BOL4(볼빨간사춘기) - Travel(여행)](https://youtu.be/g6U2SS-ZMy8?si=bI65sTKD764t-k2K)
 1. [[M/V] 싸운날 - 볼빨간 사춘기](https://youtu.be/1ri7I32Auhg?si=lSQtMlAbpzv2rUjS)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 ### UFO - Unidentified Fucking good songs On my mind
 
@@ -131,10 +152,20 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [𝐋𝐒𝐃 - 𝐆𝐞𝐧𝐢𝐮𝐬](https://youtu.be/N-GiemsYDf4?si=SlXEfHHdBm0KZmVB)
 1. [Bazzi - Myself](https://youtu.be/KmVSwFd3TCA?si=HCUOsNZ4IcRtMwts)
 1. [Imagine Dragons - Lonely](https://youtu.be/Si-X1D8SflI?si=ABKAoxYRMVnzO81Q)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### HeroLike
 
 1. [𝐏𝐚𝐩𝐞𝐫 𝐊𝐢𝐧𝐠𝐬 - 𝐅𝐢𝐫𝐞 𝐨𝐧 𝐔𝐩 [가사/해석/lyrics]](https://youtu.be/RiyY-LZFLw8?si=90hUTuZjmBo59f0Q)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Dreamlike
 
@@ -149,6 +180,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [씨잼 - 아퍼: 내 친구들은 공범 💣](https://youtu.be/xqbxdraKRW4)
 1. [빈지노 - Trippy](https://youtu.be/QNoOPXO04Pw?si=HF1nvb4qC69VRiNk)
 1. [빈지노 - Morning Page](https://youtu.be/9UMxF7p0W5A?si=7Rky8W4VjYRZPGcN)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Geeky
 
@@ -170,6 +206,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [즐라탄이 중국을 거절한 이유](https://youtube.com/shorts/LuTjm-eDnCI?feature=share)
 1. [우리가 게임을 굴린다(전자오락수호대)-가스파드](https://youtu.be/6eCuGwRvfBQ?si=d4SiWzzAo__8WXFS)
 1. [립싱크 하는 푸린](https://youtube.com/shorts/KV30wQ3qVYA?si=9bflz8eO3apN2eft)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Melancholy
 
@@ -194,6 +235,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [shawn mendas - Where were you in the morning](https://youtu.be/dP1hIygwrTk?si=A5CTEksdi_t4Lii-)
 1. [BOL4(볼빨간사춘기) - Travel(여행)](https://www.youtube.com/watch?v=g6U2SS-ZMy8)
 1. [싸운날 - 볼빨간 사춘기](https://youtu.be/1ri7I32Auhg?si=-L_IA3EVFFMxm_Xw)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Instrumental
 
@@ -201,3 +247,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [6만원짜리 기타 vs 600만원짜리 기타](https://youtube.com/shorts/o6Wbrp9pTL4?feature=share)
 1. [Ljay Currie - Beat Remake (Prod. ZeeBeer)](https://youtu.be/Mx1gCIefX9w?si=uRcoM9sPy3aI5cMH)
 1. [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://youtu.be/IvUU8joBb1Q)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
