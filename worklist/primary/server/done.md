@@ -160,6 +160,13 @@
 - [Where should I store server build logs?](https://askubuntu.com/questions/1182624/where-should-i-store-server-build-logs)
 - [Github: nextjs/postgres](https://github.com/vercel/next.js/tree/canary/examples/with-postgres)
 - [Reddit: nextjs: Where should I setup my database connections?](https://www.reddit.com/r/nextjs/comments/11acgp1/where_should_i_setup_my_database_connections/)
+- [Docker using of MySQL password null](https://stackoverflow.com/questions/60833113/docker-using-of-mysql-password-null)
+- [Techopedia: What Does Commit Mean?](https://www.techopedia.com/definition/16/commit)
+- [What column data type should I use for storing large amounts of text or html](https://stackoverflow.com/questions/5458376/what-column-data-type-should-i-use-for-storing-large-amounts-of-text-or-html)
+- [How to make a function to query MySQL in NodeJS?](https://stackoverflow.com/questions/61262212/how-to-make-a-function-to-query-mysql-in-nodejs)
+- [W3schools: SQL INSERT INTO Statement](https://www.w3schools.com/sql/sql_insert.asp)
+- [[MySQL] Error: connect ECONNREFUSED](https://blog.thecloer.com/56)
+- []()
 - []()
 - []()
 

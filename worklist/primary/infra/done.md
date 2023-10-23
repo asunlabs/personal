@@ -158,9 +158,8 @@
 - [The Interactive and TTY Options in docker run](https://www.baeldung.com/linux/docker-run-interactive-tty-options#:~:text=From%20the%20official%20documentation%2C%20Docker,that%20offers%20basic%20input%2Doutput.)
 - [Grafana Vs Prometheus Explained in 1 Minute | DevOps Shack](https://youtube.com/shorts/Jhh-0_Pu_lc?si=XH8zog6duXVuGg6H)
 - [InfluxDB: The Basics of Time Series Data](https://youtu.be/wBWTj-1XiRU?si=y2KpEXlsFpJF2L4_)
-- []()
-- []()
-- []()
-- []()
+- [Docker docs: Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
+- [Docker hub: mysql quick reference](https://hub.docker.com/_/mysql)
+- [docker container에 접속하기](https://bluese05.tistory.com/21)
 
 </details>
