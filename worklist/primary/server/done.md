@@ -158,8 +158,8 @@
 - [How to Access MySQL Error Logs](https://www.digitalocean.com/community/tutorials/how-to-access-mysql-error-logs)
 - [[Linux - 리눅스 / Ubuntu - 우분투] 시스템 로그 - /var/log](https://sharkmino.tistory.com/m/1613)
 - [Where should I store server build logs?](https://askubuntu.com/questions/1182624/where-should-i-store-server-build-logs)
-- []()
-- []()
+- [Github: nextjs/postgres](https://github.com/vercel/next.js/tree/canary/examples/with-postgres)
+- [Reddit: nextjs: Where should I setup my database connections?](https://www.reddit.com/r/nextjs/comments/11acgp1/where_should_i_setup_my_database_connections/)
 - []()
 - []()
 

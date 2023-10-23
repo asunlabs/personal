@@ -178,6 +178,12 @@
 - [Typescript interface A extends B, but is missing properties from B?](https://stackoverflow.com/questions/65625183/typescript-interface-a-extends-b-but-is-missing-properties-from-b)
 - [How to extend a type in TypeScript](https://youtube.com/shorts/ll8tGKL0OGU?si=2ooOnWCgIQKKkVVv)
 - [OVERLOADS vs GENERICS: which is better? - Advanced TypeScript](https://youtu.be/Vr1BUFw6dJM?si=kN-qbJwLbbucT9Pp)
+- [Function implementation is missing or not immediately following the declaration, TypeScript class](https://stackoverflow.com/questions/51266438/function-implementation-is-missing-or-not-immediately-following-the-declaration)
+- [Variable Number of Arguments in TypeScript](https://www.damirscorner.com/blog/posts/20180216-VariableNumberOfArgumentsInTypescript.html)
+- [Typescript docs: writing good overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#writing-good-overloads)
+- []()
+- []()
+- []()
 - []()
 
 </details>
