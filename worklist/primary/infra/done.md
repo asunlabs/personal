@@ -156,5 +156,11 @@
 - [Unable to connect localhost in docker](https://stackoverflow.com/questions/43884981/unable-to-connect-localhost-in-docker)
 - [Unexpected token in docker logs after docker run](https://stackoverflow.com/questions/56712015/unexpected-token-in-docker-logs-after-docker-run)
 - [The Interactive and TTY Options in docker run](https://www.baeldung.com/linux/docker-run-interactive-tty-options#:~:text=From%20the%20official%20documentation%2C%20Docker,that%20offers%20basic%20input%2Doutput.)
+- [Grafana Vs Prometheus Explained in 1 Minute | DevOps Shack](https://youtube.com/shorts/Jhh-0_Pu_lc?si=XH8zog6duXVuGg6H)
+- [InfluxDB: The Basics of Time Series Data](https://youtu.be/wBWTj-1XiRU?si=y2KpEXlsFpJF2L4_)
+- []()
+- []()
+- []()
+- []()
 
 </details>
