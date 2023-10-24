@@ -120,6 +120,5 @@
 - [How to check if a pending transaction nonce has duplicate?](https://ethereum.stackexchange.com/questions/91900/how-to-check-if-a-pending-transaction-nonce-has-duplicate)
 - [Error: replacement fee too low when trying to do 2 transactions at once #444](https://github.com/ethers-io/ethers.js/issues/444)
 - [Receive Error: replacement fee too low even though my transaction has changed to canceled. #3297](https://github.com/ethers-io/ethers.js/discussions/3297)
-- []()
-- []()
+- [Github: ethers: How do I parse event logs? #487](https://github.com/ethers-io/ethers.js/issues/487)
 - []()

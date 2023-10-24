@@ -166,8 +166,8 @@
 - [How to make a function to query MySQL in NodeJS?](https://stackoverflow.com/questions/61262212/how-to-make-a-function-to-query-mysql-in-nodejs)
 - [W3schools: SQL INSERT INTO Statement](https://www.w3schools.com/sql/sql_insert.asp)
 - [[MySQL] Error: connect ECONNREFUSED](https://blog.thecloer.com/56)
-- []()
-- []()
+- [W3schools: UPDATE Table](https://www.w3schools.com/sql/sql_update.asp)
+- [How can prepared statements protect from SQL injection attacks?](https://stackoverflow.com/questions/8263371/how-can-prepared-statements-protect-from-sql-injection-attacks)
 - []()
 
 </details>

@@ -161,5 +161,12 @@
 - [Docker docs: Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
 - [Docker hub: mysql quick reference](https://hub.docker.com/_/mysql)
 - [docker container에 접속하기](https://bluese05.tistory.com/21)
+- [Docker 로그 제대로 사용하기](https://insight.infograb.net/blog/2022/11/22/docker-logging-driver/)
+- [How do I change the default port on which my Docker MySql instance runs?](https://stackoverflow.com/questions/59957719/how-do-i-change-the-default-port-on-which-my-docker-mysql-instance-runs)
+- [Docker Compose getting error ECONNREFUSED 127.0.0.1:3306 with MySQL and NodeJS](https://stackoverflow.com/questions/64512831/docker-compose-getting-error-econnrefused-127-0-0-13306-with-mysql-and-nodejs)
+- []()
+- []()
+- []()
+- []()
 
 </details>
