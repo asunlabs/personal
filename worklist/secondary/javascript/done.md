@@ -181,8 +181,9 @@
 - [Function implementation is missing or not immediately following the declaration, TypeScript class](https://stackoverflow.com/questions/51266438/function-implementation-is-missing-or-not-immediately-following-the-declaration)
 - [Variable Number of Arguments in TypeScript](https://www.damirscorner.com/blog/posts/20180216-VariableNumberOfArgumentsInTypescript.html)
 - [Typescript docs: writing good overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#writing-good-overloads)
-- []()
-- []()
+- [Is there a `valueof` similar to `keyof` in TypeScript?](https://stackoverflow.com/questions/49285864/is-there-a-valueof-similar-to-keyof-in-typescript)
+- [[번역] 타입스크립트에서 전문가처럼 에러 처리하기](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-39d14f5cc6a2)
+- [How to Declare a Function that throws an Error in TypeScript](https://bobbyhadz.com/blog/typescript-function-that-throws-error)
 - []()
 - []()
 

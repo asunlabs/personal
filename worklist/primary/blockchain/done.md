@@ -121,4 +121,7 @@
 - [Error: replacement fee too low when trying to do 2 transactions at once #444](https://github.com/ethers-io/ethers.js/issues/444)
 - [Receive Error: replacement fee too low even though my transaction has changed to canceled. #3297](https://github.com/ethers-io/ethers.js/discussions/3297)
 - [Github: ethers: How do I parse event logs? #487](https://github.com/ethers-io/ethers.js/issues/487)
+- [Ethers docs: human readable abi](https://docs.ethers.org/v5/api/utils/abi/formats/#abi-formats--human-readable-abi)
+- []()
+- []()
 - []()
