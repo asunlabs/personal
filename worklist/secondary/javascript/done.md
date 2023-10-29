@@ -188,7 +188,12 @@
 - [All You Need to Know about Decorators in TypeScript](https://medium.com/@arulvalananto/all-you-need-to-know-about-decorators-in-typescript-ce096662f0c0)
 - [Typescript docs: Decorators](https://www.typescriptlang.org/docs/handbook/decorators.html)
 - [[TypeScript] 데코레이터(Decorator)](https://velog.io/@octo__/TypeScript-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0Decorator)
-- []()
+- [TypeScript Decorator 직접 만들어보자](https://dparkjm.com/typescript-decorators)
+- [Properties not visible when logging an typescript object in console](https://stackoverflow.com/questions/52406420/properties-not-visible-when-logging-an-typescript-object-in-console)
+- [typescript overloading class methods - same return type, different parameters](https://stackoverflow.com/questions/31810881/typescript-overloading-class-methods-same-return-type-different-parameters)
+- [Learn Typescript: Method overloading](https://learntypescript.dev/05/l3-overloading)
+- [How to pass an instance variable into typescript decorator arguments?](https://stackoverflow.com/questions/34756294/how-to-pass-an-instance-variable-into-typescript-decorator-arguments)
+- [MDN docs: Promise.race()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race)
 - []()
 
 </details>
