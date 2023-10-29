@@ -122,6 +122,6 @@
 - [Receive Error: replacement fee too low even though my transaction has changed to canceled. #3297](https://github.com/ethers-io/ethers.js/discussions/3297)
 - [Github: ethers: How do I parse event logs? #487](https://github.com/ethers-io/ethers.js/issues/487)
 - [Ethers docs: human readable abi](https://docs.ethers.org/v5/api/utils/abi/formats/#abi-formats--human-readable-abi)
-- []()
+- [How to calculate the assigned txHash of a transaction?](https://ethereum.stackexchange.com/questions/45648/how-to-calculate-the-assigned-txhash-of-a-transaction)
 - []()
 - []()

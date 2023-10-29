@@ -168,6 +168,12 @@
 - [[MySQL] Error: connect ECONNREFUSED](https://blog.thecloer.com/56)
 - [W3schools: UPDATE Table](https://www.w3schools.com/sql/sql_update.asp)
 - [How can prepared statements protect from SQL injection attacks?](https://stackoverflow.com/questions/8263371/how-can-prepared-statements-protect-from-sql-injection-attacks)
+- [Send http request to server without expecting a response](https://stackoverflow.com/questions/6645618/send-http-request-to-server-without-expecting-a-response)
+- [sematext: Response Time](https://sematext.com/glossary/response-time/#:~:text=Standards%3A%20What%20Is%20a%20Good%20Response%20Time&text=A%20web%20response%20time%20ranging,and%20needs%20to%20be%20fixed)
+- [If a single HTTP request/response is taking very long, can I do anything to make it faster when I am not the owner of and do not have access to the backend of the site?](https://www.quora.com/If-a-single-HTTP-request-response-is-taking-very-long-can-I-do-anything-to-make-it-faster-when-I-am-not-the-owner-of-and-do-not-have-access-to-the-backend-of-the-site)
+- [How to enable @ experimentalDecorators in next.config.js or babelrc](https://stackoverflow.com/questions/63650836/how-to-enable-experimentaldecorators-in-next-config-js-or-babelrc)
+- []()
+- []()
 - []()
 
 </details>
