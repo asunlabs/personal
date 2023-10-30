@@ -194,6 +194,13 @@
 - [Learn Typescript: Method overloading](https://learntypescript.dev/05/l3-overloading)
 - [How to pass an instance variable into typescript decorator arguments?](https://stackoverflow.com/questions/34756294/how-to-pass-an-instance-variable-into-typescript-decorator-arguments)
 - [MDN docs: Promise.race()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race)
+- [Typescript guidebook: 스태틱 속성, 메서드](https://yamoo9.gitbook.io/typescript/classes/static)
+- [[typescript] static method](https://velog.io/@gyrbs22/typescript-static-method)
+- [Javascript: 기억해야 할 6가지 falsy 값](https://joooing.tistory.com/entry/%EA%B8%B0%EC%96%B5%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80-falsy-%EA%B0%92)
+- [Multiple try-catch or one?](https://stackoverflow.com/questions/3239906/multiple-try-catch-or-one)
+- []()
+- []()
+- []()
 - []()
 
 </details>

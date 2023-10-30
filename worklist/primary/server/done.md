@@ -172,7 +172,7 @@
 - [sematext: Response Time](https://sematext.com/glossary/response-time/#:~:text=Standards%3A%20What%20Is%20a%20Good%20Response%20Time&text=A%20web%20response%20time%20ranging,and%20needs%20to%20be%20fixed)
 - [If a single HTTP request/response is taking very long, can I do anything to make it faster when I am not the owner of and do not have access to the backend of the site?](https://www.quora.com/If-a-single-HTTP-request-response-is-taking-very-long-can-I-do-anything-to-make-it-faster-when-I-am-not-the-owner-of-and-do-not-have-access-to-the-backend-of-the-site)
 - [How to enable @ experimentalDecorators in next.config.js or babelrc](https://stackoverflow.com/questions/63650836/how-to-enable-experimentaldecorators-in-next-config-js-or-babelrc)
-- []()
+- [Node js Puppeteer - MaxListenersExceededWarning: Possible EventEmitter memory leak detected](https://stackoverflow.com/questions/68184727/node-js-puppeteer-maxlistenersexceededwarning-possible-eventemitter-memory-le)
 - []()
 - []()
 

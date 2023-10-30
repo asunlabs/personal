@@ -111,7 +111,7 @@
 1. [[Git] fatal: refusing to merge unrelated histories 해결 방법](https://somjang.tistory.com/entry/Git-fatal-refusing-to-merge-unrelated-histories-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 1. [Github Pull Requests template not showing](https://stackoverflow.com/questions/52139192/github-pull-requests-template-not-showing)
 1. [[git] tag (Release) 사용 방법 (terminal, source tree, remote 3가지 방법](https://ios-development.tistory.com/356)
-1. []()
+1. [[Jira] Jira와 Github 연동하기](https://sujinnaljin.medium.com/jira-jira%EC%99%80-github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6e649180dfae)
 1. []()
 1. []()
 1. []()
