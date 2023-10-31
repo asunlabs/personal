@@ -173,6 +173,12 @@
 - [If a single HTTP request/response is taking very long, can I do anything to make it faster when I am not the owner of and do not have access to the backend of the site?](https://www.quora.com/If-a-single-HTTP-request-response-is-taking-very-long-can-I-do-anything-to-make-it-faster-when-I-am-not-the-owner-of-and-do-not-have-access-to-the-backend-of-the-site)
 - [How to enable @ experimentalDecorators in next.config.js or babelrc](https://stackoverflow.com/questions/63650836/how-to-enable-experimentaldecorators-in-next-config-js-or-babelrc)
 - [Node js Puppeteer - MaxListenersExceededWarning: Possible EventEmitter memory leak detected](https://stackoverflow.com/questions/68184727/node-js-puppeteer-maxlistenersexceededwarning-possible-eventemitter-memory-le)
+- [Easiest way to detect Production or Dev environment in NextJs?](https://stackoverflow.com/questions/64792787/easiest-way-to-detect-production-or-dev-environment-in-nextjs)
+- [Nextjs docs: Test Environment Variables](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables#test-environment-variables)
+- [[Next.js] dev, build, start 차이](https://maybe-b50.tistory.com/79)
+- [MySQL: error 1146 에러가 발생합니다.](https://www.codeit.kr/community/questions/UXVlc3Rpb246NjIwZGQwNmU3NjIyMGI3Y2ViN2M1YjI4)
+- []()
+- []()
 - []()
 - []()
 
