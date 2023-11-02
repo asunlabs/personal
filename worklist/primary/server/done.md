@@ -188,3 +188,12 @@
 - []()
 
 </details>
+
+<details>
+<summary>November, 2023</summary>
+
+- [W3Schools - SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
+- []()
+- []()
+
+</details>

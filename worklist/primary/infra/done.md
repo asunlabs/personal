@@ -165,6 +165,8 @@
 - [How do I change the default port on which my Docker MySql instance runs?](https://stackoverflow.com/questions/59957719/how-do-i-change-the-default-port-on-which-my-docker-mysql-instance-runs)
 - [Docker Compose getting error ECONNREFUSED 127.0.0.1:3306 with MySQL and NodeJS](https://stackoverflow.com/questions/64512831/docker-compose-getting-error-econnrefused-127-0-0-13306-with-mysql-and-nodejs)
 - [도커 : docker logs의 --tail을 이용하여 컨테이너 로그 확인하기](https://jw910911.tistory.com/70)
+- [Docker docs: docker service logs](https://docs.docker.com/engine/reference/commandline/service_logs/)
+
 - []()
 - []()
 - []()

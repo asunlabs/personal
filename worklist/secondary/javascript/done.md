@@ -204,3 +204,17 @@
 - [Github: aarondill/never-throw](https://github.com/aarondill/never-throw)
 
 </details>
+
+<details>
+<summary>November, 2023</summary>
+
+- [How to Override a Class method in TypeScript](https://bobbyhadz.com/blog/typescript-override-method)
+- [W3Schools - SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
