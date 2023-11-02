@@ -193,7 +193,15 @@
 <summary>November, 2023</summary>
 
 - [W3Schools - SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
-- []()
-- []()
+- [W3Schools - SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)
+- [[SQL] COALESCE](https://velog.io/@gooook/SQL-COALESCE)
+- [Set default value in query when value is null](https://stackoverflow.com/questions/19268811/set-default-value-in-query-when-value-is-null)
+- [프로그래머스 - 경기도에 위치한 식품창고 목록 출력하기(MySQL,IFNULL,CASE-WHEN)](https://velog.io/@zinu/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90-%EC%9C%84%EC%B9%98%ED%95%9C-%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0MySQLIFNULLCASE-WHEN)
+- [What is the difference between IFNULL and COALESCE in MySQL?](https://stackoverflow.com/questions/18528468/what-is-the-difference-between-ifnull-and-coalesce-in-mysql)
+- [[MYSQL][프로그래머스] 가격이 제일 비싼 식품의 정보 출력하기](https://www.google.com/search?q=%EA%B0%80%EA%B2%A9%EC%9D%B4+%EC%A0%9C%EC%9D%BC+%EB%B9%84%EC%8B%BC+%EC%8B%9D%ED%92%88%EC%9D%98+%EC%A0%95%EB%B3%B4+%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0&oq=%EA%B0%80%EA%B2%A9%EC%9D%B4+%EC%A0%9C%EC%9D%BC+%EB%B9%84%EC%8B%BC+%EC%8B%9D%ED%92%88%EC%9D%98+%EC%A0%95%EB%B3%B4+%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEGODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+- [Microsoft docs: Subqueries (SQL Server)](https://learn.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-ver16)
+- [W3Schools - SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)
+- [W3Schools - SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
+- [[프로그래머스] 상품 별 오프라인 매출 구하기](https://velog.io/@hrlrh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%83%81%ED%92%88-%EB%B3%84-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%A4%EC%B6%9C-%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 </details>
