@@ -209,12 +209,15 @@
 <summary>November, 2023</summary>
 
 - [How to Override a Class method in TypeScript](https://bobbyhadz.com/blog/typescript-override-method)
-- [W3Schools - SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Typescript guidebook: 싱글톤](https://yamoo9.gitbook.io/typescript/classes/singleton)
+- [How to parse JSON string in Typescript](https://stackoverflow.com/questions/38688822/how-to-parse-json-string-in-typescript)
+- [slack api to find existing channel](https://stackoverflow.com/questions/50106263/slack-api-to-find-existing-channel)
+- [How to import a common module in CRA using Yarn workspaces?](https://stackoverflow.com/questions/56838735/how-to-import-a-common-module-in-cra-using-yarn-workspaces)
+- [Slack API chat.postMessage](https://api.slack.com/methods/chat.postMessage)
+- [Slack bot cannot post message to private channel](https://stackoverflow.com/questions/43268678/slack-bot-cannot-post-message-to-private-channel)
+- [Singleton pattern?(싱글톤패턴) 개념 및 Typescript에서 구현하기](https://batcave.tistory.com/35)
+- [Format number to always show 2 decimal places](https://stackoverflow.com/questions/6134039/format-number-to-always-show-2-decimal-places)
+- [github: husky: Command "dlx" not found. #25](https://github.com/typicode/husky-4-to-8/issues/25)
 - []()
 
 </details>
