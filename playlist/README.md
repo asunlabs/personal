@@ -60,7 +60,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [고속도로 위에서 틀면 광란의 파티 시작임 ㄹㅇ](https://youtube.com/shorts/SGkFuidDHAg?si=OeXYzOcISTjSlGyy)
 1. [미친 멜로디라인 선보이는 로꼬의 미친 벌스 🔥](https://youtube.com/shorts/JP6xN15UqiM?si=up0ZHV0eawSd2AAk)
 1. [V - feat.로꼬](https://youtube.com/shorts/lpRZf39FYOo?si=IkcbQszvN-unoSAK)
-1. []()
+1. [멘토스 - 로꼬](https://youtube.com/shorts/Eziew0-qzvg?si=3DK7qL72fqPCa3Hf)
 1. []()
 1. []()
 
@@ -111,6 +111,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Glass Animals - The Other Side Of Paradise](https://youtu.be/RMPX_vgqQnM?si=ObtkL3zQks3cAZqd)
 1. [Bruno Mars - The Other Side](https://youtu.be/m8Ed8in9Qng?si=KVDKa3wHDPXj5RDW)
 1. [이 노래를 이렇게 감미롭게 부르네ㅋㅋㅋ - Charlie Puth - Unholy (Cover)](https://youtube.com/shorts/d3luU_rSJmo?si=XWCjOB7B_CP67fhS)
+1. [Jason Derulo - SAVAGE LOVE (Lyrics) Prod. Jawsh 685](https://youtu.be/TtmAD0ieaSQ?si=gnH82DaxprtXMlNp)
+1. [🌈수많은 사람들의 인생을 바꿔준 가사 : Charlie Puth(찰리 푸스) - Left Right Left [가사/해석/번역/lyrics]](https://youtu.be/1emgue_aRGo?si=7wPhi4LvLsN88ZE7)
+1. [Olly Murs, Ft. Flo Rida-Troublemaker (Lyrics Video)](https://youtu.be/fx2EKZiTCZ8?si=c61__sFrewBn8i0y)
+1. [NEFFEX - What You Gonna Be (Lyrics)](https://youtu.be/dAs8HZjMcK0?si=mMoFihqfnmiiprFX)
+1. []()
 1. []()
 1. []()
 1. []()
@@ -133,9 +138,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [SEVENTEEN - "HIT" (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/-FkSD3lwVJY)
 1. [[Lyrics Video] BOL4(볼빨간사춘기) - Travel(여행)](https://youtu.be/g6U2SS-ZMy8?si=bI65sTKD764t-k2K)
 1. [[M/V] 싸운날 - 볼빨간 사춘기](https://youtu.be/1ri7I32Auhg?si=lSQtMlAbpzv2rUjS)
-1. []()
-1. []()
-1. []()
+
+1. [단 한소절로 존재감 각인시켰던 오디션 출신 가수](https://youtube.com/shorts/z_ddOmCj4ew?si=hZ87JJafktr7-vCE)
 1. []()
 1. []()
 
@@ -207,7 +211,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [우리가 게임을 굴린다(전자오락수호대)-가스파드](https://youtu.be/6eCuGwRvfBQ?si=d4SiWzzAo__8WXFS)
 1. [립싱크 하는 푸린](https://youtube.com/shorts/KV30wQ3qVYA?si=9bflz8eO3apN2eft)
 1. [실버판테온 - 장범준 SILVERPantheon](https://youtu.be/BfWqUjunXXU?si=2opw00KITHVhfC2h)
-1. []()
+1. [동생이 다이어트 한다고 해서 만든 노래](https://youtu.be/fL6rM4hTFJA?si=mQfIP9rhvkOR3S4B)
+1. [이무진-과제곡🎶](https://youtu.be/RIMZ0pZh2uk?si=bBsTXHPmeNa3kcdu)
 1. []()
 1. []()
 1. []()
@@ -240,6 +245,15 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [김나영 - 솔직하게 말해서 나](https://youtube.com/shorts/kRtnO5akO_U?si=50tDmNMi2sqpMUxm)
 1. [zac efron - rewrite the stars](https://youtube.com/shorts/NwgiNFz9SG4?si=JNgvntdSy2AdtrYV)
 1. [코드 쿤스트(CODE KUNST) - StrOngerrr (Feat. 로꼬 & MINO) / 가사(Lyrics)](https://youtu.be/ZMKcxBMgTBQ?si=_eZ0SQQkLoAW98iE)
+1. [LEE MU JIN (이무진) - 측정거부 (No MBTI) [가사]](https://youtu.be/WjeWldudUPY?si=DPUuzYQU2ZS1rPhL)
+1. [10년만에 이 노래 음원으로 나옴ㅠ｜ 💿박시환 - 그땐 미처 알지 못했지 (2023) #박시환 #리메이크 #이적 #Shorts](https://youtube.com/shorts/qh2FrGBjEM4?si=0DlYQStN9UKKf6Ag)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 #### Instrumental
 
