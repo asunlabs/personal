@@ -167,7 +167,12 @@
 - [도커 : docker logs의 --tail을 이용하여 컨테이너 로그 확인하기](https://jw910911.tistory.com/70)
 - [Docker docs: docker service logs](https://docs.docker.com/engine/reference/commandline/service_logs/)
 
-- []()
+</details>
+
+<details>
+<summary>November, 2023</summary>
+
+- [Visualizing JIRA with Grafana Cloud](https://youtu.be/ybkVWSKxEGc?si=ve7V2p_croDoJNuJ)
 - []()
 - []()
 

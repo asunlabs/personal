@@ -203,5 +203,6 @@
 - [W3Schools - SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)
 - [W3Schools - SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
 - [[프로그래머스] 상품 별 오프라인 매출 구하기](https://velog.io/@hrlrh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%83%81%ED%92%88-%EB%B3%84-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%A4%EC%B6%9C-%EA%B5%AC%ED%95%98%EA%B8%B0)
+- [개발할 때 이런거 쓰지말라고 몇번을](https://youtu.be/8TnUKFs-zH0?si=2Yq8j2eHvScufmem)
 
 </details>
