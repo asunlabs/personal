@@ -37,3 +37,4 @@
 - [How to install 'make' and GCC on a Mac](https://stackoverflow.com/questions/10265742/how-to-install-make-and-gcc-on-a-mac)
 - [Wikipedia - Make](<https://en.wikipedia.org/wiki/Make_(software)>)
 - [Jest docs: test timeout](https://jestjs.io/docs/api#testname-fn-timeout)
+- [리눅스에서 허가 거부, Permission denied](https://velog.io/@sungmo738/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-%ED%97%88%EA%B0%80-%EA%B1%B0%EB%B6%80-Permission-denied)
