@@ -173,6 +173,12 @@
 <summary>November, 2023</summary>
 
 - [Visualizing JIRA with Grafana Cloud](https://youtu.be/ybkVWSKxEGc?si=ve7V2p_croDoJNuJ)
+- [Grafana Alerting and Slack Notifications.](https://medium.com/@_oleksii_/grafana-alerting-and-slack-notifications-3affe9d5f688)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
