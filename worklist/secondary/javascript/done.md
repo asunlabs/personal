@@ -218,6 +218,13 @@
 - [Singleton pattern?(싱글톤패턴) 개념 및 Typescript에서 구현하기](https://batcave.tistory.com/35)
 - [Format number to always show 2 decimal places](https://stackoverflow.com/questions/6134039/format-number-to-always-show-2-decimal-places)
 - [github: husky: Command "dlx" not found. #25](https://github.com/typicode/husky-4-to-8/issues/25)
+- [What does the construct x = x || y mean?](https://stackoverflow.com/questions/2802055/what-does-the-construct-x-x-y-mean)
+- [Get current git branch with node.js](https://stackoverflow.com/questions/62225567/get-current-git-branch-with-node-js)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 
 </details>
