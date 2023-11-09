@@ -40,7 +40,7 @@
 - [리눅스에서 허가 거부, Permission denied](https://velog.io/@sungmo738/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-%ED%97%88%EA%B0%80-%EA%B1%B0%EB%B6%80-Permission-denied)
 - [프론트 개발자의 기능명세서 작성하는 법🧐](https://velog.io/@osohyun0224/%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B2%95)
 - [기능 명세서 작성 요령](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=53298)
-- []()
+- [위키 백과 - 인스트루먼테이션](https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98)
 - []()
 - []()
 - []()
