@@ -216,6 +216,18 @@
 - [W3Schools: SQL DROP TABLE and TRUNCATE TABLE Keywords](https://www.w3schools.com/sql/sql_ref_drop_table.asp)
 - [W3Schools: ALTER TABLE - ADD Column](https://www.w3schools.com/sql/sql_alter.asp)
 - [Nextjs docs: Instrumentation](https://nextjs.org/docs/pages/building-your-application/optimizing/instrumentation)
+- [Nextjs docs: Invalid `next.config.js`](https://nextjs.org/docs/messages/invalid-next-config)
+- [Pass a variable from next.js middleware to api req](https://stackoverflow.com/questions/71445346/pass-a-variable-from-next-js-middleware-to-api-req)
+- [How to get data from middleware and use it in API routes?](https://www.reddit.com/r/nextjs/comments/16kiaje/how_to_get_data_from_middleware_and_use_it_in_api/)
+- [Nextjs docs: Using Node.js Modules in Edge Runtime](https://nextjs.org/docs/messages/node-module-in-edge-runtime)
+- [[nextjs] next.config.js 기초 정리](https://velog.io/@bunny/nextjs-next.config.js-%EA%B8%B0%EC%B4%88-%EC%A0%95%EB%A6%AC)
+- [Making a variable globally available to all modules in next.js application](https://stackoverflow.com/questions/77198455/making-a-variable-globally-available-to-all-modules-in-next-js-application)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 
 </details>
