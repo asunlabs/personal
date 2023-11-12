@@ -120,7 +120,7 @@
 <summary>November, 2023</summary>
 
 - [Github docs: Example: Including branches and tags](https://docs.github.com/ko/actions/using-workflows/workflow-syntax-for-github-actions#example-including-branches-and-tags)
-- []()
+- [Hooking Custom Functionality into the Git Pipeline](https://courses.csail.mit.edu/6.S194/13/lessons/03-git/adding-custom-hooks-to-git.html)
 - []()
 - []()
 - []()
