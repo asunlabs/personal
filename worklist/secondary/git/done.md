@@ -121,7 +121,11 @@
 
 - [Github docs: Example: Including branches and tags](https://docs.github.com/ko/actions/using-workflows/workflow-syntax-for-github-actions#example-including-branches-and-tags)
 - [Hooking Custom Functionality into the Git Pipeline](https://courses.csail.mit.edu/6.S194/13/lessons/03-git/adding-custom-hooks-to-git.html)
-- []()
+- [Slack, Github 연동하기](https://noah0316.github.io/Tools/2021-01-09-slack,-github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
+- [List enabled features on subscribed repositories #386](https://github.com/integrations/slack/issues/386)
+- [Github: How can I notify to slack when specific branch is merged into master?](https://stackoverflow.com/questions/62465949/github-how-can-i-notify-to-slack-when-specific-branch-is-merged-into-master)
+- [Github: integrations/slack: Disable previews #595](https://github.com/integrations/slack/issues/595)
+- [Github: integrations/slack: Allow subscribing to new/merged/closed PRs separately #519](https://github.com/integrations/slack/issues/519)
 - []()
 - []()
 - []()
