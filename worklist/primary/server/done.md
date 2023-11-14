@@ -232,9 +232,9 @@
 - [To convert date format in SQL Server](https://stackoverflow.com/questions/68539233/to-convert-date-format-in-sql-server)
 - [[프로그래머스 SQL] DATETIME에서 DATE로 형 변환 MySQL](https://murra.tistory.com/157)
 - [🍦[프로그래머스] 과일로 만든 아이스크림 고르기](https://velog.io/@kwb020312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B3%BC%EC%9D%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
-- []()
-- []()
-- []()
+- [카카오 FE 기술 블로그: Runtime 환경 변수 설정으로 빌드 프로세스 개선하기](https://fe-developers.kakaoent.com/2022/220505-runtime-environment/)
+- [Vercel docs: How can I use files in Serverless Functions on Vercel?](https://vercel.com/guides/how-can-i-use-files-in-serverless-functions)
+- [환경 변수, undefined 에러를 해결해보자](https://velog.io/@junhopportunity/Next.JS-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9)
 - []()
 - []()
 
