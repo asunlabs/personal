@@ -56,6 +56,6 @@
 - [ssh: Could not resolve hostname server: Name or service not known](https://askubuntu.com/questions/874724/ssh-could-not-resolve-hostname-server-name-or-service-not-known)
 - [Shell script - Bad substitution Error while running script with sh](https://stackoverflow.com/questions/61697129/shell-script-bad-substitution-error-while-running-script-with-sh)
 - [Windows: download GPG binaries](https://gpg4win.org/get-gpg4win.html)
-- []()
+- [How to export a GPG private key and public key to a file](https://unix.stackexchange.com/questions/481939/how-to-export-a-gpg-private-key-and-public-key-to-a-file)
 - []()
 - []()
