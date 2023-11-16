@@ -245,7 +245,7 @@
 - [Nextjs docs: config.js: basePath](https://nextjs.org/docs/pages/api-reference/next-config-js/basePath)
 - [Next.js: TypeError: Failed to parse URL from ... when targeting API route relatively](https://stackoverflow.com/questions/76309154/next-js-typeerror-failed-to-parse-url-from-when-targeting-api-route-relati)
 - [How to setup api routes urls for production? #48793](https://github.com/vercel/next.js/discussions/48793)
-- []()
+- [[Project] 프로젝트 삽질기18 (feat 쿼리 튜닝, 인덱스)](https://overcome-the-limits.tistory.com/666)
 - []()
 - []()
 
