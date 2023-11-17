@@ -244,7 +244,7 @@
 - [Typescript docs: Global Libraries](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html)
 - [Webpack docs: Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 - [[Node.js & MySQL] 도전과제: 검색 - 색인기능 살펴보기](https://hayjo.tistory.com/87)
-- []()
+- [Javascript - Remove '\n' from string](https://stackoverflow.com/questions/36274626/javascript-remove-n-from-string)
 - []()
 - []()
 
