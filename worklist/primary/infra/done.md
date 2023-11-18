@@ -199,10 +199,9 @@
 - [Docker: Uses an image, skipping (docker-compose)](https://stackoverflow.com/questions/47615495/docker-uses-an-image-skipping-docker-compose)
 - [Docker docs: How to use secrets in Docker Compose](https://docs.docker.com/compose/use-secrets/)
 - [Docker docs: Use the environment attribute](https://docs.docker.com/compose/environment-variables/set-environment-variables/#use-the-environment-attribute)
-- []()
-- []()
-- []()
-- []()
+- [Railway docs: Deployments start command](https://docs.railway.app/deploy/deployments#start-command)
+- [Railway docs: Fixing Common Errors](https://docs.railway.app/troubleshoot/fixing-common-errors)
+- [Railway docs: Root Directory](https://docs.railway.app/deploy/builds#root-directory)
 - []()
 
 </details>
