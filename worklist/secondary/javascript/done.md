@@ -245,6 +245,9 @@
 - [Webpack docs: Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 - [[Node.js & MySQL] 도전과제: 검색 - 색인기능 살펴보기](https://hayjo.tistory.com/87)
 - [Javascript - Remove '\n' from string](https://stackoverflow.com/questions/36274626/javascript-remove-n-from-string)
+- [Node.js fs.statSync() Method](https://www.geeksforgeeks.org/node-js-fs-statsync-method/)
+- [When to use static methods in TypeScript?](https://typescript.tv/best-practices/when-to-use-static-methods-in-typescript/)
+- []()
 - []()
 - []()
 

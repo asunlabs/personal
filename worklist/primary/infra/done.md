@@ -220,7 +220,7 @@
 - [How to determine if a process runs inside lxc/Docker?](https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker)
 - [Reading data from file inside of docker container](https://community.home-assistant.io/t/reading-data-from-file-inside-of-docker-container/633705)
 - [How do I configure a secret in docker compose?](https://stackoverflow.com/questions/71011448/how-do-i-configure-a-secret-in-docker-compose)
-- []()
+- [ISSUE: Docker run and environment variables with quotes and double quotes](https://stackoverflow.com/questions/30494050/how-do-i-pass-environment-variables-to-docker-containers/75237297#75237297)
 - []()
 - []()
 - []()
