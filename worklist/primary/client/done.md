@@ -170,3 +170,17 @@
 - [[Axios] 타임아웃 설정하기](https://velog.io/@boyeon_jeong/Axios-%ED%83%80%EC%9E%84%EC%95%84%EC%9B%83-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 </details>
+
+<details>
+<summary>December, 2023</summary>
+
+- [React page keep footer at the bottom of the page](https://stackoverflow.com/questions/39857425/react-page-keep-footer-at-the-bottom-of-the-page)
+- [how to add dash(-) between name of dynamic route Nextjs in url](https://stackoverflow.com/questions/70135681/how-to-add-dash-between-name-of-dynamic-route-nextjs-in-url)
+- [How to create dynamic url with hyphens in Next.js?](https://stackoverflow.com/questions/68840471/how-to-create-dynamic-url-with-hyphens-in-next-js)
+- [Dynamic routing with dots and dashes #15182](https://github.com/vercel/next.js/discussions/15182)
+- [How to have dashes in page names? #15396](https://github.com/vercel/next.js/discussions/15396)
+- [How to center a navigation bar with CSS or HTML?](https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
+- []()
+- []()
+
+</details>
