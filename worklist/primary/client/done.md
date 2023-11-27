@@ -172,7 +172,7 @@
 </details>
 
 <details>
-<summary>December, 2023</summary>
+<summary>November, 2023</summary>
 
 - [React page keep footer at the bottom of the page](https://stackoverflow.com/questions/39857425/react-page-keep-footer-at-the-bottom-of-the-page)
 - [how to add dash(-) between name of dynamic route Nextjs in url](https://stackoverflow.com/questions/70135681/how-to-add-dash-between-name-of-dynamic-route-nextjs-in-url)
@@ -180,6 +180,15 @@
 - [Dynamic routing with dots and dashes #15182](https://github.com/vercel/next.js/discussions/15182)
 - [How to have dashes in page names? #15396](https://github.com/vercel/next.js/discussions/15396)
 - [How to center a navigation bar with CSS or HTML?](https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
+- [TypeError: Cannot read properties of undefined (reading 'dark')](https://stackoverflow.com/questions/69332044/typeerror-cannot-read-properties-of-undefined-reading-dark)
+- [Material UI v5: TypeError: Cannot read properties of undefined (reading 'create')](https://stackoverflow.com/questions/69336893/material-ui-v5-typeerror-cannot-read-properties-of-undefined-reading-create)
+- [[공감병동 프로젝트] 2. Quill Editor 적용](https://velog.io/@daeseongkim/%EA%B3%B5%EA%B0%90%EB%B3%91%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2.-Quill-Editor-%EC%A0%81%EC%9A%A9)
+- [github: cure53/DOMPurify](https://github.com/cure53/DOMPurify)
+- [Nextjs docs: useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
+- [Nextjs docs: App Router: layout.js](https://nextjs.org/docs/app/api-reference/file-conventions/layout)
+- []()
+- []()
+- []()
 - []()
 - []()
 
