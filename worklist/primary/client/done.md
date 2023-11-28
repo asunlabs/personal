@@ -186,9 +186,9 @@
 - [github: cure53/DOMPurify](https://github.com/cure53/DOMPurify)
 - [Nextjs docs: useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
 - [Nextjs docs: App Router: layout.js](https://nextjs.org/docs/app/api-reference/file-conventions/layout)
-- []()
-- []()
-- []()
+- [Secure client side env variables in Next JS](https://stackoverflow.com/questions/70950486/secure-client-side-env-variables-in-next-js)
+- [Fix footer to bottom of page](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page)
+- [How TO - Fixed Footer](https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
 - []()
 - []()
 
