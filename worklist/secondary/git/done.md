@@ -126,7 +126,7 @@
 - [Github: How can I notify to slack when specific branch is merged into master?](https://stackoverflow.com/questions/62465949/github-how-can-i-notify-to-slack-when-specific-branch-is-merged-into-master)
 - [Github: integrations/slack: Disable previews #595](https://github.com/integrations/slack/issues/595)
 - [Github: integrations/slack: Allow subscribing to new/merged/closed PRs separately #519](https://github.com/integrations/slack/issues/519)
-- []()
+- [Slack Incoming Webhook 2가지 방법](https://velog.io/@king/slack-incoming-webhook)
 - []()
 - []()
 

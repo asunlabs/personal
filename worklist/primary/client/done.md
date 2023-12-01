@@ -193,3 +193,13 @@
 - []()
 
 </details>
+
+<details>
+<summary>December, 2023</summary>
+
+- [Nextjs docs: Lazy Loading](https://nextjs.org/docs/pages/building-your-application/optimizing/lazy-loading)
+- []()
+- []()
+- []()
+
+</details>

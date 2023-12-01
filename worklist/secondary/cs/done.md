@@ -80,8 +80,13 @@
 - [Associative array in Bash](https://linuxhint.com/associative_array_bash/)
 - [declare inside a bash funcion not working as expected with associative arrays](https://stackoverflow.com/questions/67278021/declare-inside-a-bash-funcion-not-working-as-expected-with-associative-arrays)
 - [Shell - How to declare an associative array and iterate through [duplicate]](https://stackoverflow.com/questions/63070256/shell-how-to-declare-an-associative-array-and-iterate-through)
+
+<details>
+<summary>December, 2023</summary>
+
+- [How To Use grep Command In Linux/UNIX](https://phoenixnap.com/k)
+- [Elasticsearch란? (개념 및 종류, RDMBS와 차이)](https://nanbuja.com/entry/Elasticsearch%EB%9E%80-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%A2%85%EB%A5%98-RDBMS%EC%99%80-%EC%B0%A8%EC%9D%B4)
+- [MDN docs: Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting)
 - []()
-- []()
-- []()
-- []()
-- []()
+
+</details>

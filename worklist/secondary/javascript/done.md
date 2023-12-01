@@ -253,9 +253,15 @@
 - [JavaScript Symbols](https://playcode.io/javascript/symbols)
 - [PNPM docs: prune](https://pnpm.io/cli/prune)
 - [pnpm usage with depcheck? #4568](https://github.com/orgs/pnpm/discussions/4568)
-- []()
-- []()
-- []()
-- []()
+- [UTC와 ISO 8601, Javascript Date 객체](https://velog.io/@rongsic/UTC%EC%99%80-ISO-8601%EC%99%80-Date-%EA%B0%9D%EC%B2%B4)
+
+</details>
+
+<details>
+<summary>December, 2023</summary>
+
+- [[Crawling] Playwright를 이용한 크롤링\_1](https://lss3070.github.io/2021/09/22/Crawling-HeadlessBrowser/)
+- [How to use Hashmap in TypeScript?](https://www.tutorialspoint.com/how-to-use-hashmap-in-typescript)
+- [TypeScript hashmap/dictionary interface](https://stackoverflow.com/questions/42211175/typescript-hashmap-dictionary-interface)
 
 </details>

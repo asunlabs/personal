@@ -278,3 +278,13 @@
 - []()
 
 </details>
+
+<details>
+<summary>December, 2023</summary>
+
+- [Dgraph Graph Database in 100 Seconds](https://youtu.be/OzDG68VvPxY?si=rVYi0AmrfTDnPAXD)
+- []()
+- []()
+- []()
+
+</details>
