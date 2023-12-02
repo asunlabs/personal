@@ -87,6 +87,10 @@
 - [How To Use grep Command In Linux/UNIX](https://phoenixnap.com/k)
 - [Elasticsearch란? (개념 및 종류, RDMBS와 차이)](https://nanbuja.com/entry/Elasticsearch%EB%9E%80-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%A2%85%EB%A5%98-RDBMS%EC%99%80-%EC%B0%A8%EC%9D%B4)
 - [MDN docs: Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting)
-- []()
+- [AWS docs: Availability with dependencies](https://docs.aws.amazon.com/whitepapers/latest/availability-and-beyond-improving-resilience/availability-with-dependencies.html)
+- [Allow disabling shellcheck checks globally within a file #777](https://github.com/koalaman/shellcheck/issues/777)
+- [Directive – ShellCheck Wiki](https://www.shellcheck.net/wiki/Directive)
+- [Literal carriage return. Run script through tr -d '\r' – ShellCheck Wiki](https://www.shellcheck.net/wiki/SC1017)
+- [github: shellcheck: New directive: disable=all #1144](https://github.com/koalaman/shellcheck/issues/1144)
 
 </details>

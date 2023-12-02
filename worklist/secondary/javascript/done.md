@@ -263,5 +263,15 @@
 - [[Crawling] Playwright를 이용한 크롤링\_1](https://lss3070.github.io/2021/09/22/Crawling-HeadlessBrowser/)
 - [How to use Hashmap in TypeScript?](https://www.tutorialspoint.com/how-to-use-hashmap-in-typescript)
 - [TypeScript hashmap/dictionary interface](https://stackoverflow.com/questions/42211175/typescript-hashmap-dictionary-interface)
+- [MDC docs: Performance: now() method](https://developer.mozilla.org/en-US/docs/Web/API/Performance/now)
+- [자바스크립트 함수의 성능 측정하기](https://yceffort.kr/2020/12/measuring-performance-of-javascript-functions)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 </details>
