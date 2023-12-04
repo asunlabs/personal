@@ -127,6 +127,13 @@
 - [Github: integrations/slack: Disable previews #595](https://github.com/integrations/slack/issues/595)
 - [Github: integrations/slack: Allow subscribing to new/merged/closed PRs separately #519](https://github.com/integrations/slack/issues/519)
 - [Slack Incoming Webhook 2가지 방법](https://velog.io/@king/slack-incoming-webhook)
+- [How do I merge a git tag onto a branch](https://stackoverflow.com/questions/17051504/how-do-i-merge-a-git-tag-onto-a-branch)
+- [[Github] Code Owner로 Auto Assign 하기](https://helloinyong.tistory.com/329)
+- [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 

@@ -283,7 +283,13 @@
 <summary>December, 2023</summary>
 
 - [Dgraph Graph Database in 100 Seconds](https://youtu.be/OzDG68VvPxY?si=rVYi0AmrfTDnPAXD)
-- []()
+- [NextJS - Tree Shaking weird behaviour](https://stackoverflow.com/questions/68486872/nextjs-tree-shaking-weird-behaviour)
+- [What is the purpose of the "Javascript Origins" when creating a Client ID](https://stackoverflow.com/questions/35075769/what-is-the-purpose-of-the-javascript-origins-when-creating-a-client-id)
+- [Nextauth docs: NEXTAUTH_URL](https://next-auth.js.org/configuration/options#nextauth_url)
+- [Github: Nextauth: Google Authorization Error #1020](https://github.com/nextauthjs/next-auth/issues/1020)
+- [Github: Nextauth: Vercel deployment redirect URI #3419](https://github.com/nextauthjs/next-auth/issues/3419)
+- [Github: Nextauth: NEXTAUTH_URL Warning #4220](https://github.com/nextauthjs/next-auth/discussions/4220)
+- [What Is MySQL Hostname?](<https://kinsta.com/knowledgebase/mysql-hostname/#:~:text=The%20MySQL%20hostname%20defines%20the,your%20application%20(e.g.%20WordPress).>)
 - []()
 - []()
 
