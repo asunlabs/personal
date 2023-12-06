@@ -130,7 +130,7 @@
 - [How do I merge a git tag onto a branch](https://stackoverflow.com/questions/17051504/how-do-i-merge-a-git-tag-onto-a-branch)
 - [[Github] Code Owner로 Auto Assign 하기](https://helloinyong.tistory.com/329)
 - [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
-- []()
+- [Github actions: Got error of Resource not accessible by integration where re-creating the same name repo #60820](https://github.com/orgs/community/discussions/60820)
 - []()
 - []()
 - []()

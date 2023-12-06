@@ -92,5 +92,15 @@
 - [Directive – ShellCheck Wiki](https://www.shellcheck.net/wiki/Directive)
 - [Literal carriage return. Run script through tr -d '\r' – ShellCheck Wiki](https://www.shellcheck.net/wiki/SC1017)
 - [github: shellcheck: New directive: disable=all #1144](https://github.com/koalaman/shellcheck/issues/1144)
+- [SSH Agent Explained](https://smallstep.com/blog/ssh-agent-explained/)
+- [Wikipedia: Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link)
+- [글로 정리하는 제어 - Canonical 이 뭘까?](https://m.blog.naver.com/nswve/221965858064)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 </details>
