@@ -233,6 +233,11 @@
 - [도커 (Docker) 저는 이렇게도 사용해봤습니다.](https://youtu.be/vhWUKuBT6pY?si=1WyHq_A-n_WtD7KJ)
 - [How to Get Docker Container IP Address From the Host?](https://kodekloud.com/blog/get-docker-container-ip/)
 - [서비스 개발에서 배포까지: 배포 프로세스에 대해 알아봅시다](https://youtu.be/b7urHdzLuLI?si=mYGaEmdzuYj68WX-)
+- [How to use Docker .env file](https://www.youtube.com/watch?v=WqiazgeOsiQ)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 

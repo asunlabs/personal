@@ -203,7 +203,7 @@
 - [Dynamic Metadata NextJS 13 App Directory](https://dev.to/rainbowhat/dynamic-metadata-nextjs-13-app-directory-1iek)
 - [Google search central: Sitemap best practices](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap#:~:text=Sitemap%20size%20limits%3A%20All%20formats,single%20index%20file%20to%20Google.)
 - [Add robots.txt to GIT repository](https://stackoverflow.com/questions/71399899/add-robots-txt-to-git-repository)
-- []()
+- [How to push the footer in MUI at the very bottom and make it stick?](https://stackoverflow.com/questions/72440972/how-to-push-the-footer-in-mui-at-the-very-bottom-and-make-it-stick)
 - []()
 - []()
 - []()
