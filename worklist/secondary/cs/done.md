@@ -99,7 +99,7 @@
 - [위키백과 - 웹훅](https://ko.m.wikipedia.org/wiki/%EC%9B%B9%ED%9B%85)
 - [Red Hat: What is a webhook?](https://www.redhat.com/en/topics/automation/what-is-a-webhook)
 - [What is GCC?](https://www.incredibuild.com/integrations/gcc)
-- []()
+- [혼자 풀스택으로 웹 만들때 db 부터 개발해요 프론트부터 개발해요?](https://www.teamblind.com/kr/post/%ED%98%BC%EC%9E%90-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A7%8C%EB%93%A4%EB%95%8C-db-%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%ED%95%B4%EC%9A%94-%ED%94%84%EB%A1%A0%ED%8A%B8%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%ED%95%B4%EC%9A%94-n5Sm5zq6)
 - []()
 - []()
 - []()

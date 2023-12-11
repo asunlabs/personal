@@ -297,6 +297,11 @@
 - [How to solve vs code - gopls command is not available](https://stackoverflow.com/questions/66668506/how-to-solve-vs-code-gopls-command-is-not-available)
 - [Request url on my Slack app that is invoked on clicking a button requires basic auth](https://stackoverflow.com/questions/76751479/request-url-on-my-slack-app-that-is-invoked-on-clicking-a-button-requires-basic)
 - [How to Receive URL-Encoded Form Data in Next.js 13?](https://stackoverflow.com/questions/76936071/how-to-receive-url-encoded-form-data-in-next-js-13)
+- [New Metadata support and "use client"](https://www.reddit.com/r/nextjs/comments/11fjnpq/new_metadata_support_and_use_client/)
+- [Not able to change the title with metadata when using 'use client' in Next.js](https://stackoverflow.com/questions/76445050/not-able-to-change-the-title-with-metadata-when-using-use-client-in-next-js)
+- [라즈베리파이로 웹 서버 구축 후기](https://krworker.com/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%9B%84%EA%B8%B0/)
+- [라즈베리파이 4 Hello Raspberry!](https://blog.itcode.dev/posts/2021/08/29/hello-raspberry)
+- []()
 - []()
 - []()
 

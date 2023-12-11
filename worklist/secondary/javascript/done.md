@@ -268,7 +268,7 @@
 - [Artillery docs: Installing as a devDependency in Node.js projects](https://www.artillery.io/docs/get-started/get-artillery#installing-as-a-devdependency-in-nodejs-projects)
 - [Load testing with browsers using Artillery and Playwright](https://www.youtube.com/watch?v=cw4EXTzgFRU)
 - [타입스크립트 | 모듈 Default Export 란, 사용해야 할까?](https://fronquarry.tistory.com/73)
-- []()
+- [How can I alias a default import in JavaScript?](https://stackoverflow.com/questions/39282253/how-can-i-alias-a-default-import-in-javascript)
 - []()
 - []()
 - []()
