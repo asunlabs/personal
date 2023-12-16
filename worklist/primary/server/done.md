@@ -301,7 +301,7 @@
 - [Not able to change the title with metadata when using 'use client' in Next.js](https://stackoverflow.com/questions/76445050/not-able-to-change-the-title-with-metadata-when-using-use-client-in-next-js)
 - [라즈베리파이로 웹 서버 구축 후기](https://krworker.com/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%9B%84%EA%B8%B0/)
 - [라즈베리파이 4 Hello Raspberry!](https://blog.itcode.dev/posts/2021/08/29/hello-raspberry)
-- []()
+- [Q. MySQL 인덱스 타는지 안 타는지 확인하는 방법은?](https://taptorestart.tistory.com/entry/Q-MySQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%83%80%EB%8A%94%EC%A7%80-%EC%95%88-%ED%83%80%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80)
 - []()
 - []()
 
