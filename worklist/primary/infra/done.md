@@ -236,6 +236,15 @@
 - [How to use Docker .env file](https://www.youtube.com/watch?v=WqiazgeOsiQ)
 - [How to Deploy a Service to a Docker Swarm Cluster](https://youtu.be/gfn51oQ0_-w?si=CWNOF-RTCMV6hA1S)
 - [Docker 컨테이너에서 깃 사용하기](https://yangeok.github.io/devops/2019/01/19/git-in-docker-container.html)
+
+</details>
+
+<details>
+<summary>Dec, 2023</summary>
+
+- [실전! Spring 앱 모니터링 (w. 프로메테우스, 그라파나, EC2)](https://velog.io/@juhyeon1114/%EC%8B%A4%EC%A0%84-Spring-%EC%95%B1-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-w.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98-EC2)
+- []()
+- []()
 - []()
 - []()
 - []()
