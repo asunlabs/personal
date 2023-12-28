@@ -132,7 +132,7 @@
 - [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
 - [Github actions: Got error of Resource not accessible by integration where re-creating the same name repo #60820](https://github.com/orgs/community/discussions/60820)
 - [Github docs: Supported secrets](https://docs.github.com/en/code-security/secret-scanning/secret-scanning-patterns#supported-secrets)
-- []()
+- [Atlassian docs: git rebase](https://www.atlassian.com/ko/git/tutorials/rewriting-history/git-rebase)
 - []()
 - []()
 - []()
