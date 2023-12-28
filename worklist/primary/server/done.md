@@ -315,8 +315,20 @@
 - [How to reference 2 different tables with a foreign key of the same column?](https://stackoverflow.com/questions/61336131/how-to-reference-2-different-tables-with-a-foreign-key-of-the-same-column)
 - [How to Create Index in MySQL](https://www.javatpoint.com/how-to-create-index-in-mysql)
 - [[mysql] 인덱스 생성, 삭제, 확인](https://huskdoll.tistory.com/605)
+- [sql: Count table rows](https://stackoverflow.com/questions/1893424/count-table-rows)
+- [SQLite 3탄 – 미리알고, 풀스캔을 방지하자.(1)](https://gywn.net/2013/09/let-me-know-data-searching-in-sqlite/)
+- [[SQL] Index(인덱스)](https://velog.io/@gillog/SQL-Index%EC%9D%B8%EB%8D%B1%EC%8A%A4)
+- [How to check the query is using the indexes in mysql](https://stackoverflow.com/questions/31372353/how-to-check-the-query-is-using-the-indexes-in-mysql)
+- [index가 뭔지 설명해보세요 (개발면접시간)](https://youtu.be/iNvYsGKelYs?si=BL_yNAkPcYdyi852)
 - []()
 - []()
+- []()
+
+</details>
+
+<details>
+<summary>Jan, 2024</summary>
+
 - []()
 - []()
 - []()
