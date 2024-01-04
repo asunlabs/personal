@@ -212,6 +212,23 @@
 - [MUI docs: Bottom Navigation](https://mui.com/material-ui/react-bottom-navigation/)
 - [React docs: Catching rendering errors with an error boundary](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
 - [NextJS Server Side Rendering](https://themobilereality.com/blog/nextjs-server-sider-rendering-guidline#:~:text=Server%20Side%20Rendering-,Next.,dynamic%2C%20pre%2Drendered%20content.)
+
+</details>
+
+<details>
+<summary>January, 2024</summary>
+
+- [Render HTML in React With DangerouslySetInnerHTML 💡 #reactjs #reactdevelopment #reactjstutorial](https://youtube.com/shorts/XINblOkpkPc?si=rTXU2xAVqs4gOjUA)
+- [React.js Tip: Re-Export Components From Index.tsx (Barrel Exports) #reactjs #reactjstutorial](https://youtube.com/shorts/Rw_4Oo03sV4?si=YDluWknnFp9v4VlC)
+- [why vscode open react app in edge instead of chrome?](https://stackoverflow.com/questions/66212423/why-vscode-open-react-app-in-edge-instead-of-chrome)
+- [W3Schools: HTML <input type="file">](https://www.w3schools.com/tags/att_input_type_file.asp)
+- [MDN docs: <input type="file">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file)
+- [React docs: Error Decoder](https://legacy.reactjs.org/docs/error-decoder.html/?invariant=422)
+- [NextJS Website Breaks On Production But Works Fine On Development](https://stackoverflow.com/questions/73937678/nextjs-website-breaks-on-production-but-works-fine-on-development)
+- [Is there a way to connect NextJS app on my phone trough local network in development like Create React App does?](https://stackoverflow.com/questions/74670714/is-there-a-way-to-connect-nextjs-app-on-my-phone-trough-local-network-in-develop)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
