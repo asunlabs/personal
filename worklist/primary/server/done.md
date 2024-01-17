@@ -329,6 +329,19 @@
 <details>
 <summary>Jan, 2024</summary>
 
+- [How to make a primary key start from 1000?](https://stackoverflow.com/questions/2130635/how-to-make-a-primary-key-start-from-1000)
+- [MySQL 8 get the currently used (default) database name [duplicate]](https://stackoverflow.com/questions/60902686/mysql-8-get-the-currently-used-default-database-name)
+- [MySQL Workbench로 ERD다이어그램 생성](https://velog.io/@psj0810/MySQL-Workbench%EB%A1%9C-ERD%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EC%83%9D%EC%84%B1)
+- [github: mysql-workbench-dark-theme](https://github.com/mleandrojr/mysql-workbench-dark-theme/blob/master/code_editor.xml)
+- [[MySQL] MySQL Workbench 8.0 다크 테마 적용하기](https://ropering.tistory.com/207)
+- [How to make a primary key start from 1000?](https://stackoverflow.com/questions/2130635/how-to-make-a-primary-key-start-from-1000)
+- [When should I use UNSIGNED and SIGNED INT in MySQL?](https://stackoverflow.com/questions/11515594/when-should-i-use-unsigned-and-signed-int-in-mysql)
+- [how to index a column in MySQL within "CREATE TABLE" command](https://stackoverflow.com/questions/68986326/how-to-index-a-column-in-mysql-within-create-table-command)
+- [W3 schools: MySQL UNIQUE Constraint](https://www.w3schools.com/mysql/mysql_unique.asp)
+- [Does making a field unique make it indexed?](https://dba.stackexchange.com/questions/2783/does-making-a-field-unique-make-it-indexed)
+- [[Real MySQL] 그외 인덱스(유니크, 외래키)](https://12bme.tistory.com/150)
+- []()
+- []()
 - []()
 - []()
 - []()
