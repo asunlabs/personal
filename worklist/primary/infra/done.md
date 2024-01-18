@@ -243,11 +243,22 @@
 <summary>Dec, 2023</summary>
 
 - [실전! Spring 앱 모니터링 (w. 프로메테우스, 그라파나, EC2)](https://velog.io/@juhyeon1114/%EC%8B%A4%EC%A0%84-Spring-%EC%95%B1-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-w.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98-EC2)
-- []()
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>Jan, 2024</summary>
+
+- [Docker docs: History and development of Docker Compose](https://docs.docker.com/compose/history/)
+- [docker-compose build fail with file not found](https://stackoverflow.com/questions/63853835/docker-compose-build-fail-with-file-not-found)
+- [Docker gets error "failed to compute cache key: not found" - runs fine in Visual Studio](https://stackoverflow.com/questions/66146088/docker-gets-error-failed-to-compute-cache-key-not-found-runs-fine-in-visual)
+- [TypeError [ERR_INVALID_URL]: Invalid URL using Next-auth only in Production](https://stackoverflow.com/questions/74784953/typeerror-err-invalid-url-invalid-url-using-next-auth-only-in-production)
+- [PNPM docs: Using Corepack](https://pnpm.io/installation#using-corepack)
+- [How to pnpm and Next.js in multi-stage docker file?](https://stackoverflow.com/questions/68650325/how-to-pnpm-and-next-js-in-multi-stage-docker-file)
 - []()
 - []()
 
 </details>
+
+
+
