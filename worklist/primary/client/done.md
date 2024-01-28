@@ -244,6 +244,12 @@
 - [Nextjs docs: useRouter](https://nextjs.org/docs/app/api-reference/functions/use-router)
 - [javascript - encodeUriComponent with exclamation mark?](https://stackoverflow.com/questions/18835737/javascript-encodeuricomponent-with-exclamation-mark)
 - [MDN docs: encodeURIComponent()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
+- [Nextjs docs: Next.js 14: Next.js Compiler: Turbocharged](https://nextjs.org/blog/next-14#nextjs-compiler-turbocharged)
+- [The user aborted a request in Next.js 14+](https://stackoverflow.com/questions/77654724/the-user-aborted-a-request-in-next-js-14)
+- [The user aborted a request - ReactJS](https://stackoverflow.com/questions/72219330/the-user-aborted-a-request-reactjs)
+- []()
+- []()
+- []()
 - []()
 - []()
 
