@@ -278,11 +278,19 @@
 <summary>Jan, 2024</summary>
 
 - [PNPM docs: --prod options](https://pnpm.io/cli/install#--prod--p)
-- []()
+- [Do I need to use the "import type" feature of TypeScript 3.8 if all of my imports are from my own file?](https://stackoverflow.com/questions/61412000/do-i-need-to-use-the-import-type-feature-of-typescript-3-8-if-all-of-my-import)
+- [An index signature parameter type cannot be a union type. Consider using a mapped object type instead](https://stackoverflow.com/questions/54438012/an-index-signature-parameter-type-cannot-be-a-union-type-consider-using-a-mappe)
+
+</details>
+
+<details>
+<summary>Feb, 2024</summary>
+
+- [In typescript, how to define type of async function](https://stackoverflow.com/questions/38744159/in-typescript-how-to-define-type-of-async-function)
+- [[TypeScript] 유틸리티 타입 (Pick, Omit, Partial, Record 등)](https://80000coding.oopy.io/edb8d09e-7ef9-4de2-9cf3-3b2d61d0c3e7)
 - []()
 - []()
 - []()
 - []()
 
 </details>
-

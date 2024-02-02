@@ -366,8 +366,16 @@
 - [MySQL Error: #1241 - Operand should contain 1 column(s)](https://stackoverflow.com/questions/58909002/mysql-error-1241-operand-should-contain-1-columns)
 - [MySQL docs: 11.3.4 The BLOB and TEXT Types](https://dev.mysql.com/doc/refman/8.3/en/blob.html)
 - [How to save the users data while signing in nextjs using nex-auth?](https://stackoverflow.com/questions/74537938/how-to-save-the-users-data-while-signing-in-nextjs-using-nex-auth)
-- []()
-- []()
+- [SQL Server continue identity count after truncating table](https://stackoverflow.com/questions/17408545/sql-server-continue-identity-count-after-truncating-table)
+- [Insert after truncate start from 1; but insert after delete resumes from previous value](https://stackoverflow.com/questions/42389511/insert-after-truncate-start-from-1-but-insert-after-delete-resumes-from-previou)
+- [How to test the type of a thrown exception in Jest](https://stackoverflow.com/questions/46042613/how-to-test-the-type-of-a-thrown-exception-in-jest)
+
+</details>
+
+<details>
+<summary>Feb, 2024</summary>
+
+- [Underated database trick #database #sql #mysql #webdevelopment #programming #coding](https://youtube.com/shorts/B7pyFEK5-BM?si=YCVyUOkNdi4KjEaA)
 - []()
 - []()
 - []()
