@@ -376,6 +376,11 @@
 <summary>Feb, 2024</summary>
 
 - [Underated database trick #database #sql #mysql #webdevelopment #programming #coding](https://youtube.com/shorts/B7pyFEK5-BM?si=YCVyUOkNdi4KjEaA)
+- [Nextjs - access url params on server side](https://stackoverflow.com/questions/68518694/nextjs-access-url-params-on-server-side)
+- [Is there an App Router version of Next.JS router.query? [duplicate]](https://stackoverflow.com/questions/76791694/is-there-an-app-router-version-of-next-js-router-query)
+- [W3Schools: SQL ALTER TABLE Statement](https://www.w3schools.com/sql/sql_alter.asp)
+- [Denormalizing DB for Justin Bieber #database #sql #webdevelopment](https://youtube.com/shorts/OW85ZAaQBSE?si=6gOar0Y7T0YMH_e7)
+- [App Deployment Essential Techniques #webdevelopment #database #cloudcomputing](https://youtube.com/shorts/P-ZFK5VU-hk?si=n7DrehMCwDHWLYiF)
 - []()
 - []()
 - []()
