@@ -257,9 +257,18 @@
 - [How to pnpm and Next.js in multi-stage docker file?](https://stackoverflow.com/questions/68650325/how-to-pnpm-and-next-js-in-multi-stage-docker-file)
 - [Why are docker volumes not created?](https://stackoverflow.com/questions/73645969/why-are-docker-volumes-not-created)
 - [Railway docs: Build from a Dockerfile](https://docs.railway.app/guides/dockerfiles)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>February, 2024</summary>
+
+- [What is AWS EC2 Autoscaling? #shorts](https://youtube.com/shorts/H-QtPVjbk1M?si=_Im2Kswx3eBCoNUL)
+- [AWS Fargate #shorts](https://youtube.com/shorts/U4s04xl7rU0?si=wXKuCQP1YMMmNTqQ)
+- [Blue-Green Deployment(블루 그린 배포)란?](https://www.redhat.com/ko/topics/devops/what-is-blue-green-deployment)
+- [Docker vs Kubernetes vs Docker Swarm | Comparison in 5 mins](https://youtu.be/9_s3h_GVzZc?si=TtflKA5ybFicnZAk)
+- [Railway docs: Build from a Dockerfile](https://docs.railway.app/guides/dockerfiles)
+- [그래서 웹서비스 하나 만들었는데 배포는 어떻게함? (AWS)](https://youtu.be/cOUhREAWJNw?si=2TzwDQWdkQbBVCiS)
 - []()
 - []()
 - []()
@@ -267,6 +276,3 @@
 - []()
 
 </details>
-
-
-

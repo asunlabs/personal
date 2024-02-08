@@ -247,6 +247,19 @@
 - [Nextjs docs: Next.js 14: Next.js Compiler: Turbocharged](https://nextjs.org/blog/next-14#nextjs-compiler-turbocharged)
 - [The user aborted a request in Next.js 14+](https://stackoverflow.com/questions/77654724/the-user-aborted-a-request-in-next-js-14)
 - [The user aborted a request - ReactJS](https://stackoverflow.com/questions/72219330/the-user-aborted-a-request-reactjs)
+
+</details>
+
+
+<details>
+<summary>Feb, 2024</summary>
+
+- [What do the chars %7D mean in an url query?](https://stackoverflow.com/questions/22510329/what-do-the-chars-7d-mean-in-an-url-query)
+- [why i am getting %7D at the end of url by creating a link with named routes](https://laracasts.com/discuss/channels/laravel/why-i-am-getting-7d-at-the-end-of-url-by-creating-a-link-with-named-routes)
+- [Fireship: Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo?si=8pOYGHZJwYW7F1II)
+- [What is Mock Service Worker (MSW)?](https://youtu.be/HcQCqboatZk?si=WPvAfS-pak2VG4pg)
+- [[Android] ANR 의 개념과 발생조건](https://velog.io/@haero_kim/Android-ANR-%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B0%9C%EC%83%9D%EC%A1%B0%EA%B1%B4)
+- [Nextjs docs: usePathname](https://nextjs.org/docs/app/api-reference/functions/use-pathname)
 - []()
 - []()
 - []()
@@ -254,3 +267,4 @@
 - []()
 
 </details>
+

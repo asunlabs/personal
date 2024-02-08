@@ -288,6 +288,13 @@
 
 - [In typescript, how to define type of async function](https://stackoverflow.com/questions/38744159/in-typescript-how-to-define-type-of-async-function)
 - [[TypeScript] 유틸리티 타입 (Pick, Omit, Partial, Record 등)](https://80000coding.oopy.io/edb8d09e-7ef9-4de2-9cf3-3b2d61d0c3e7)
+- [Builder Design Pattern in TypeScript](https://youtu.be/ziQqmvfg5XE?si=wjxNVz6qi4y3I4Sq)
+- [MDN docs: decodeURIComponent()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent)
+- [Get Base URL From URL String in JavaScript (Origin) 💡 #javascript #javascriptlearning #webdev](https://youtube.com/shorts/C-82XlcE1cQ?si=fyEJb1I7NYdgAxYG)
+- [Builder Design Pattern in TypeScript](https://youtu.be/ziQqmvfg5XE?si=WSJtJimY8r8ooFis)
+- [Why Is the Type of Error Any/Unknown in JavaScript/TypeScript #webdevelopment #javascript](https://youtube.com/shorts/ktTDq21TptE?si=1A6ckEQTJXRqsiJb)
+- []()
+- []()
 - []()
 - []()
 - []()

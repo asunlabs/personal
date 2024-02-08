@@ -133,6 +133,15 @@
 - [Github actions: Got error of Resource not accessible by integration where re-creating the same name repo #60820](https://github.com/orgs/community/discussions/60820)
 - [Github docs: Supported secrets](https://docs.github.com/en/code-security/secret-scanning/secret-scanning-patterns#supported-secrets)
 - [Atlassian docs: git rebase](https://www.atlassian.com/ko/git/tutorials/rewriting-history/git-rebase)
+
+</details>
+
+<details>
+<summary>February, 2024</summary>
+
+- [[Git] autoSetupRemote 설정하기.](https://velog.io/@bang9dev/Git-autoSetupRemote-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- []()
+- []()
 - []()
 - []()
 - []()
