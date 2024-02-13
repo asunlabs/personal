@@ -140,9 +140,9 @@
 <summary>February, 2024</summary>
 
 - [[Git] autoSetupRemote 설정하기.](https://velog.io/@bang9dev/Git-autoSetupRemote-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- []()
-- []()
-- []()
+- [Linked reference to a Github milestone in a tag or commit message](https://stackoverflow.com/questions/31695624/linked-reference-to-a-github-milestone-in-a-tag-or-commit-message)
+- [Link to a GitHub milestone by its name](https://stackoverflow.com/questions/56748519/link-to-a-github-milestone-by-its-name)
+- [Associating milestones with issues and pull requests](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/associating-milestones-with-issues-and-pull-requests)
 - []()
 - []()
 
