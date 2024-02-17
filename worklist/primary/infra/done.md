@@ -280,6 +280,16 @@
 - [S3.putObject only accepts streams that it can determine the length of #2961](https://github.com/aws/aws-sdk-js/issues/2961)
 - [AWS S3: Bucket cannot have ACLs set with ObjectOwnership's BucketOwnerEnforced setting)](https://stackoverflow.com/questions/76097031/aws-s3-bucket-cannot-have-acls-set-with-objectownerships-bucketownerenforced-s)
 - [s3: breaking change, cannot create bucket anymore, InvalidBucketAclWithObjectOwn #25288](https://github.com/aws/aws-cdk/issues/25288)
+- [사전 공지: Amazon S3는 2023년 4월부터 모든 새 버킷에 대해 자동으로 S3 퍼블릭 액세스를 차단하고 액세스 제어 목록을 비활성화합니다.](https://aws.amazon.com/ko/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
+- [How to Get Signed S3 Url in AWS-SDK JS Version 3?](https://stackoverflow.com/questions/62613331/how-to-get-signed-s3-url-in-aws-sdk-js-version-3)
+- [AWS SDK를 사용하여 Amazon S3에 대해 미리 서명된 URL 생성](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/example_s3_Scenario_PresignedUrl_section.html)
+- [Share Sensitive Files Using Pre-signed URL](https://www.cloudthat.com/resources/blog/share-sensitive-files-using-presigned-url)
+- [AWS docs: IAM 사용자의 액세스 키 관리](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_credentials_access-keys.html)
+- [AWS Access Key 발급받고 사용하기](https://lannstark.tistory.com/66)
+- [@aws-sdk/client-s3 new SDK version v3 - Region is missing error](https://stackoverflow.com/questions/77057705/aws-sdk-client-s3-new-sdk-version-v3-region-is-missing-error)
+- [S3.putObject only accepts streams that it can determine the length of #2961](https://github.com/aws/aws-sdk-js/issues/2961)
+- [AWS S3: Bucket cannot have ACLs set with ObjectOwnership's BucketOwnerEnforced setting)](https://stackoverflow.com/questions/76097031/aws-s3-bucket-cannot-have-acls-set-with-objectownerships-bucketownerenforced-s)
+- []()
 - []()
 
 </details>
