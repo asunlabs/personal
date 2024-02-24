@@ -17,6 +17,18 @@ Collect shits from Internet.
 - [미국회사 기습 해고 현장 #영어공부 #영어회화](https://youtube.com/shorts/QGddUFvzbDU?si=sHQ8iKTMztJ1jNjG)
 - [압구정 클라스에 삑사리난 장사의여신](https://youtube.com/shorts/N5suvufpkdY?si=5EssSwvtGSIxCuYZ)
 - [Trump Is A Racist?](https://youtube.com/shorts/oh73-mdpPFk?si=uH6rm0lFvgaRFQIx)
+- [부자가 못 되는 사람들의 공통점 #shorts](https://youtube.com/shorts/tZpyXQL9rVM?si=GXE74Pu4r2mXlgtc)
+- [돌직구 조언을 하는 이유 #가상화폐 #비트코인 #shorts](https://youtube.com/shorts/DcNpOjzGBYI?si=FCmESRtQ5SKj3Nos)
+- [진짜 부자들이 가장 많이 하는 말](https://youtube.com/shorts/llj0oOGFYKo?si=xuzwhOhLWh-bEtk7)
+- [돈을 다룰 때 나만의 확고한 기준이 필요한 이유](https://youtube.com/shorts/9WLle5ZaD-0?si=e60LWzHojtHaZ8iq)
+- [돈의 양면성과 철학을 우리 청년들에게 전해 줄 수 있다면](https://youtube.com/shorts/fx2VuEbAURc?si=XtZiwzcAqkIuH8t4)
+- [Don't Be Loyal To A Company](https://youtube.com/shorts/RgEewJM771w?si=Nsc-Pk6Q_M27MYgL)
+- [That cat said act right. They feed us 🤭🤭](https://youtube.com/shorts/WFKPg-afZTM?si=AvsGz3-EtTBECpzY)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ## cute
@@ -30,6 +42,9 @@ Collect shits from Internet.
 - [self made animation: ある日、孤児を拾った #アニメ作ってみた](https://youtube.com/shorts/J1l7JCEP1tQ?si=FtwpMwi2xUDm-dLY)
 - [self made animation: 狐の嫁入り #アニメ作ってみた](https://youtube.com/shorts/zPq8VxHTa98?si=dZPk--O90taEhI_x)
 - [How Humans Domesticated Dogs](https://youtube.com/shorts/jQb751yCYqE?si=7wHN5bwOW8l_a3xq)
+- [귀여운 프리렌이 귀여운 영상 #애니소개](https://youtube.com/shorts/_TnpOYlSOOE?si=STQ11BGa2vS2TwtF)
+- []()
+- []()
 - []()
 - []()
 - []()
@@ -50,6 +65,14 @@ Collect shits from Internet.
 - [홍준표 "리콜이 안 돼요" #shorts](https://youtube.com/shorts/c2VMgEsrvk4?si=bqPOm5ted3C_Qldb)
 - [전한길: 앞만 보고 달려가세요](https://youtube.com/shorts/-UpQ6QK1LjQ?si=UlF2mXHsVKC8PbHt)
 - [박재범이 삶을 대하는 자세 #동기부여 #박재범](https://youtube.com/shorts/IfmWC2ZXYL8?si=9irQERF-RRefsibW)
+- [의지력은 소모품이야...리필 좀 해...! / 메가스터디 영어 조정식쌤](https://youtu.be/gl_HMPobKTk?si=8UzD-3bH4UoPMale)
+- [Don't reinvent the wheel](https://youtube.com/shorts/xzRiiXlgAWM?si=QGkYNxOOjjDUWmwG)
+- [Kaitlin Bennet Pulls Uno Reverse Card On Woke Liberal](https://youtube.com/shorts/577JsXoOTlo?si=bM1PtobFgxGX95QX)
+- [절친 노태건에게 도와달라고 애원하는 전두광 《서울의 봄》](https://youtube.com/shorts/ICF7pT575FY?si=HAtOrRRSo73PtKlU)
+- [대한민국 군부 일진 하나회 《서울의 봄》](https://youtube.com/shorts/jD4ieltU_7g?si=dNCKQLciifRpmNgZ)
+- [이태신을 막기 위해 공수부대 투입하는 전두광 《서울의 봄》](https://youtube.com/shorts/JEoRhOzgrVg?si=gJrCCqmC9X0foDql)
+- [4TH Dog Gangster #dogs #dogsports #flyball](https://youtube.com/shorts/JocXA7UW0wc?si=TQgJPyVUEkFthWZI)
+- [미국 재벌이자 전 대통령인 트럼프가 어린 자식을 교육하는 방법](https://youtube.com/shorts/WiqRfOKe27c?si=c6hARh64iXcc6DOf)
 - []()
 - []()
 - []()
@@ -60,6 +83,9 @@ Collect shits from Internet.
 ## refresh
 
 - [법륜스님: 삶에는 이유가 없다](https://youtube.com/shorts/RhoP9RxgdNw?si=T1gv0AZp8_uufzOV)
+- [20대 공무원 남자 제 월급으론 미래가 없습니다 [상남자들]](https://youtu.be/yV0klwAHObM?si=EcR2sJZp2Tgdueum)
+- []()
+- []()
 - []()
 - []()
 - []()
@@ -68,6 +94,11 @@ Collect shits from Internet.
 ## cool girls
 
 - [The Sweetest Girl You'll Ever See @cut](https://youtube.com/shorts/fd0xgIvkC0w?si=yLB6D4tPWzyZS1-R)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## watch later
 
@@ -75,5 +106,8 @@ Collect shits from Internet.
 - [개꿀잼 순정만화 추천 2가지#shorts](https://youtube.com/shorts/HVFo5TCfVRE?si=QQzQzq7-Fbv2nu_b)
 - [미친 작화력을 보여주는 만화 추천 2가지 #shorts](https://youtube.com/shorts/89T8n_OSKuo?si=nRdt5_RUzVfteWDn)
 - [사랑에 빠진 죽음의 삶](https://youtube.com/shorts/hUGHozOaExU?si=rSVY_Nn3b8ZbZFtM)
+- []()
+- []()
+- []()
 - []()
 - []()
