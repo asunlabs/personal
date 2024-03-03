@@ -290,7 +290,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Ljay Currie - Beat Remake (Prod. ZeeBeer)](https://youtu.be/Mx1gCIefX9w?si=uRcoM9sPy3aI5cMH)
 1. [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://youtu.be/IvUU8joBb1Q)
 1. [TOOTHLESS MEME Polymer Clay lizard dance #art #polymerclay](https://youtube.com/shorts/40otyta9NUI?si=x2pSGrwE9Kron4vA)
-1. []()
+1. [Shawan Wasabi - Marble Soda](https://youtu.be/qAeybdD5UoQ?si=0eWEKc-LOXYhiaEu)
 1. []()
 1. []()
 1. []()

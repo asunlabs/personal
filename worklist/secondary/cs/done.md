@@ -110,8 +110,8 @@
 
 - [How to make Visual Studio code faster (3x faster) - [2024]](https://youtu.be/ORc6bMNz3KU?si=C3L7Efha9HtYIB3R)
 - [Microsoft docs: View and edit local storage](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/storage/localstorage)
-- []()
-- []()
+- [Using the Domain Name System To Store Arbitrary String Attribute](https://datatracker.ietf.org/doc/html/rfc1464)
+- [Wikipedia: Codec](https://en.wikipedia.org/wiki/Codec)
 - []()
 - []()
 - []()

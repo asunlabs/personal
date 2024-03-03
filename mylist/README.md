@@ -2,26 +2,6 @@
 
 Collect shits from Internet.
 
-## cute
-
-- [[스파패] 2쿨 9화 - 귀여운 아냐 모음](https://youtu.be/_d42Com-foQ?si=Uv9awaSJAneo3w9e)
-- [mom and dad started a new diet, but dad has his own idea of dieting](https://youtube.com/shorts/JhQVn_fgs3Q?si=CqFGwfjdPgzMqiCi)
-- [스파패 - 잘생겼다고 막 들이대면 안되는 이유](https://youtube.com/shorts/MSwm0A-g-1c?si=Lmve9u5qb3zgG7FD)
-- [스파패 - 멍청하지만 예의는 바른 소녀](https://youtube.com/shorts/OO4Mkb9PKrI?si=-1HxcBuGGnXNu0J1)
-- [질투의 본드!_스파이 패밀리 Part 2_#Shorts [Aniplus]](https://youtube.com/shorts/kO9fhSrZbFw?si=nUxwmUGOQMl7Theh)
-- [self made animation: ちょっと掃除してくる　#アニメ作ってみた](https://youtube.com/shorts/rPRV0CIbitQ?si=w2cyMbHKwUCjqJCh)
-- [self made animation: ある日、孤児を拾った #アニメ作ってみた](https://youtube.com/shorts/J1l7JCEP1tQ?si=FtwpMwi2xUDm-dLY)
-- [self made animation: 狐の嫁入り #アニメ作ってみた](https://youtube.com/shorts/zPq8VxHTa98?si=dZPk--O90taEhI_x)
-- [How Humans Domesticated Dogs](https://youtube.com/shorts/jQb751yCYqE?si=7wHN5bwOW8l_a3xq)
-- [귀여운 프리렌이 귀여운 영상 #애니소개](https://youtube.com/shorts/_TnpOYlSOOE?si=STQ11BGa2vS2TwtF)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
 ## inspiration
 
 - [정신이 번쩍드는 현우진쌤 조언](https://youtube.com/shorts/MJ2hHgqSTMs?si=71kosPnrPvxYSnJM)
@@ -59,10 +39,6 @@ Collect shits from Internet.
 
 ## watch later
 
-- [타카기양 성인버전..? 잔잔한 일상 힐링물 추천#shorts](https://youtube.com/shorts/2xb53vTpqDA?si=inDIF0nA7me9VdA3)
-- [개꿀잼 순정만화 추천 2가지#shorts](https://youtube.com/shorts/HVFo5TCfVRE?si=QQzQzq7-Fbv2nu_b)
-- [미친 작화력을 보여주는 만화 추천 2가지 #shorts](https://youtube.com/shorts/89T8n_OSKuo?si=nRdt5_RUzVfteWDn)
-- [사랑에 빠진 죽음의 삶](https://youtube.com/shorts/hUGHozOaExU?si=rSVY_Nn3b8ZbZFtM)
 - []()
 - []()
 - []()

@@ -1,0 +1,1 @@
+- [🇩🇪독일직장인 한달 실제 생활비를 공개합니다💶 #독일취업 #해외취업 #생활비](https://youtu.be/UAeKcq6dCWk?si=bXYALcwd7h7RspoW)

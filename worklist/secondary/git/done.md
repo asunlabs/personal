@@ -143,6 +143,13 @@
 - [Linked reference to a Github milestone in a tag or commit message](https://stackoverflow.com/questions/31695624/linked-reference-to-a-github-milestone-in-a-tag-or-commit-message)
 - [Link to a GitHub milestone by its name](https://stackoverflow.com/questions/56748519/link-to-a-github-milestone-by-its-name)
 - [Associating milestones with issues and pull requests](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/associating-milestones-with-issues-and-pull-requests)
+- [Change the default terminal in Visual Studio Code](https://stackoverflow.com/questions/44435697/change-the-default-terminal-in-visual-studio-code)
+- [Github docs: GitHub Copilot 시작](https://docs.github.com/ko/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vscode)
+- ["No such file or directory": problem with gitbash in Windows 10 #2](https://github.com/fabiospampinato/vscode-open-in-terminal/issues/2)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 

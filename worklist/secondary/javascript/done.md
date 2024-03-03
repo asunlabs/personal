@@ -302,6 +302,19 @@
 - [Argument of type 'ReadableStream<any>' is not assignable to parameter of type 'ReadableStream'](https://stackoverflow.com/questions/63630114/argument-of-type-readablestreamany-is-not-assignable-to-parameter-of-type-r)
 - [github: nestjs: Error [ERR_REQUIRE_ESM]: require of ES Module (Graphql-Upload) #11046](https://github.com/nestjs/nest/issues/11046)
 - [MDN docs: Streams API](https://developer.mozilla.org/ko/docs/Web/API/Streams_API#concepts_and_usage)
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [Conversion of buffer data to blob in NodeJS](https://stackoverflow.com/questions/61731218/conversion-of-buffer-data-to-blob-in-nodejs)
+- [CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field](https://toss.tech/article/commonjs-esm-exports-field)
+- [Deno docs: package.json compatibility](https://docs.deno.com/runtime/manual/node/package_json)
+- [TS1479 Unable to import types from ESM package when moduleResolution is nodenext #54523](https://github.com/microsoft/TypeScript/issues/54523)
+- [ESM 모듈 불러올 때 TS2307, TS1479 해결법](https://www.zerocho.com/category/TypeScript/post/6500178bc8629d716bf282c6)
+- [The Mechanics of Adding a Project To Your Nx Workspace](https://youtube.com/shorts/UFyYBqQ4CuU?si=vP4vou2jx6QLNE9J)
+- []()
 - []()
 - []()
 - []()
