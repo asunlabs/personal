@@ -2,35 +2,6 @@
 
 Collect shits from Internet.
 
-## business
-
-- [회사 때려치고 창업하면 겪는 현실](https://youtube.com/shorts/wAffHtPJujw?si=9xcWdddIuZHh_3_f)
-- [마인드 자체가 다른 장사의 신 #shorts](https://youtube.com/shorts/X5gbjqCJ-jE?si=iFcks6ietgLFSirl)
-- [역지사지 솔루션 #장사의신 #동기부여 #솔루션](https://youtube.com/shorts/m-GCUb5KNEk?si=6s-JiWRBAgHq1OON)
-- [촬영 끝나고 제대로 잔소리 하는 이원일](https://youtu.be/dLnSpxSPKxM?si=yw3E64AmtESmje5N)
-- [단골 고객 관리가 중요한 이유](https://youtube.com/shorts/6b4IHbaJzxA?si=0yohn5V7NvG0f0uz)
-- [#shorts 편의점 매출 4천이면 순수익이 얼마일까? (feat.편의점5년차 사장님)](https://youtube.com/shorts/atGVFi9pFWc?si=ZVBj2PKoQpx83Uh3)
-- [일 잘하는 사람들의 공통적인 특징 - 이연](https://youtube.com/shorts/8HpBNwyg_hY?si=YE8PrB8FT8FvftzI)
-- [사업 초기에 너무 논리적으로 생각하지 마세요](https://youtube.com/shorts/L0iAtqOHoWs?si=Nhb3fX-seq0cSQbv)
-- [요즘 부자들의 기본 개념](https://youtube.com/shorts/ML7dWXryBPA?si=Cgv3Rm102blxOZdw)
-- [트위치 1조에 판 사업가의 인생조언](https://youtube.com/shorts/EMsP3BWGSvw?si=MzEjRtLO8FcNPQpK)
-- [미국회사 기습 해고 현장 #영어공부 #영어회화](https://youtube.com/shorts/QGddUFvzbDU?si=sHQ8iKTMztJ1jNjG)
-- [압구정 클라스에 삑사리난 장사의여신](https://youtube.com/shorts/N5suvufpkdY?si=5EssSwvtGSIxCuYZ)
-- [Trump Is A Racist?](https://youtube.com/shorts/oh73-mdpPFk?si=uH6rm0lFvgaRFQIx)
-- [부자가 못 되는 사람들의 공통점 #shorts](https://youtube.com/shorts/tZpyXQL9rVM?si=GXE74Pu4r2mXlgtc)
-- [돌직구 조언을 하는 이유 #가상화폐 #비트코인 #shorts](https://youtube.com/shorts/DcNpOjzGBYI?si=FCmESRtQ5SKj3Nos)
-- [진짜 부자들이 가장 많이 하는 말](https://youtube.com/shorts/llj0oOGFYKo?si=xuzwhOhLWh-bEtk7)
-- [돈을 다룰 때 나만의 확고한 기준이 필요한 이유](https://youtube.com/shorts/9WLle5ZaD-0?si=e60LWzHojtHaZ8iq)
-- [돈의 양면성과 철학을 우리 청년들에게 전해 줄 수 있다면](https://youtube.com/shorts/fx2VuEbAURc?si=XtZiwzcAqkIuH8t4)
-- [Don't Be Loyal To A Company](https://youtube.com/shorts/RgEewJM771w?si=Nsc-Pk6Q_M27MYgL)
-- [That cat said act right. They feed us 🤭🤭](https://youtube.com/shorts/WFKPg-afZTM?si=AvsGz3-EtTBECpzY)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
 ## cute
 
 - [[스파패] 2쿨 9화 - 귀여운 아냐 모음](https://youtu.be/_d42Com-foQ?si=Uv9awaSJAneo3w9e)
@@ -73,28 +44,14 @@ Collect shits from Internet.
 - [이태신을 막기 위해 공수부대 투입하는 전두광 《서울의 봄》](https://youtube.com/shorts/JEoRhOzgrVg?si=gJrCCqmC9X0foDql)
 - [4TH Dog Gangster #dogs #dogsports #flyball](https://youtube.com/shorts/JocXA7UW0wc?si=TQgJPyVUEkFthWZI)
 - [미국 재벌이자 전 대통령인 트럼프가 어린 자식을 교육하는 방법](https://youtube.com/shorts/WiqRfOKe27c?si=c6hARh64iXcc6DOf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-## refresh
-
+- [남이 하는 말에 흔들리지 마 #유재석 #핑계고 #자기계발 #동기부여 #마인드셋 #인생조언 #인생명언 #성공비결 #성공비법 #명언 #성공명언 #긍정마인드 #shorts](https://youtube.com/shorts/ZMeOawPS278?si=IdczZpdaYBkPS3tt)
 - [법륜스님: 삶에는 이유가 없다](https://youtube.com/shorts/RhoP9RxgdNw?si=T1gv0AZp8_uufzOV)
 - [20대 공무원 남자 제 월급으론 미래가 없습니다 [상남자들]](https://youtu.be/yV0klwAHObM?si=EcR2sJZp2Tgdueum)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-## cool girls
-
+- [성공으로 가는 진짜 단계 | 루크 벨말 (Luke Belmar)](https://youtube.com/shorts/txhqj7uE4ls?si=RYiExP1uiC42GdOI)
+- [장동민이 아내를 이해하게 된 썰](https://youtube.com/shorts/WGIbi_aJsR8?si=L-6QRXEaSEBhVH3-)
+- [깜깜한 미래 신혜선 배우 극복방법 #신혜선 #딩고스토리 #자기계발 #동기부여 #마인드셋 #성공비결 #인생조언 #인생명언 #성공명언 #오늘도슘채움](https://youtube.com/shorts/DBoMF5PdMN4?si=w-4XMf4KxS4RdvB0)
 - [The Sweetest Girl You'll Ever See @cut](https://youtube.com/shorts/fd0xgIvkC0w?si=yLB6D4tPWzyZS1-R)
-- []()
+- [부모님과 충돌 있을 때 #shorts](https://youtube.com/shorts/6BabJF3EI7A?si=Woarv2TGd7Iq-E6y)
 - []()
 - []()
 - []()
