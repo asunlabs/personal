@@ -426,7 +426,21 @@
 - [[Spring] 해시태그 검색 데이터베이스 설계 및 쿼리 구성](https://bmangrok.tistory.com/entry/Mybatis-%ED%95%B4%EC%89%AC%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EC%BF%BC%EB%A6%AC-%EC%A7%9C%EA%B8%B0)
 - [해시태그 테이블 설계: 안녕하세요. DB 설계 관련 질문드립니다](http://www.gurubee.net/article/86444)
 - [[개발일기] NestJs + 모노레포(monorepo) + trunk-based development](https://www.youtube.com/watch?v=CGHu8qxWWqk)
-- []()
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [[MYSQL] 📚 LIMIT / OFFSET 쿼리](https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-LIMIT-OFFSET)
+- [Pagination: Previous and Next using PHP](https://stackoverflow.com/questions/26063666/pagination-previous-and-next-using-php)
+- [[cozy 개발일지] 프로젝트 테이블 설계](https://didrlgus.github.io/project/cozy/cozy-02/)
+- [포인트(Point) 테이블 설계](https://amazoneberea.tistory.com/38)
+- [OKKY: 포인트 관련 설계할 때요.](https://okky.kr/questions/384947)
+- [씨아이보드 매뉴얼: point table](https://ciboard.co.kr/manual/tables/point)
+- [MySQL docs: 15.1.36 RENAME TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/rename-table.html)
+- [MySQL docs: 15.7.7.22 SHOW INDEX Statement](https://dev.mysql.com/doc/refman/8.0/en/show-index.html)
+- [How do I rename an Index in MySQL](https://stackoverflow.com/questions/1463363/how-do-i-rename-an-index-in-mysql)
 - []()
 - []()
 - []()
