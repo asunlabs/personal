@@ -12,7 +12,7 @@
 - [개꿀잼 순정만화 추천 2가지#shorts](https://youtube.com/shorts/HVFo5TCfVRE?si=QQzQzq7-Fbv2nu_b)
 - [미친 작화력을 보여주는 만화 추천 2가지 #shorts](https://youtube.com/shorts/89T8n_OSKuo?si=nRdt5_RUzVfteWDn)
 - [사랑에 빠진 죽음의 삶](https://youtube.com/shorts/hUGHozOaExU?si=rSVY_Nn3b8ZbZFtM)
-- []()
+- [충신을 풀어주는 가짜 이병헌 | 광해, 왕이 된 남자](https://youtube.com/shorts/Xmi5eZ3-0YQ?si=CiSMIeO6rhu1--V6)
 - []()
 - []()
 - []()

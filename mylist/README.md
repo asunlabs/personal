@@ -32,13 +32,10 @@ Collect shits from Internet.
 - [깜깜한 미래 신혜선 배우 극복방법 #신혜선 #딩고스토리 #자기계발 #동기부여 #마인드셋 #성공비결 #인생조언 #인생명언 #성공명언 #오늘도슘채움](https://youtube.com/shorts/DBoMF5PdMN4?si=w-4XMf4KxS4RdvB0)
 - [The Sweetest Girl You'll Ever See @cut](https://youtube.com/shorts/fd0xgIvkC0w?si=yLB6D4tPWzyZS1-R)
 - [부모님과 충돌 있을 때 #shorts](https://youtube.com/shorts/6BabJF3EI7A?si=Woarv2TGd7Iq-E6y)
+- [지들이 뭔데 나를 평가해요? 안영미](https://youtube.com/shorts/y2tOIHAjwyY?si=mu_REkWxYVXzUDR5)
+- [기분이 나를 장악하게 두지 마세요](https://youtube.com/shorts/R1I78B7r8tI?si=2frk7ymUfjqPYoh-)
+- [저에게 오는 DM은 크게 두 종류 입니다](https://youtube.com/shorts/-VOYow3UilA?si=DMx-ic9Eg_l4v7H6)
 - []()
-- []()
-- []()
-- []()
-
-## watch later
-
 - []()
 - []()
 - []()
