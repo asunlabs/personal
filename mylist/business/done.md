@@ -3,7 +3,6 @@
 - [역지사지 솔루션 #장사의신 #동기부여 #솔루션](https://youtube.com/shorts/m-GCUb5KNEk?si=6s-JiWRBAgHq1OON)
 - [촬영 끝나고 제대로 잔소리 하는 이원일](https://youtu.be/dLnSpxSPKxM?si=yw3E64AmtESmje5N)
 - [단골 고객 관리가 중요한 이유](https://youtube.com/shorts/6b4IHbaJzxA?si=0yohn5V7NvG0f0uz)
-- [#shorts 편의점 매출 4천이면 순수익이 얼마일까? (feat.편의점5년차 사장님)](https://youtube.com/shorts/atGVFi9pFWc?si=ZVBj2PKoQpx83Uh3)
 - [일 잘하는 사람들의 공통적인 특징 - 이연](https://youtube.com/shorts/8HpBNwyg_hY?si=YE8PrB8FT8FvftzI)
 - [사업 초기에 너무 논리적으로 생각하지 마세요](https://youtube.com/shorts/L0iAtqOHoWs?si=Nhb3fX-seq0cSQbv)
 - [요즘 부자들의 기본 개념](https://youtube.com/shorts/ML7dWXryBPA?si=Cgv3Rm102blxOZdw)
