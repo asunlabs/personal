@@ -278,11 +278,19 @@
 - [How to properly redirect to a custom page after successful signIn #7645](https://github.com/nextauthjs/next-auth/issues/7645)
 - [callbackUrl does not redirect upon sigin-in #591](https://github.com/nextauthjs/next-auth/issues/591)
 - [Using Google Analytics with Next.js (through `next/script`)](https://nextjs.org/docs/messages/next-script-for-ga)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [Reddit: What to use SVG or PNG](https://www.reddit.com/r/reactnative/comments/zlkpvt/what_to_use_svg_or_png/)
+- [i'm Trying to make react paypal button that change the billing amount on props change](https://stackoverflow.com/questions/57826646/im-trying-to-make-react-paypal-button-that-change-the-billing-amount-on-props-c)
+- [[NHN FORWARD 22] 거대한 서비스 쪼개서 마이크로 프런트엔드 만들기](https://youtu.be/BWyCH_fv81g?si=hh4Jhr8edZjNurIF)
+- [Problem with Loading Global CSS in Docker APP #14337](https://github.com/vercel/next.js/discussions/14337)
+- [Next 13.4.1 : Images, Js and Css not loading after build. Shows 404 for all #49803](https://github.com/vercel/next.js/discussions/49803)
 - []()
 - []()
 - []()
 
 </details>
-
