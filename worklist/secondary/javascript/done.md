@@ -273,7 +273,6 @@
 
 </details>
 
-
 <details>
 <summary>Jan, 2024</summary>
 
@@ -314,6 +313,17 @@
 - [TS1479 Unable to import types from ESM package when moduleResolution is nodenext #54523](https://github.com/microsoft/TypeScript/issues/54523)
 - [ESM 모듈 불러올 때 TS2307, TS1479 해결법](https://www.zerocho.com/category/TypeScript/post/6500178bc8629d716bf282c6)
 - [The Mechanics of Adding a Project To Your Nx Workspace](https://youtube.com/shorts/UFyYBqQ4CuU?si=vP4vou2jx6QLNE9J)
+- [Why Some Programmers Code Like Yoda](https://youtube.com/shorts/ywIUg-04S4s?si=fZue_PSMjHHk1WbR)
+- [Possible to extend types in Typescript?](https://stackoverflow.com/questions/41385059/possible-to-extend-types-in-typescript)
+- [배열 with 메서드(자바스크립트 이뮤터블 메서드, JavaScript immutable array method "with")](https://youtube.com/shorts/vQfvPLzS6u0?si=akAkZMMriGNLHUpT)
+- [객체를 진짜 "상수"로 만들기(Object.preventExtensions, Object.seal, Object.freeze)](https://youtube.com/shorts/f09krugvPQQ?si=DvBo_BvKbnYxX3tc)
+- [배열을 그룹화해서 객체로 만들자(Object.groupBy)](https://youtube.com/shorts/IfDm0We3nkk?si=giDqY6ffqNmFqgO1)
+- [[NHN FORWARD 22] 거대한 서비스 쪼개서 마이크로 프런트엔드 만들기](https://youtu.be/BWyCH_fv81g?si=DFrVF5uaUXQ9Ujpa)
+- [symbol 도대체 어디에 쓰나요? (자바스크립트 심볼 사용법, JavaScript)](https://youtube.com/shorts/-del5KIEMMI?si=KKC-Povu2wfTGJRX)
+- [How can I convert a Map to a JavaScript object and vice versa?](https://www.30secondsofcode.org/js/s/convert-map-to-object/)
+- [[10분 테코톡] 코난의 자바스크립트 메모리 관리](https://youtu.be/1BoJZqxFYfQ?si=Ji3zH_--HFAnCdc6)
+- [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
+- [왜 기업들은 Yarn Berry를 많이 사용할까? - (1) (feat : npm)](https://html-jc.tistory.com/676)
 - []()
 - []()
 - []()
