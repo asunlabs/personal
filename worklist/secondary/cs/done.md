@@ -102,7 +102,6 @@
 - [혼자 풀스택으로 웹 만들때 db 부터 개발해요 프론트부터 개발해요?](https://www.teamblind.com/kr/post/%ED%98%BC%EC%9E%90-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A7%8C%EB%93%A4%EB%95%8C-db-%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%ED%95%B4%EC%9A%94-%ED%94%84%EB%A1%A0%ED%8A%B8%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%ED%95%B4%EC%9A%94-n5Sm5zq6)
 - [Wikipedia: Site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
 
-
 </details>
 
 <details>
@@ -112,6 +111,17 @@
 - [Microsoft docs: View and edit local storage](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/storage/localstorage)
 - [Using the Domain Name System To Store Arbitrary String Attribute](https://datatracker.ietf.org/doc/html/rfc1464)
 - [Wikipedia: Codec](https://en.wikipedia.org/wiki/Codec)
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [프로세스, 스레드, 멀티태스킹, 멀티스레딩, 멀티프로세싱, 멀티프로그래밍, 이 모든 것을 한 방에 깔끔하게 설명합니다!! 콘텐츠 퀄리티 만족하실 겁니다!](https://youtu.be/QmtYKZC0lMU?si=j-6_UNrQ890_pNCE)
+- [[10분 테코톡] 주디의 Garbage Collector](https://youtu.be/M49_H5FjJ3U?si=1xb8GLmmvDkhNYFC)
+- [개발 환경(dev,stage,qa,production)](https://bcho.tistory.com/759)
+- []()
+- []()
 - []()
 - []()
 - []()
@@ -119,4 +129,3 @@
 - []()
 
 </details>
-

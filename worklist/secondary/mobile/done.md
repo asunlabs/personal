@@ -11,6 +11,14 @@
 - [flutter 프로젝트 안드로이드 apk 파일로 빌드하기](https://gamestory2.tistory.com/215)
 - [flutter build commands](https://thewavelet.tistory.com/126)
 - [Flutter: What is the difference between the apk/release directory and flutter-apk directory under build/app/outputs?](https://stackoverflow.com/questions/62910148/flutter-what-is-the-difference-between-the-apk-release-directory-and-flutter-ap)
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [Dart 프로젝트 만들기 (vscode)](https://velog.io/@flutter_dart/Dart-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-vscode)
+- [Flutter Widgets 101](https://youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd&si=gudxgux0wDkKQV2u)
 - []()
 - []()
 - []()

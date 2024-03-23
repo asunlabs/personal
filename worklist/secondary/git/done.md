@@ -146,6 +146,14 @@
 - [Change the default terminal in Visual Studio Code](https://stackoverflow.com/questions/44435697/change-the-default-terminal-in-visual-studio-code)
 - [Github docs: GitHub Copilot 시작](https://docs.github.com/ko/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vscode)
 - ["No such file or directory": problem with gitbash in Windows 10 #2](https://github.com/fabiospampinato/vscode-open-in-terminal/issues/2)
+
+</details>
+
+<details>
+<summary>March, 2024</summary>
+
+- [모노레포 환경을 더욱 가볍게 - git sparse checkout](https://helloinyong.tistory.com/332)
+- [git stash, apply 활용법](https://kyounghwan01.github.io/blog/etc/git/git-stash/)
 - []()
 - []()
 - []()
